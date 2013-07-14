@@ -1,6 +1,5 @@
-Assume location is in SF unless otherwise specified
-
-# Vessel
+# San Francisco
+## Vessel
 - $20 cover on average
 - $9 for a mixed drink
 - Crowded dance floor near DJ booth
@@ -8,12 +7,12 @@ Assume location is in SF unless otherwise specified
 - Medium sized dance floor
 - Great electronic DJs frequent here
 
-# Mighty
+## Mighty
 - $30 average cover
 - Large dance floor
 - Crowded dance floor and bar
 
-# DNA Lounge (Bootie SF)
+## DNA Lounge (Bootie SF)
 - $20 average coder
 - Crowded main room (large dance floor with dance stage)
 - Crowded side room (large
@@ -21,181 +20,184 @@ Assume location is in SF unless otherwise specified
 - $8 for a mixed drink
 - Consistently great pop / indie / electronic DJs
 
-# Monarch
+## Monarch
 - Still need to visit
 - Hear it is steampunk themed
 
-# 715 Harrison Street
+## 715 Harrison Street
 - Still need to visit
 - Looks very mega club oriented
 - Might be 18+ club
 
-# 1015 Folsom Street
+## 1015 Folsom Street
 - Still need to visit
 
-# Supper Club
+## Supper Club
 - Small dance floor
 - $20 cover
 - Great electronic / pop music
 - Dance floor not too crowded
 
-# Madrone Art Bar
+## Madrone Art Bar
 - Small dance floor
 - Crowded
 - $5 cover
 - Great indie music
 
-# The Knockout
+## The Knockout
 - No cover?
 - Retro music
 - Small dance floor
 - Crowded but feathers out
 
-# Matrix Fillmore
+## Matrix Fillmore
 - Small dance floor
 - Crowded
 - Not a very dance oriented crowd
 - No cover?
 
-# The Independent
+## The Independent
 - Music venue, not a club
 - Large dance floor
 - Dance floor full but not crowded
 
-# The Fillmore
+## The Fillmore
 - Music venue, not a club
 - Large dance floor
 - Dance floor full but not crowded
 
-# Fox Theater
-- Located in Oakland
-- Music venue, not a club
-
-# Bill Graham Civic Auditorium
+## Bill Graham Civic Auditorium
 - Music venue, not a club
 - Huge dance floor
 - Dance floor packed
 
-# The New Parish
-- Located in Oakland
-- Music venue, not a club
-- Medium dance floor
-- Dance floor full
-
-# Rickshaw Stop
+## Rickshaw Stop
 - Music venue, not a club
 - Medium dance floor
 - Dance floor filled but not crowded
 
-# Elbo Room
+## Elbo Room
 - Music venue, not a club
 - Medium dance floor
 - Filled but not crowded
 - No cover for the bar, $10 for shows
 
-# Shattuck down low
+## Warsaw theater
+- Music venue, not a club
+- Did not attend for a show yet
+
+## Cat club
+- 2 medium dance floors
+- Indie / gothic music
+- Not crowded
+- $10 cover
+
+## Butter
+- Tiny dance floor
+- Pop music
+- Crowded
+
+## Temple SF
+- 2 large dance floors
+- Electronic / hip hop / pop music
+- Not crowded
+
+## Harlot
+- Medium dance floor
+- Electronic / pop music
+- Packed
+
+# Oakland
+## Fox Theater
+- Music venue, not a club
+
+## The New Parish
+- Music venue, not a club
+- Medium dance floor
+- Dance floor full
+
+## Fly-over (or something like that)
+- Medium dance floor
+- Hip hop / electronic music
+- Packed
+
+# Berkeley
+## Shattuck down low
 - Located in Berkeley
 - Large dance floor
 - Hip hop / electronic music
 - Not crowded
 - No cover
 
-# Fly-over (or something like that)
-- Located in Oakland
-- Medium dance floor
-- Hip hop / electronic music
-- Packed
-
-# Warsaw theater
-- Music venue, not a club
-- Did not attend for a show yet
-
-# Zen Lounge
+# Mountain View
+## Zen Lounge
 - Medium dance floor
 - Packed
 - Hip hop / electronic music
 - $10 cover
 
-# San Jose Bar and Grill
-- Hip hop / electronic music
-- Filled
-- Medium dance floor
-- No cover
-
-# Tres Gringos
-- Hip hop / pop music
-- Filled
-- Tiny dance floor
-- $5 cover
-
-# The Loft Bar and Bistro
-- Medium dance floor
-- Electronic music
-- Packed
-- No cover
-
-# St. Stephen's Greene
+## St. Stephen's Greene
 - Small dance floor
 - Filled
 - Hip hop / pop music
 - No cover
 
-# Mollie Magee's
+## Mollie Magee's
 - Small dance floor
 - Packed
 - Hip hop / pop music
 - No cover
 
-# Fibbar Magee's
+# Sunnyvale
+## Fibbar Magee's
 - Small dance floor
 - Not crowded
 - Hip hop / pop music
 - No cover
 
-# Pure Lounge
+## Pure Lounge
 - Large dance floor
 - Electronic music
 - Virtually empty
 - No cover
 
-# Rudy's
+# San Jose
+## San Jose Bar and Grill
+- Hip hop / electronic music
+- Filled
 - Medium dance floor
-- Pop / hip hop music
-- Filled but not crowded
+- No cover
+
+## Tres Gringos
+- Hip hop / pop music
+- Filled
+- Tiny dance floor
 - $5 cover
 
-# Rudy's at the patio
+## The Loft Bar and Bistro
 - Medium dance floor
-- Pop / electronic music
+- Electronic music
 - Packed
-- $5 cover
+- No cover
 
-# Cat club
-- 2 medium dance floors
-- Indie / gothic music
-- Not crowded
-- $10 cover
-
-# Blank Club
+## Blank Club
 - $10 cover
 - Medium dance floor
 - Alternative / gothic music
 - Not crowded
 
-# Butter
-- Tiny dance floor
-- Pop music
-- Crowded
-
-# Temple SF
-- 2 large dance floors
-- Electronic / hip hop / pop music
-- Not crowded
-
-# Harlot
+# Palo Alto
+## Rudy's
 - Medium dance floor
-- Electronic / pop music
+- Pop / hip hop music
+- Filled but not crowded
+- $5 cover
+
+## Rudy's at the patio
+- Medium dance floor
+- Pop / electronic music
 - Packed
+- $5 cover
 
 # Salt Lake City
 ## Area 51

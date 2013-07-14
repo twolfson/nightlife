@@ -91,12 +91,14 @@ Assume location is in SF unless otherwise specified
 - Music venue, not a club
 - Medium dance floor
 - Filled but not crowded
+- No cover for the bar, $10 for shows
 
 # Shattuck down low
 - Located in Berkeley
 - Large dance floor
 - Hip hop / electronic music
 - Not crowded
+- No cover
 
 # Fly-over (or something like that)
 - Located in Oakland
@@ -112,49 +114,103 @@ Assume location is in SF unless otherwise specified
 - Medium dance floor
 - Packed
 - Hip hop / electronic music
+- $10 cover
 
 # San Jose Bar and Grill
 - Hip hop / electronic music
 - Filled
 - Medium dance floor
+- No cover
 
 # Tres Gringos
-- Hip hop / electronic music
+- Hip hop / pop music
 - Filled
 - Tiny dance floor
+- $5 cover
 
 # The Loft Bar and Bistro
 - Medium dance floor
 - Electronic music
 - Packed
+- No cover
 
 # St. Stephen's Greene
 - Small dance floor
 - Filled
-- Hip hop / electronic music
+- Hip hop / pop music
+- No cover
 
 # Mollie Magee's
+- Small dance floor
+- Packed
+- Hip hop / pop music
+- No cover
 
 # Fibbar Magee's
+- Small dance floor
+- Not crowded
+- Hip hop / pop music
+- No cover
 
 # Pure Lounge
+- Large dance floor
+- Electronic music
+- Virtually empty
+- No cover
 
 # Rudy's
+- Medium dance floor
+- Pop / hip hop music
+- Filled but not crowded
+- $5 cover
 
 # Rudy's at the patio
+- Medium dance floor
+- Pop / electronic music
+- Packed
+- $5 cover
 
 # Cat club
+- 2 medium dance floors
+- Indie / gothic music
+- Not crowded
+- $10 cover
+
+# Blank Club
+- $10 cover
+- Medium dance floor
+- Alternative / gothic music
+- Not crowded
 
 # Butter
+- Tiny dance floor
+- Pop music
+- Crowded
 
 # Temple SF
+- 2 large dance floors
+- Electronic / hip hop / pop music
+- Not crowded
 
 # Harlot
+- Medium dance floor
+- Electronic / pop music
+- Packed
 
 # Salt Lake City
 ## Area 51
+- 1 medium dance floor with dance stage
+- $10 cover
+- Electronic / gothic / pop music
+- Not crowded
 
 ## The Hotel
+- 2 small dance floors, 1 medium dance floor
+- Electronic (1 small), hip hop / pop (1 small, 1 medium)
+- Crowded (1 medium), not crowded (2 small)
 
 # Tel Aviv
 ## Cat dog
+- Packed
+- Trance / electronic
+- 1 small dance floor

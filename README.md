@@ -123,7 +123,7 @@ Assume location is in SF unless otherwise specified
 - Filled
 - Tiny dance floor
 
-# That loft bar across the street from San Jose Bar and Grill
+# The Loft Bar and Bistro
 - Medium dance floor
 - Electronic music
 - Packed
@@ -150,3 +150,11 @@ Assume location is in SF unless otherwise specified
 # Temple SF
 
 # Harlot
+
+# Salt Lake City
+## Area 51
+
+## The Hotel
+
+# Tel Aviv
+## Cat dog

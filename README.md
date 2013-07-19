@@ -113,6 +113,17 @@
 - Electronic / experimental music
 - Not crowded
 
+## Blondie's Bar and No Grill
+- Small dance floor
+- Pop / hip hop music
+- Crowded
+
+## Bruno's
+- Need to visit
+
+## Bars/clubs in North Beach that I cannot remember names of =(
+- This gist was created too far away from that night
+
 # Oakland
 ## Fox Theater
 - Music venue, not a club
@@ -204,6 +215,18 @@
 - Pop / electronic music
 - Packed
 - $5 cover
+
+# Santa Cruz
+## The Catalyst
+- Visited bar but not music venue
+- Looked like medium dance floor for live music
+
+## Motiv
+- Medium dance floor
+- Electronic or hip hop depending on the night
+- No cover or $5 cover
+- Filled but not crowded
+  - I visited during Finals Week of UCSC
 
 # Salt Lake City
 ## Area 51

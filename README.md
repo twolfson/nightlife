@@ -124,6 +124,26 @@
 ## Bars/clubs in North Beach that I cannot remember names of =(
 - This gist was created too far away from that night
 
+## Monroe SF
+- Small dance floor
+- Packed in some spots, free in others
+- Pop music
+
+## Grand Nightclub
+- Steep cover ($20)
+- Expensive drinks ($10 for vodka/sprite)
+- Expensive coat check ($5)
+- Medium dance floor
+- 2 floors with plenty of room to dance but you won't be "on the dancefloor"
+- Epitome of the quintissential club
+    - Black light LED
+    - Bubble bath spray
+    - Confetti
+    - Large bubble machine
+- Electronic / pop music
+- On/off crowded
+    - Weather balloons
+
 # Oakland
 ## Fox Theater
 - Music venue, not a club

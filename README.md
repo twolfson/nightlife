@@ -292,10 +292,42 @@
 - 1 small dance floor
 
 # Puerto Vallarta, Mexico
+Notes:
+
+- Smoking in bars/clubs is normal acceptable behavior.
+- People in night clubs (discotechs is the local term) will salsa dance next to normal club dancing. Depending on the song, the ratio might favor one over the other.
+- Some places close as late as 6AM (virtually no last call)
+- 12AM or 1AM is a good time to head out
+
 ## Xtine Garden
+- Medium dance floor
+- Crowded bordering packed but dance-able
+- LED lights above
+- Top 40 American and Latin
+- Lots of smoke
+- 100 pesos (~$10) for mixed drink
+
 ## Roo Nightclub (El Roo)
+- Small dance floor
+- Comfortable amount of people
+- Top 40 Latin with some American and electronic
+- Not very much smoke
+- 80 pesos (~$8) for mixed drink
+
 ## Mandala
+- Small dance floor in a large place (lots of tables)
+- Lots of tourists
+- 100 pesos for mixed drink
+- No cover
+
 ## Strana
+- Medium dance floor
+- Crowded bordering packed, you will need to shift around
+- 150 pesos for mixed drink
+- 200 pesos cover
+- Cathedral with colored spotlights. The stage has fire sprays (a la Burning Man)
+- Electronic and Top 40
+
 ## JB
 ## La Vaquita
 ## Roxy

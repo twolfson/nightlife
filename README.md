@@ -1,4 +1,10 @@
 # San Francisco
+Notes:
+
+- Last call is 1:30AM
+- Places are usually empty until 11:00PM (11:30PM is a good target)
+- Weekdays still have a good crowd. Friday/Saturday are the most crowded.
+
 ## Vessel
 - $20 cover on average
 - $9 for a mixed drink
@@ -171,6 +177,12 @@
 - Not crowded
 - No cover
 
+# Notes for South Bay suburbs (Mountain View, Sunnyvale, Palo Alto)
+
+- Last call is 1:30AM
+- Places are usually empty until 11:00PM (11:30PM is a good target)
+- Weekdays are dead for clubs. Friday and Saturday are much better.
+
 # Mountain View
 ## Zen Lounge
 - Medium dance floor
@@ -204,6 +216,11 @@
 - No cover
 
 # San Jose
+Notes:
+
+- Last call is 1:30AM
+- Places are usually empty until 11:00PM (11:30PM is a good target)
+
 ## San Jose Bar and Grill
 - Hip hop / electronic music
 - Filled

@@ -144,6 +144,11 @@
 - On/off crowded
     - Weather balloons
 
+## The Cellar
+- No cover on Mondays
+- Virtually empty on Mondays
+- Small dance floor
+
 # Oakland
 ## Fox Theater
 - Music venue, not a club
@@ -259,6 +264,11 @@
 - 2 small dance floors, 1 medium dance floor
 - Electronic (1 small), hip hop / pop (1 small, 1 medium)
 - Crowded (1 medium), not crowded (2 small)
+
+# Miami
+## Mansion
+## Vagabond
+## The Deuce
 
 # Tel Aviv, Israel
 ## Cat dog

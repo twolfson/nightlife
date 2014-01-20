@@ -1,5 +1,5 @@
 # San Francisco
-Notes:
+**Notes:**
 
 - Last call is 1:30AM
 - Places are usually empty until 11:00PM (11:30PM is a good target)
@@ -216,7 +216,7 @@ Notes:
 - No cover
 
 # San Jose
-Notes:
+**Notes:**
 
 - Last call is 1:30AM
 - Places are usually empty until 11:00PM (11:30PM is a good target)
@@ -309,7 +309,7 @@ Notes:
 - 1 small dance floor
 
 # Puerto Vallarta, Mexico
-Notes:
+**Notes:**
 
 - Smoking in bars/clubs is normal acceptable behavior.
 - People in night clubs (discotechs is the local term) will salsa dance next to normal club dancing. Depending on the song, the ratio might favor one over the other.

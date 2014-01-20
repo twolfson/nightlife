@@ -260,8 +260,17 @@
 - Electronic (1 small), hip hop / pop (1 small, 1 medium)
 - Crowded (1 medium), not crowded (2 small)
 
-# Tel Aviv
+# Tel Aviv, Israel
 ## Cat dog
 - Packed
 - Trance / electronic
 - 1 small dance floor
+
+# Puerto Vallarta, Mexico
+## Xtine Garden
+## Roo Nightclub (El Roo)
+## Mandala
+## Strana
+## JB
+## La Vaquita
+## Roxy

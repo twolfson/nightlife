@@ -27,8 +27,7 @@
 - Consistently great pop / indie / electronic DJs
 
 ## Monarch
-- Still need to visit
-- Hear it is steampunk themed
+TODO: Fill out
 
 ## 715 Harrison Street
 - Still need to visit
@@ -154,6 +153,24 @@
 - No cover on Mondays
 - Virtually empty on Mondays
 - Small dance floor
+
+## Mezzanine
+TODO: Fill out
+
+## Slate
+TODO: Fill out
+
+## Sloane
+TODO: Fill out
+
+## Showdown
+TODO: Fill out
+
+## The Page
+TODO: Fill out
+
+## Dovre club
+TODO: Fill out
 
 # Oakland
 ## Fox Theater

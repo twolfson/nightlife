@@ -38,7 +38,11 @@
 - Might be 18+ club
 
 ## 1015 Folsom Street
-TODO: Document
+- 2 medium dance floors (light on people and crowded but dancable
+- 1 large dance floor (crowded bordering packed)
+- Mostly trance music
+- $25 cover
+- $10 drinks
 
 ## Supper Club
 - Small dance floor

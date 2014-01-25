@@ -27,7 +27,10 @@
 - Consistently great pop / indie / electronic DJs
 
 ## Monarch
-TODO: Fill out
+- No cover for upstairs on weekdays
+- Tiny dance floor upstairs (has people but not packed)
+- Small dance floor downstairs (cover required, crowded not packed)
+- Trance, 80s, and pop but not in the best arrangement
 
 ## 715 Harrison Street
 - Still need to visit
@@ -35,7 +38,7 @@ TODO: Fill out
 - Might be 18+ club
 
 ## 1015 Folsom Street
-- Still need to visit
+TODO: Document
 
 ## Supper Club
 - Small dance floor
@@ -155,22 +158,43 @@ TODO: Fill out
 - Small dance floor
 
 ## Mezzanine
-TODO: Fill out
+- Medium dance floor
+- Crowded with a little room to dance
+- $10 for drink
+- $25 for cover
+- Went to a Daft Punk set (cannot comment on music variety outside of that)
 
 ## Slate
-TODO: Fill out
+- Small dance floor
+- $7 for drink
+- $5 for cover
+- Not crowded but still have people
+- 80s, 90s, and pop
 
 ## Sloane
-TODO: Fill out
+- Small dance floor
+- $10 for drink
+- $20 cover
+- Crowded but not packed
+- Electronic and hip-hop
 
 ## Showdown
-TODO: Fill out
+- No cover
+- $7 for drink
+- Small dance floor
+- Electronic and indie
+- Virtually empty
 
 ## The Page
-TODO: Fill out
+- Dive bar with hunter's lodge decor
+- Well filled or packed depending on the night
+- $5 for drink
+- No cover
 
 ## Dovre club
-TODO: Fill out
+- Irish dive bar
+- Has people but not packed
+- No cover
 
 # Oakland
 ## Fox Theater

@@ -5,8 +5,6 @@
 - Places are usually empty until 11:00PM (11:30PM is a good target)
 - Weekdays still have a good crowd. Friday/Saturday are the most crowded.
 
-TODO: Zeitgeist, armory, elbo, page, saloon/elixir
-
 ## Vessel
 - $20 cover on average
 - $9 for a mixed drink
@@ -201,6 +199,24 @@ TODO: Zeitgeist, armory, elbo, page, saloon/elixir
 - Irish dive bar
 - Has people but not packed
 - No cover
+
+## Zeitgeist
+- Dive bar
+- Large outdoor beer garden
+- $5 for mixed drink
+- No cover
+
+## Armory Club
+- Nice bar
+- No cover
+- Tiny dance floor downstairs
+- $10 for mixed drink (but it is damn good)
+- Don't let the name/owners fool you. There is nothing offensive here.
+
+## Elixir
+- No cover
+- A step above dive bar
+- $7 for mixed drink
 
 # Oakland
 ## Fox Theater

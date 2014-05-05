@@ -10,6 +10,14 @@
 - [Vessel](#vessel)
 - [DNA Lounge](#dna-lounge-bootie-sf)
 
+## 15 Romolo Place
+- Speakeasy-esque bar with nice cocktails
+- Usually birthday parties are held here
+- No cover
+- $12 drinks
+- Bar is packed but there is room to move away from it
+- Medium sized venue
+
 ## 715 Harrison Street
 - Still need to visit
 - Looks very mega club oriented
@@ -28,6 +36,11 @@
 - Tiny dance floor downstairs
 - $10 for mixed drink (but it is damn good)
 - Don't let the name/owners fool you. There is nothing offensive here.
+
+## Beauty Lounge
+- Crowded with no room to dance
+- Cover usually includes drink ticket
+- Hip Hop/Rap music
 
 ## Bill Graham Civic Auditorium
 - Music venue, not a club
@@ -79,6 +92,16 @@
 - A step above dive bar
 - $7 for mixed drink
 
+## F8
+- Trance music
+- $9 for mixed drink
+- 2 dance floors: 1 medium, 1 small
+
+## The Fillmore
+- Music venue, not a club
+- Large dance floor
+- Dance floor full but not crowded
+
 ## Grand Nightclub
 - Steep cover ($20)
 - Expensive drinks ($10 for vodka/sprite)
@@ -99,10 +122,12 @@
 - Electronic / pop music
 - Packed
 
-## The Fillmore
-- Music venue, not a club
-- Large dance floor
-- Dance floor full but not crowded
+## Infusion Lounge
+- Small dance floor
+- Hip Hop/Pop music
+- $10 cover on Wednesdays
+- $9 for mixed drink
+- Packed but with room to dance
 
 ## The Knockout
 - No cover?
@@ -114,6 +139,11 @@
 - Music venue, not a club
 - Large dance floor
 - Dance floor full but not crowded
+
+## Little Baobab
+- Medium dance floor
+- Crowded but with some room to dance
+- World/club music
 
 ## Madrone Art Bar
 - Small dance floor
@@ -174,6 +204,13 @@
 - Not crowded but still have people
 - 80s, 90s, and pop
 
+## Slide SF
+- Small dance floor
+- $8 for drink
+- No cover
+- Virtually empty
+- Trance and electronic
+
 ## Sloane
 - Small dance floor
 - $10 for drink
@@ -202,6 +239,13 @@
 ## Warsaw theater
 - Music venue, not a club
 - Did not attend for a show yet
+
+## Wish SF
+- Bar with a dancefloor
+- Tiny dance space in the back
+- Trance/electronic music
+- No cover
+- $10 drink
 
 ## Vessel
 - $20 cover on average

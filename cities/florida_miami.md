@@ -1,4 +1,10 @@
 # Miami
+## The Deuce
+- Dive bar
+- Smoky inside
+- Billiards table
+- No cover
+
 ## Mansion
 - Huge dance floor
 - Extremely crowded
@@ -11,9 +17,3 @@
 - 3 dance floors (1 small inside, 1 medium inside, 1 medium outside)
 - A bit of smoke inside but avoidable
 - 80s/90s pop and electronic (1 small), Electronic and goth (1 medium inside), Electronic and pop (1 medium outside)
-
-## The Deuce
-- Dive bar
-- Smoky inside
-- Billiards table
-- No cover

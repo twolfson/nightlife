@@ -1,4 +1,6 @@
 # nightlife
+0.4.0 - Documented all venues in #1. Fixed #1
+
 0.3.0 - Documented Black Rock City
 
 0.2.0 - Fragmented venues by city and ordered alphabetically

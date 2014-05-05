@@ -1,6 +1,8 @@
 # nightlife
 Personal record of dance clubs (mainly), concert venues, and bars
 
+Venues are grouped by their cities, sorted alphabetically, and written in Markdown.
+
 ## Locations
 ### United States
 #### California

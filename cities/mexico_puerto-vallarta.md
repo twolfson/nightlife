@@ -6,7 +6,7 @@
 - Some places close as late as 6AM (virtually no last call)
 - 12AM or 1AM is a good time to head out
 
-Top picks:
+**Top picks:**
 
 - [Roo Nightclub](#roo-nightclub-el-roo)
 - [Xtine Garden](#xtine-garden)

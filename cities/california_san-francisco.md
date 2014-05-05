@@ -5,6 +5,11 @@
 - Places are usually empty until 11:00PM (11:30PM is a good target)
 - Weekdays still have a good crowd. Friday/Saturday are the most crowded.
 
+Top picks:
+
+- [Vessel](#vessel)
+- [DNA Lounge](#dna-lounge-bootie-sf)
+
 ## Vessel
 - $20 cover on average
 - $9 for a mixed drink

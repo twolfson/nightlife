@@ -52,6 +52,7 @@
 - There are people but it isn't crowded
 - Medium sized venue with outside are
 - $5 for mixed drink
+- Has a grill for food
 
 ## Bill Graham Civic Auditorium
 - Music venue, not a club
@@ -189,6 +190,10 @@
 - Crowded but not overwhelming
 - Large location
 
+## Mikkeller Bar
+- Beer bar with some wine, no hard liquor
+- Medium sized venue
+
 ## Madrone Art Bar
 - Small dance floor
 - Crowded
@@ -306,6 +311,17 @@
 - 2 large dance floors
 - Electronic / hip hop / pop music
 - Not crowded
+
+## Thee Parkside
+- Bar
+- Dive bar with medium inside and medium outside area
+- Has a grill for food
+
+## Thirsty Bear
+- Bar
+- Usually crowded but you can find room
+- $9 for mixed drink
+- Large venue with upstairs
 
 ## Warsaw theater
 - Music venue, not a club

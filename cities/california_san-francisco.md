@@ -42,20 +42,26 @@
 - $10 for mixed drink (but it is damn good)
 - Don't let the name/owners fool you. There is nothing offensive here.
 
-## Bloodhound
-- Bar with pool table and Big Buck Hunter
-- Good crowd, but not crowded
-- Medium sized venue
-
 ## Beauty Lounge
 - Crowded with no room to dance
 - Cover usually includes drink ticket
 - Hip Hop/Rap music
 
+## Bender's
+- Dive bar
+- There are people but it isn't crowded
+- Medium sized venue with outside are
+- $5 for mixed drink
+
 ## Bill Graham Civic Auditorium
 - Music venue, not a club
 - Huge dance floor
 - Dance floor packed
+
+## Bloodhound
+- Bar with pool table and Big Buck Hunter
+- Good crowd, but not crowded
+- Medium sized venue
 
 ## Blondie's Bar and No Grill
 - Small dance floor
@@ -140,6 +146,13 @@
 - Electronic / pop music
 - Packed
 
+## Homestead
+- Bar
+- Medium size location
+- Has a crowd but not crowded
+- Wood shavings on the floor
+- $6 for mixed drink
+
 ## Infusion Lounge
 - Small dance floor
 - Hip Hop/Pop music
@@ -167,6 +180,14 @@
 - Usually full but it is easy to order a drink
 - $9 for mixed drink
 - Usually 90% alcohol, 10% mixer in a pint glass
+
+## Local Edition
+- Bar
+- Speakeasy environment with very dim lighting
+- No cover
+- $10 for drink, very good cocktails
+- Crowded but not overwhelming
+- Large location
 
 ## Madrone Art Bar
 - Small dance floor
@@ -266,11 +287,20 @@
 - Electronic and indie
 - Virtually empty
 
+## South Pacific Brewing Company
+- Bar
+- Large warehouse with upstairs and outside patio
+
 ## Supper Club
 - Small dance floor
 - $20 cover
 - Great electronic / pop music
 - Dance floor not too crowded
+
+## Tank 18
+- Bar
+- Large warehouse
+- Large emphasis on Wine
 
 ## Temple SF
 - 2 large dance floors

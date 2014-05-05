@@ -10,33 +10,6 @@ Top picks:
 - [Vessel](#vessel)
 - [DNA Lounge](#dna-lounge-bootie-sf)
 
-## Vessel
-- $20 cover on average
-- $9 for a mixed drink
-- Crowded dance floor near DJ booth
-- Much less crowded from booth
-- Medium sized dance floor
-- Great electronic DJs frequent here
-
-## Mighty
-- $30 average cover
-- Large dance floor
-- Crowded dance floor and bar
-
-## DNA Lounge (Bootie SF)
-- $20 average coder
-- Crowded main room (large dance floor with dance stage)
-- Crowded side room (large
-- Not that crowded other side room
-- $8 for a mixed drink
-- Consistently great pop / indie / electronic DJs
-
-## Monarch
-- No cover for upstairs on weekdays
-- Tiny dance floor upstairs (has people but not packed)
-- Small dance floor downstairs (cover required, crowded not packed)
-- Trance, 80s, and pop but not in the best arrangement
-
 ## 715 Harrison Street
 - Still need to visit
 - Looks very mega club oriented
@@ -49,59 +22,15 @@ Top picks:
 - $25 cover
 - $10 drinks
 
-## Supper Club
-- Small dance floor
-- $20 cover
-- Great electronic / pop music
-- Dance floor not too crowded
-
-## Madrone Art Bar
-- Small dance floor
-- Crowded
-- $5 cover
-- Great indie music
-
-## The Knockout
-- No cover?
-- Retro music
-- Small dance floor
-- Crowded but feathers out
-
-## Matrix Fillmore
-- Small dance floor
-- Crowded
-- Not a very dance oriented crowd
-- No cover?
-
-## The Independent
-- Music venue, not a club
-- Large dance floor
-- Dance floor full but not crowded
-
-## The Fillmore
-- Music venue, not a club
-- Large dance floor
-- Dance floor full but not crowded
-
 ## Bill Graham Civic Auditorium
 - Music venue, not a club
 - Huge dance floor
 - Dance floor packed
 
-## Rickshaw Stop
-- Music venue, not a club
-- Medium dance floor
-- Dance floor filled but not crowded
-
-## Elbo Room
-- Music venue, not a club
-- Medium dance floor
-- Filled but not crowded
-- No cover for the bar, $10 for shows
-
-## Warsaw theater
-- Music venue, not a club
-- Did not attend for a show yet
+## Butter
+- Tiny dance floor
+- Pop music
+- Crowded
 
 ## Cat club
 - 2 medium dance floors
@@ -109,10 +38,82 @@ Top picks:
 - Not crowded
 - $10 cover
 
-## Butter
-- Tiny dance floor
-- Pop music
+## DNA Lounge (Bootie SF)
+- $20 average coder
+- Crowded main room (large dance floor with dance stage)
+- Crowded side room (large
+- Not that crowded other side room
+- $8 for a mixed drink
+- Consistently great pop / indie / electronic DJs
+
+## Elbo Room
+- Music venue, not a club
+- Medium dance floor
+- Filled but not crowded
+- No cover for the bar, $10 for shows
+
+## The Fillmore
+- Music venue, not a club
+- Large dance floor
+- Dance floor full but not crowded
+
+## The Knockout
+- No cover?
+- Retro music
+- Small dance floor
+- Crowded but feathers out
+
+## The Independent
+- Music venue, not a club
+- Large dance floor
+- Dance floor full but not crowded
+
+## Madrone Art Bar
+- Small dance floor
 - Crowded
+- $5 cover
+- Great indie music
+
+## Matrix Fillmore
+- Small dance floor
+- Crowded
+- Not a very dance oriented crowd
+- No cover?
+
+## Monarch
+- No cover for upstairs on weekdays
+- Tiny dance floor upstairs (has people but not packed)
+- Small dance floor downstairs (cover required, crowded not packed)
+- Trance, 80s, and pop but not in the best arrangement
+
+## Mighty
+- $30 average cover
+- Large dance floor
+- Crowded dance floor and bar
+
+## Rickshaw Stop
+- Music venue, not a club
+- Medium dance floor
+- Dance floor filled but not crowded
+
+## Supper Club
+- Small dance floor
+- $20 cover
+- Great electronic / pop music
+- Dance floor not too crowded
+
+## Warsaw theater
+- Music venue, not a club
+- Did not attend for a show yet
+
+## Vessel
+- $20 cover on average
+- $9 for a mixed drink
+- Crowded dance floor near DJ booth
+- Much less crowded from booth
+- Medium sized dance floor
+- Great electronic DJs frequent here
+
 
 ## Temple SF
 - 2 large dance floors

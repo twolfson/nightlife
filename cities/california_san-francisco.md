@@ -22,10 +22,22 @@ Top picks:
 - $25 cover
 - $10 drinks
 
+## Armory Club
+- Nice bar
+- No cover
+- Tiny dance floor downstairs
+- $10 for mixed drink (but it is damn good)
+- Don't let the name/owners fool you. There is nothing offensive here.
+
 ## Bill Graham Civic Auditorium
 - Music venue, not a club
 - Huge dance floor
 - Dance floor packed
+
+## Blondie's Bar and No Grill
+- Small dance floor
+- Pop / hip hop music
+- Crowded
 
 ## Butter
 - Tiny dance floor
@@ -38,6 +50,11 @@ Top picks:
 - Not crowded
 - $10 cover
 
+## The Cellar
+- No cover on Mondays
+- Virtually empty on Mondays
+- Small dance floor
+
 ## DNA Lounge (Bootie SF)
 - $20 average coder
 - Crowded main room (large dance floor with dance stage)
@@ -46,11 +63,41 @@ Top picks:
 - $8 for a mixed drink
 - Consistently great pop / indie / electronic DJs
 
+## Dovre club
+- Irish dive bar
+- Has people but not packed
+- No cover
+
 ## Elbo Room
 - Music venue, not a club
 - Medium dance floor
 - Filled but not crowded
 - No cover for the bar, $10 for shows
+
+## Elixir
+- No cover
+- A step above dive bar
+- $7 for mixed drink
+
+## Grand Nightclub
+- Steep cover ($20)
+- Expensive drinks ($10 for vodka/sprite)
+- Expensive coat check ($5)
+- Medium dance floor
+- 2 floors with plenty of room to dance but you won't be "on the dancefloor"
+- Epitome of the quintissential club
+    - Black light LED
+    - Bubble bath spray
+    - Confetti
+    - Large bubble machine
+- Electronic / pop music
+- On/off crowded
+    - Weather balloons
+
+## Harlot
+- Medium dance floor
+- Electronic / pop music
+- Packed
 
 ## The Fillmore
 - Music venue, not a club
@@ -80,89 +127,6 @@ Top picks:
 - Not a very dance oriented crowd
 - No cover?
 
-## Monarch
-- No cover for upstairs on weekdays
-- Tiny dance floor upstairs (has people but not packed)
-- Small dance floor downstairs (cover required, crowded not packed)
-- Trance, 80s, and pop but not in the best arrangement
-
-## Mighty
-- $30 average cover
-- Large dance floor
-- Crowded dance floor and bar
-
-## Rickshaw Stop
-- Music venue, not a club
-- Medium dance floor
-- Dance floor filled but not crowded
-
-## Supper Club
-- Small dance floor
-- $20 cover
-- Great electronic / pop music
-- Dance floor not too crowded
-
-## Warsaw theater
-- Music venue, not a club
-- Did not attend for a show yet
-
-## Vessel
-- $20 cover on average
-- $9 for a mixed drink
-- Crowded dance floor near DJ booth
-- Much less crowded from booth
-- Medium sized dance floor
-- Great electronic DJs frequent here
-
-
-
-## Armory Club
-- Nice bar
-- No cover
-- Tiny dance floor downstairs
-- $10 for mixed drink (but it is damn good)
-- Don't let the name/owners fool you. There is nothing offensive here.
-
-## Blondie's Bar and No Grill
-- Small dance floor
-- Pop / hip hop music
-- Crowded
-
-## The Cellar
-- No cover on Mondays
-- Virtually empty on Mondays
-- Small dance floor
-
-## Dovre club
-- Irish dive bar
-- Has people but not packed
-- No cover
-
-## Elixir
-- No cover
-- A step above dive bar
-- $7 for mixed drink
-
-## Grand Nightclub
-- Steep cover ($20)
-- Expensive drinks ($10 for vodka/sprite)
-- Expensive coat check ($5)
-- Medium dance floor
-- 2 floors with plenty of room to dance but you won't be "on the dancefloor"
-- Epitome of the quintissential club
-    - Black light LED
-    - Bubble bath spray
-    - Confetti
-    - Large bubble machine
-- Electronic / pop music
-- On/off crowded
-    - Weather balloons
-
-## Harlot
-- Medium dance floor
-- Electronic / pop music
-- Packed
-
 ## Mezzanine
 - Medium dance floor
 - Crowded with a little room to dance
@@ -170,10 +134,26 @@ Top picks:
 - $25 for cover
 - Went to a Daft Punk set (cannot comment on music variety outside of that)
 
+## Mighty
+- $30 average cover
+- Large dance floor
+- Crowded dance floor and bar
+
+## Monarch
+- No cover for upstairs on weekdays
+- Tiny dance floor upstairs (has people but not packed)
+- Small dance floor downstairs (cover required, crowded not packed)
+- Trance, 80s, and pop but not in the best arrangement
+
 ## Monroe SF
 - Small dance floor
 - Packed in some spots, free in others
 - Pop music
+
+## Rickshaw Stop
+- Music venue, not a club
+- Medium dance floor
+- Dance floor filled but not crowded
 
 ## The Page
 - Dive bar with hunter's lodge decor
@@ -208,14 +188,31 @@ Top picks:
 - Electronic and indie
 - Virtually empty
 
+## Supper Club
+- Small dance floor
+- $20 cover
+- Great electronic / pop music
+- Dance floor not too crowded
+
 ## Temple SF
 - 2 large dance floors
 - Electronic / hip hop / pop music
 - Not crowded
+
+## Warsaw theater
+- Music venue, not a club
+- Did not attend for a show yet
+
+## Vessel
+- $20 cover on average
+- $9 for a mixed drink
+- Crowded dance floor near DJ booth
+- Much less crowded from booth
+- Medium sized dance floor
+- Great electronic DJs frequent here
 
 ## Zeitgeist
 - Dive bar
 - Large outdoor beer garden
 - $5 for mixed drink
 - No cover
-

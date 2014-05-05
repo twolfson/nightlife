@@ -1,4 +1,9 @@
 # Oakland
+## Fly-over (or something like that)
+- Medium dance floor
+- Hip hop / electronic music
+- Packed
+
 ## Fox Theater
 - Music venue, not a club
 
@@ -6,8 +11,3 @@
 - Music venue, not a club
 - Medium dance floor
 - Dance floor full
-
-## Fly-over (or something like that)
-- Medium dance floor
-- Hip hop / electronic music
-- Packed

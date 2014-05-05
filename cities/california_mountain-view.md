@@ -1,9 +1,9 @@
 # Mountain View
-## Zen Lounge
-- Medium dance floor
+## Mollie Magee's
+- Small dance floor
 - Packed
-- Hip hop / electronic music
-- $10 cover
+- Hip hop / pop music
+- No cover
 
 ## St. Stephen's Greene
 - Small dance floor
@@ -11,8 +11,9 @@
 - Hip hop / pop music
 - No cover
 
-## Mollie Magee's
-- Small dance floor
+## Zen Lounge
+- Medium dance floor
 - Packed
-- Hip hop / pop music
-- No cover
+- Hip hop / electronic music
+- $10 cover
+

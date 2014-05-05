@@ -4,25 +4,25 @@ Personal record of dance clubs (mainly), concert venues, and bars
 ## Locations
 ### United States
 #### California
-- [Berkeley](california_berkeley.md)
-- [Oakland](california_oakland.md)
-- [San Francisco](california_san-francisco.md)
+- [Berkeley](cities/california_berkeley.md)
+- [Oakland](cities/california_oakland.md)
+- [San Francisco](cities/california_san-francisco.md)
 - SF South Bay
-  - [Notes on all of them](california_sf-south-bay-notes.md)
-  - [Mountain View](california_mountain-view.md)
-  - [Palo Alto](california_palo-alto.md)
-  - [San Jose](california_san-jose.md)
-  - [Sunnyvale](california_sunnyvale.md)
-- [Santa Cruz](california_santa-cruz.md)
+  - [Notes on all of them](cities/california_sf-south-bay-notes.md)
+  - [Mountain View](cities/california_mountain-view.md)
+  - [Palo Alto](cities/california_palo-alto.md)
+  - [San Jose](cities/california_san-jose.md)
+  - [Sunnyvale](cities/california_sunnyvale.md)
+- [Santa Cruz](cities/california_santa-cruz.md)
 
 #### Florida
-- [Miami](florida_miami.md)
+- [Miami](cities/florida_miami.md)
 
 #### Utah
-- [Salt Lake City](utah_salt-lake-city.md)
+- [Salt Lake City](cities/utah_salt-lake-city.md)
 
 ### Mexico
-- [Puerto Vallarta](mexico_puerto-vallarta.md)
+- [Puerto Vallarta](cities/mexico_puerto-vallarta.md)
 
 ### Israel
-- [Tel Aviv](israel_tel-aviv.md)
+- [Tel Aviv](cities/israel_tel-aviv.md)

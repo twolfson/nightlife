@@ -115,37 +115,33 @@ Top picks:
 - Great electronic DJs frequent here
 
 
-## Temple SF
-- 2 large dance floors
-- Electronic / hip hop / pop music
-- Not crowded
 
-## Harlot
-- Medium dance floor
-- Electronic / pop music
-- Packed
-
-## Public Works
-- Small dance floor (upper floor)
-- There is lower floor but it is split entry
-- Electronic / experimental music
-- Not crowded
+## Armory Club
+- Nice bar
+- No cover
+- Tiny dance floor downstairs
+- $10 for mixed drink (but it is damn good)
+- Don't let the name/owners fool you. There is nothing offensive here.
 
 ## Blondie's Bar and No Grill
 - Small dance floor
 - Pop / hip hop music
 - Crowded
 
-## Bruno's
-- Need to visit
-
-## Bars/clubs in North Beach that I cannot remember names of =(
-- This gist was created too far away from that night
-
-## Monroe SF
+## The Cellar
+- No cover on Mondays
+- Virtually empty on Mondays
 - Small dance floor
-- Packed in some spots, free in others
-- Pop music
+
+## Dovre club
+- Irish dive bar
+- Has people but not packed
+- No cover
+
+## Elixir
+- No cover
+- A step above dive bar
+- $7 for mixed drink
 
 ## Grand Nightclub
 - Steep cover ($20)
@@ -162,10 +158,10 @@ Top picks:
 - On/off crowded
     - Weather balloons
 
-## The Cellar
-- No cover on Mondays
-- Virtually empty on Mondays
-- Small dance floor
+## Harlot
+- Medium dance floor
+- Electronic / pop music
+- Packed
 
 ## Mezzanine
 - Medium dance floor
@@ -173,6 +169,23 @@ Top picks:
 - $10 for drink
 - $25 for cover
 - Went to a Daft Punk set (cannot comment on music variety outside of that)
+
+## Monroe SF
+- Small dance floor
+- Packed in some spots, free in others
+- Pop music
+
+## The Page
+- Dive bar with hunter's lodge decor
+- Well filled or packed depending on the night
+- $5 for drink
+- No cover
+
+## Public Works
+- Small dance floor (upper floor)
+- There is lower floor but it is split entry
+- Electronic / experimental music
+- Not crowded
 
 ## Slate
 - Small dance floor
@@ -195,16 +208,10 @@ Top picks:
 - Electronic and indie
 - Virtually empty
 
-## The Page
-- Dive bar with hunter's lodge decor
-- Well filled or packed depending on the night
-- $5 for drink
-- No cover
-
-## Dovre club
-- Irish dive bar
-- Has people but not packed
-- No cover
+## Temple SF
+- 2 large dance floors
+- Electronic / hip hop / pop music
+- Not crowded
 
 ## Zeitgeist
 - Dive bar
@@ -212,14 +219,3 @@ Top picks:
 - $5 for mixed drink
 - No cover
 
-## Armory Club
-- Nice bar
-- No cover
-- Tiny dance floor downstairs
-- $10 for mixed drink (but it is damn good)
-- Don't let the name/owners fool you. There is nothing offensive here.
-
-## Elixir
-- No cover
-- A step above dive bar
-- $7 for mixed drink

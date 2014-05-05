@@ -18,6 +18,11 @@
 - Bar is packed but there is room to move away from it
 - Medium sized venue
 
+### 111 Minna
+- Art gallery with nice bars
+- No cover
+- Sometimes has a live band
+
 ## 715 Harrison Street
 - Still need to visit
 - Looks very mega club oriented
@@ -36,6 +41,11 @@
 - Tiny dance floor downstairs
 - $10 for mixed drink (but it is damn good)
 - Don't let the name/owners fool you. There is nothing offensive here.
+
+## Bloodhound
+- Bar with pool table and Big Buck Hunter
+- Good crowd, but not crowded
+- Medium sized venue
 
 ## Beauty Lounge
 - Crowded with no room to dance
@@ -75,6 +85,14 @@
 - Not that crowded other side room
 - $8 for a mixed drink
 - Consistently great pop / indie / electronic DJs
+
+## Danz Haus
+- Normally dance studio, this time it was for a pop-up event
+- Rave music, one DJ for 6 hours
+- $25 cover
+- $9 for mixed drink
+- Had a crowd but with room to dance
+- Medium sized dance floor
 
 ## Dovre club
 - Irish dive bar
@@ -129,21 +147,26 @@
 - $9 for mixed drink
 - Packed but with room to dance
 
-## The Knockout
-- No cover?
-- Retro music
-- Small dance floor
-- Crowded but feathers out
-
 ## The Independent
 - Music venue, not a club
 - Large dance floor
 - Dance floor full but not crowded
 
+## The Knockout
+- No cover?
+- Retro music
+- Small dance floor
+- Crowded but feathers out
 ## Little Baobab
 - Medium dance floor
 - Crowded but with some room to dance
 - World/club music
+
+## Latin American Club
+- Bar
+- Usually full but it is easy to order a drink
+- $9 for mixed drink
+- Usually 90% alcohol, 10% mixer in a pint glass
 
 ## Madrone Art Bar
 - Small dance floor
@@ -156,6 +179,19 @@
 - Crowded
 - Not a very dance oriented crowd
 - No cover?
+
+## Manor West
+- $20 cover
+- Packed dance floor
+- Rap/Hip Hop music
+
+## Mercer
+- Previously known as Project One
+- Only club I know of in Potrero
+- Medium dance floor
+- There are people but it is far from crowded
+- Has a lounge section with lots of furniture
+- Trance music
 
 ## Mezzanine
 - Medium dance floor
@@ -196,6 +232,11 @@
 - There is lower floor but it is split entry
 - Electronic / experimental music
 - Not crowded
+
+## Raven Bar
+- Bar atmosphere downstairs, club atmosphere upstairs
+- Small dance floor
+- Hip Hop/Rap/Pop music
 
 ## Slate
 - Small dance floor

@@ -253,6 +253,12 @@
 - Packed in some spots, free in others
 - Pop music
 
+## OddJob
+- Bar
+- No cover
+- Cocktail focused
+- $10 for mixed drink
+
 ## Origin
 - Long line with bottle-service only entry
     - Did not go in due to this

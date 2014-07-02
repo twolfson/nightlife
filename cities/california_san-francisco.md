@@ -18,7 +18,7 @@
 - Bar is packed but there is room to move away from it
 - Medium sized venue
 
-### 111 Minna
+## 111 Minna
 - Art gallery with nice bars
 - No cover
 - Sometimes has a live band

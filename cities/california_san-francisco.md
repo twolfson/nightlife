@@ -340,6 +340,13 @@
 - No cover
 - $10 drink
 
+## Venue 550
+- Abandoned antique shop turned into a one-off rave location
+- Medium dance floor
+- Packed, hard to dance
+- $30 cover
+- $10 for a mixed drink
+
 ## Vessel
 - $20 cover on average
 - $9 for a mixed drink

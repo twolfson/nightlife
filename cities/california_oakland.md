@@ -11,3 +11,9 @@
 - Music venue, not a club
 - Medium dance floor
 - Dance floor full
+
+## Oakland Operahouse
+- Club inside of a warehouse
+- Huge dance floor
+- Went for an 18+ kandi kid rave
+- Packed in the center but plenty of room to dance outside that

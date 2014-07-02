@@ -146,6 +146,7 @@
 - Medium dance floor
 - Electronic / pop music
 - Packed
+- Every 2nd Tuesday is Tutu Tuesday
 
 ## Homestead
 - Bar

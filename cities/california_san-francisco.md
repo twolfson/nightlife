@@ -35,6 +35,11 @@
 - $25 cover
 - $10 drinks
 
+## Amnesia
+- Small club
+- Only serves wine, beer, and sake (good sake cocktails)
+- Crowded, difficult to find places to dance
+
 ## Armory Club
 - Nice bar
 - No cover

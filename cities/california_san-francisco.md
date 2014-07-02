@@ -317,6 +317,7 @@
 - 2 large dance floors
 - Electronic / hip hop / pop music
 - Not crowded
+- Every sunday there is an 18+ kandi kid rave
 
 ## Thee Parkside
 - Bar

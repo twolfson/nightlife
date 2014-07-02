@@ -248,6 +248,11 @@
 - Packed in some spots, free in others
 - Pop music
 
+## Origin
+- Long line with bottle-service only entry
+    - Did not go in due to this
+- Seemed to be small but with 2 levels
+
 ## Rickshaw Stop
 - Music venue, not a club
 - Medium dance floor

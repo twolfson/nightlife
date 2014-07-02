@@ -47,6 +47,11 @@
 - $10 for mixed drink (but it is damn good)
 - Don't let the name/owners fool you. There is nothing offensive here.
 
+## Balancoire
+- Medium size dance floor
+- Plenty of room to dance (Thursday night)
+- Went for an electric swing event
+
 ## Beauty Lounge
 - Crowded with no room to dance
 - Cover usually includes drink ticket

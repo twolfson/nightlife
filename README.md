@@ -26,8 +26,12 @@ Venues are grouped by their cities, sorted alphabetically, and written in Markdo
 #### Utah
 - [Salt Lake City](cities/utah_salt-lake-city.md)
 
+### Israel
+- [Tel Aviv](cities/israel_tel-aviv.md)
+
+### Japan
+- [Tokyo](cities/japan_tokyo.md)
+
 ### Mexico
 - [Puerto Vallarta](cities/mexico_puerto-vallarta.md)
 
-### Israel
-- [Tel Aviv](cities/israel_tel-aviv.md)

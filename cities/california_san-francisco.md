@@ -100,6 +100,10 @@
 - Virtually empty on Mondays
 - Small dance floor
 
+## Chambers
+- Medium sized bar with lots of couches
+- Decent cocktails
+
 ## DNA Lounge (Bootie SF)
 - $20 average coder
 - Crowded main room (large dance floor with dance stage)

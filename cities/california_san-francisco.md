@@ -280,6 +280,11 @@
 - $5 for drink
 - No cover
 
+## The Phoenix Hotel
+- Hotel with a pool and open courtyard
+- Went here for a party when a friend of a friend rented out a room
+- Would recommend if you want a "private" space on a budget
+
 ## Public Works
 - Small dance floor (upper floor)
 - There is lower floor but it is split entry

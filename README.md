@@ -20,7 +20,7 @@ Venues are grouped by their cities, sorted alphabetically, and written in Markdo
 #### Florida
 - [Miami](cities/florida_miami.md)
 
-### Nevada
+#### Nevada
 - [Black Rock City aka Burning Man](cities/nevada_black-rock-city.md)
 
 #### Utah

@@ -69,6 +69,11 @@
 - Huge dance floor
 - Dance floor packed
 
+## Blackbird
+- Mid/high bar
+- Medium sized venue
+- Tables might get filled but there is usually space to stand
+
 ## Bloodhound
 - Bar with pool table and Big Buck Hunter
 - Good crowd, but not crowded

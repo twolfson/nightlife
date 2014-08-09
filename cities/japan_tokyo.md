@@ -5,7 +5,7 @@
 - Depending on the club staff, they will know or not know English
     - I have done my best to document expectations
 - Crowd is big at midnight but swells and peaks from 2AM to 3AM
-- There is surprisingly little grinding. Although, there is public displays of affection which is rare in normal daytime
+- There is little grinding. Although, there is public displays of affection which is rare in normal daytime
 - Most clubs have lockers for storing belongings
 
 ## clubasia (Club Asia)

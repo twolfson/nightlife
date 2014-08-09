@@ -13,13 +13,17 @@
 - 1 lounge area with ambient music and bar
 - 1 small dancefloor
 - Went for "Weekend Ravers" event, saw a few kandi but mostly t-shirts and button-downs
-- 3500 yen cover ($35)
+- 3500 yen cover ($35) on a Friday night
 - 500 yen ($5) for a bottle of water x_x
 - Website: http://asia.iflyer.jp/venue/
 - Staff speaks good English
 
 ## R lounge
 - 2 floors, both medium dancefloors with bars in the back
-- Went for a split night: dark psytrance on one floor, club music on the other
 - Possibly a gay club but not sure
   - I was hit on by about 4 guys over the course of a night with drink offers but there were a lot of girls too
+- Went for a split night: dark psytrance on one floor, club music on the other
+- 3000 yen cover ($30) on a Saturday night
+- 600 yen ($6) for a bottle of water
+- 700 yen ($7) for a mixed drink
+- Staff speaks good English

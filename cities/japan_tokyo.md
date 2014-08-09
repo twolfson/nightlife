@@ -19,6 +19,16 @@
 - Staff speaks good English
 - A few foreigners but mostly locals
 
+## Module
+- 1 bar area with tiny dance floor
+- 1 lounge with tiny dance floor
+- 1 medium dancefloor in the basement
+- 2500 yen cover ($25) with 1 drink ticket on a Friday night
+- 500 yen ($5) for water from vending machine
+- 700 yen ($7) for mixed drink
+- Did not test staff's English skills
+- I was the only foreigner
+
 ## R Lounge
 - 2 floors, both medium dancefloors with bars in the back
 - Possibly a gay club but not sure

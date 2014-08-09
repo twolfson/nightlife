@@ -1,4 +1,6 @@
 # nightlife
+0.8.0 - Updated Tokyo notes and added a few more clubs
+
 0.7.0 - Documented Tokyo
 
 0.6.0 - Added last of SF venues

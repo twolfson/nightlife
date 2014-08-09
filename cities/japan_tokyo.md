@@ -17,3 +17,9 @@
 - 500 yen ($5) for a bottle of water x_x
 - Website: http://asia.iflyer.jp/venue/
 - Staff speaks good English
+
+## R lounge
+- 2 floors, both medium dancefloors with bars in the back
+- Went for a split night: dark psytrance on one floor, club music on the other
+- Possibly a gay club but not sure
+  - I was hit on by about 4 guys over the course of a night with drink offers but there were a lot of girls too

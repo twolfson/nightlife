@@ -17,8 +17,9 @@
 - 500 yen ($5) for a bottle of water x_x
 - Website: http://asia.iflyer.jp/venue/
 - Staff speaks good English
+- A few foreigners but mostly locals
 
-## R lounge
+## R Lounge
 - 2 floors, both medium dancefloors with bars in the back
 - Possibly a gay club but not sure
   - I was hit on by about 4 guys over the course of a night with drink offers but there were a lot of girls too
@@ -27,3 +28,13 @@
 - 600 yen ($6) for a bottle of water
 - 700 yen ($7) for a mixed drink
 - Staff speaks good English
+- I was the only foreigner
+
+## Womb
+- 1 small dancefloor on Tuesday but possibly more
+- Went for Tuemix (Tuesday event)
+- 2000 yen cover ($20) on a Tuesday night
+- 500 yen ($5) for a bottle of water
+- 700 yen ($7) for a mixed drink
+- Staff speaks good English
+- 50/50 mix of foreigners to locals

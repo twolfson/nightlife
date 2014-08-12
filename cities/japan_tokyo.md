@@ -17,8 +17,8 @@
 - No cell phone service outside of stairwell (although, it looked like locals could use phones)
 - 2500 yen cover ($25) on a Monday night
     - I used an advanced payment method on iflyer.tv to make it 1000 yen ($10)
-- 500 yen ($5) for a bottle of water
-- 700 yen ($5) for cuba libre (mixed drink)
+- 500 yen ($5) for a small bottle of water
+- 700 yen ($5) for *cuba libre* (mixed drink)
 - Did not test staff's English skills
 - A few foreigners but mostly locals
 
@@ -28,7 +28,7 @@
 - 1 small dancefloor
 - Went for "Weekend Ravers" event, saw a few kandi but mostly t-shirts and button-downs
 - 3500 yen cover ($35) on a Friday night
-- 500 yen ($5) for a bottle of water
+- 500 yen ($5) for a tall bottle of water
 - Website: http://asia.iflyer.jp/venue/
 - Staff speaks good English
 - A few foreigners but mostly locals
@@ -38,8 +38,8 @@
 - 1 lounge with tiny dance floor
 - 1 medium dancefloor in the basement
 - 2500 yen cover ($25) with 1 drink ticket on a Friday night
-- 500 yen ($5) for water from vending machine
-- 700 yen ($7) for mixed drink
+- 500 yen ($5) for small water from vending machine
+- 700 yen ($7) for *cuba libre* (mixed drink)
 - Did not test staff's English skills
 - I was the only foreigner
 
@@ -50,7 +50,7 @@
 - Went for a split night: dark psytrance on one floor, club music on the other
 - 3000 yen cover ($30) on a Saturday night
 - 600 yen ($6) for a bottle of water
-- 700 yen ($7) for a mixed drink
+- 700 yen ($7) for a *rum and coke* (mixed drink)
 - Staff speaks good English
 - I was the only foreigner
 
@@ -58,7 +58,7 @@
 - 1 small dancefloor on Tuesday but possibly more
 - Went for Tuemix (Tuesday event)
 - 2000 yen cover ($20) on a Tuesday night
-- 500 yen ($5) for a bottle of water
-- 700 yen ($7) for a mixed drink
+- 500 yen ($5) for a small bottle of water
+- 700 yen ($7) for a *cuba libre* (mixed drink)
 - Staff speaks good English
 - 50/50 mix of foreigners to locals

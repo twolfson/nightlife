@@ -33,6 +33,13 @@
 - Did not test staff's English skills
 - A few foreigners but mostly locals
 
+## Bar Green Land
+- Medium sized bar with dance music
+- No formal dancefloor
+- 1000 yen/1 drink cover on Saturday
+- 2900 yen for 1 *cuba libre* and 2 *bottle beers*
+- Packed and uncomfortable to dance in
+
 ## clubasia (Club Asia)
 - 1 large dancefloor that was like a concert venue (crowd followed DJs actions)
 - 1 lounge area with ambient music and bar

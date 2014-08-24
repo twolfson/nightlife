@@ -32,6 +32,13 @@
 - Staff speaks good English
 - A few foreigners but mostly locals
 
+## Hub 2
+- Large dive bar
+- No cover on weekday or weekend
+- Has a good crowd (most tables full but not all) on weekdays and weekends
+    - I have been on a Wednesday and a Saturday
+- 550 yen for a large *cuba libre* (mixed drink)
+
 ## Module
 - 1 bar area with tiny dance floor
 - 1 lounge with tiny dance floor

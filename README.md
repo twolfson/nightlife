@@ -40,10 +40,10 @@ In our notes, we try to answer the following questions. We skip over music since
 
 - Is it a bar, club, combination, or something else?
 - Is there a dance floor? How many are there? How big are they?
-- Is reentry allowed?
 - When did you go?
   - How crowded does it get? Can we still dance?
   - What was the cover?
+    - Is reentry allowed?
 - What is the cost of a drink?
 - In foreign countries, how much English did the staff speak?
 - In foreign countries, how many locals were there? How many foreigners?

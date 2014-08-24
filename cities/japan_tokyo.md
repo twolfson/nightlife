@@ -6,6 +6,8 @@
 - Crowd is big at midnight but swells and peaks from 2AM to 3AM
 - There is little grinding. Although, there is public displays of affection which is rare in normal daytime
 - Most clubs have lockers for storing belongings
+- Water is usually not free and in small bottles
+    - I suggest buying it once and refilling in bathroom
 
 ## Abbot's Choice
 - Small dive bar marketed as high class bar

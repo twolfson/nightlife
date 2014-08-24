@@ -47,6 +47,17 @@
 - Staff speaks good English
 - A few foreigners but mostly locals
 
+## DJ'S BAR CAVE
+- 1 small lounge area
+- 1 small dance floor
+- Far from everything so make sure you like the music
+- Reentry accepted
+- 2000 yen cover on Friday night
+- 500 yen for *rum and coke* (mixed drink)
+- Bartender did not speak English but doorman did
+    - The drink menu was all katakana
+- I was the only foreigner
+
 ## Hub 2
 - Large dive bar
 - No cover on weekday or weekend

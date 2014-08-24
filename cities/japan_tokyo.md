@@ -76,6 +76,7 @@
 - Large landscape club with a small dancefloor open on a Tuesday
     - Arguably people could dance throughout all of it
     - There could be more but I doubt it
+- Dancefloor and lower bar are filled up on a Tuesday but there was plenty of room to dance
 - 1000 yen cover before midnight on Tuesday
 - 2500 yen cover after midnight on Tuesday
 - 700 yen for *cuba libre* (mixed drink)

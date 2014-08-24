@@ -75,6 +75,15 @@
 - Staff speaks great English
 - Mostly foreigners
 
+## Jumanji 55
+- Medium bar with dance music
+- No defined dance floor
+- Went on a Saturday
+  - No cover
+  - Packed at 5AM but could still dance
+- I don't recall English level of the staff
+- Mostly foreigners
+
 ## Module
 - 1 bar area with tiny dance floor
 - 1 lounge with tiny dance floor

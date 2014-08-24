@@ -35,3 +35,15 @@ Venues are grouped by their cities, sorted alphabetically, and written in Markdo
 ### Mexico
 - [Puerto Vallarta](cities/mexico_puerto-vallarta.md)
 
+## Notes
+In our notes, we try to answer the following questions. We skip over music since that can vary significantly from night to night.
+
+- Is it a bar, club, combination, or something else?
+- Is there a dance floor? How many are there? How big are they?
+- Is reentry allowed?
+- When did you go?
+  - How crowded does it get? Can we still dance?
+  - What was the cover?
+- What is the cost of a drink?
+- In foreign countries, how much English did the staff speak?
+- In foreign countries, how many locals were there? How many foreigners?

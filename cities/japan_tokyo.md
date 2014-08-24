@@ -1,7 +1,6 @@
 # Tokyo, Japan
-**Premature notes:**
+**Notes:**
 
-- I have not yet seen a place close (latest I was out was at 4:30AM)
 - Depending on the club staff, they will know or not know English
     - I have done my best to document expectations
 - Crowd is big at midnight but swells and peaks from 2AM to 3AM

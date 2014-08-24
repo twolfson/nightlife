@@ -59,6 +59,7 @@
 - 1 small dance floor
 - Far from everything so make sure you like the music
 - Reentry accepted
+- Dance floor was sparse to start but was comfortable by the end of the night
 - 2000 yen cover on Friday night
 - 500 yen for *rum and coke* (mixed drink)
 - Bartender did not speak English but doorman did

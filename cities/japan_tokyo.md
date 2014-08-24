@@ -91,7 +91,11 @@
 - 4 floors total
 - Went for Tuemix (Tuesday event)
     - Free glowsticks at the bar on Tuesday nights
+    - Dancefloor and bar got filled but there was room to dance
 - Went on a Friday
+    - Huge dancefloor got packed and it was hard to dance
+      - After peak, it returned to danceable levels
+    - Other dance floors were full but with room to dance
 - 1500 yen cover ($15) on a Tuesday night
 - 4000 yen cover ($40) on Friday night
 - 500 yen ($5) for a small bottle of water

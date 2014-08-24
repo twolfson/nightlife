@@ -73,6 +73,7 @@
 - 1 medium dancefloor in the basement
 - 2500 yen cover ($25) with 1 drink ticket on a Friday night
   - Only a few people were dancing but the bar had a good amount of people
+  - No reentry
 - 500 yen ($5) for small water from vending machine
 - 700 yen ($7) for *cuba libre* (mixed drink)
 - Did not test staff's English skills
@@ -85,6 +86,7 @@
 - Went for a split night: dark psytrance on one floor, club music on the other
     - Psytrance was full but with room to dance
     - Club was empty to start but filled up with room to dance
+    - Reentry allowed via wristband
 - 3000 yen cover ($30) on a Saturday night
 - 600 yen ($6) for a bottle of water
 - 700 yen ($7) for a *rum and coke* (mixed drink)
@@ -98,6 +100,7 @@
 - Dancefloor and lower bar are filled up on a Tuesday but there was plenty of room to dance
 - 1000 yen cover before midnight on Tuesday
 - 2500 yen cover after midnight on Tuesday
+- No reentry
 - 700 yen for *cuba libre* (mixed drink)
 - On Tuesday, there was a hair bar open (hair straightener, mirrors)
 - Did not test staff's language skills
@@ -117,6 +120,7 @@
     - Other dance floors were full but with room to dance
 - 1500 yen cover ($15) on a Tuesday night
 - 4000 yen cover ($40) on Friday night
+- No reentry
 - 500 yen ($5) for a small bottle of water
 - 700 yen ($7) for a *cuba libre* (mixed drink)
 - Staff speaks good English

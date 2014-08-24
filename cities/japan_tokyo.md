@@ -46,6 +46,8 @@
 - Has a good crowd (most tables full but not all) on weekdays and weekends
     - I have been on a Wednesday and a Saturday
 - 550 yen for a large *cuba libre* (mixed drink)
+- Staff speaks great English
+- Mostly foreigners
 
 ## Module
 - 1 bar area with tiny dance floor

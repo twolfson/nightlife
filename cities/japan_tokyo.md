@@ -73,9 +73,15 @@
 - I was the only foreigner
 
 ## Womb
-- 1 small dancefloor on Tuesday but possibly more
+- 1 small dancefloor open on all days
+- 1 huge dancefloor open on Friday
+- 2 small dancefloors open on Friday
+- 4 floors total
 - Went for Tuemix (Tuesday event)
+    - Free glowsticks at the bar on Tuesday nights
+- Went on a Friday
 - 1500 yen cover ($15) on a Tuesday night
+- 4000 yen cover ($40) on Friday night
 - 500 yen ($5) for a small bottle of water
 - 700 yen ($7) for a *cuba libre* (mixed drink)
 - Staff speaks good English

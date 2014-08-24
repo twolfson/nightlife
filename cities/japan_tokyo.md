@@ -96,6 +96,14 @@
 - Did not test staff's English skills
 - I was the only foreigner
 
+## New Planet
+- 1 medium dance floor
+- Went on a Saturday at 6AM
+  - Not sure if there was a cover or not, I did not pay anything but a friend might have
+  - Crowded, hard to dance
+- Did not test staff's English skills
+- 50/50 mix of foreigners and locals
+
 ## R Lounge
 - 2 floors, both medium dancefloors with bars in the back
 - Possibly a gay club but not sure

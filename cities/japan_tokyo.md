@@ -72,6 +72,17 @@
 - Staff speaks good English
 - I was the only foreigner
 
+## T2
+- Large landscape club with a small dancefloor open on a Tuesday
+    - Arguably people could dance throughout all of it
+    - There could be more but I doubt it
+- 1000 yen cover before midnight on Tuesday
+- 2500 yen cover after midnight on Tuesday
+- 700 yen for *cuba libre* (mixed drink)
+- On Tuesday, there was a hair bar open (hair straightener, mirrors)
+- Did not test staff's language skills
+- There were a few foreigners but mostly locals
+
 ## Womb
 - 1 small dancefloor open on all days
 - 1 huge dancefloor open on Friday

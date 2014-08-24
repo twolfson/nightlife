@@ -27,6 +27,7 @@
 - 2500 yen cover ($25) on a Monday night
     - I used an advanced payment method on iflyer.tv to make it 1000 yen ($10)
     - Both areas were full but danceable
+    - Not sure about reentry; there is a sign for no reentry but there was also a hand stamp
 - 500 yen ($5) for a small bottle of water
 - 700 yen ($5) for *cuba libre* (mixed drink)
 - Did not test staff's English skills
@@ -39,6 +40,7 @@
 - Went for "Weekend Ravers" event, saw a few kandi but mostly t-shirts and button-downs
   - Concert area was full but danceable
   - Small dancefloor was full but danceable
+  - No reentry
 - 3500 yen cover ($35) on a Friday night
 - 500 yen ($5) for a tall bottle of water
 - Website: http://asia.iflyer.jp/venue/

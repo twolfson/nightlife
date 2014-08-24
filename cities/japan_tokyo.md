@@ -7,6 +7,14 @@
 - There is little grinding. Although, there is public displays of affection which is rare in normal daytime
 - Most clubs have lockers for storing belongings
 
+## Abbot's Choice
+- Small dive bar marketed as high class bar
+- No cover but 1 drink required per person
+- 600 for **orange juice** (non-alcoholic beverage)
+- 900 for **drambuie on the rocks** (nice alcoholic beverage)
+- Mostly locals on a Wednesday night
+- Staff speaks a little English
+
 ## air
 - 1 bar/lounge/restaurant on ground floor
 - 1 small lounge with bar in first basement level

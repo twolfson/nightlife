@@ -12,8 +12,8 @@
 ## Abbot's Choice
 - Small dive bar marketed as high class bar
 - No cover but 1 drink required per person
-- 600 for **orange juice** (non-alcoholic beverage)
-- 900 for **drambuie on the rocks** (nice alcoholic beverage)
+- 600 for *orange juice* (non-alcoholic beverage)
+- 900 for *drambuie on the rocks* (nice alcoholic beverage)
 - Mostly locals on a Wednesday night
 - Staff speaks a little English
 

@@ -71,7 +71,7 @@
 ## Womb
 - 1 small dancefloor on Tuesday but possibly more
 - Went for Tuemix (Tuesday event)
-- 2000 yen cover ($20) on a Tuesday night
+- 1500 yen cover ($15) on a Tuesday night
 - 500 yen ($5) for a small bottle of water
 - 700 yen ($7) for a *cuba libre* (mixed drink)
 - Staff speaks good English

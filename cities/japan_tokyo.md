@@ -143,10 +143,12 @@
     - After peak ended, it was more danceable
   - First area's small dance floor had a few people but was danceable
   - Second area's medium dance floor was full but had room to dance
+  - Lockers were still available after 1AM
   - No reentry
 - When rain is present
   - Large umbrellas are collected at the door
   - Compact umbrellas are allowed to be stored in lockers
+- Lockers cost 300 yen each
 - Club tends to blast music which is abnormal for Tokyo, this will leave your ears ringing
 - Staff speaks good English
 - There were a few foreigners

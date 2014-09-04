@@ -150,6 +150,8 @@
   - Compact umbrellas are allowed to be stored in lockers
 - Lockers cost 300 yen each
 - Club tends to blast music which is abnormal for Tokyo, this will leave your ears ringing
+- 700 yen for *passion slush* (frozen mixed drink)
+- 700 yen for *ramune sake* (mixed drink)
 - Staff speaks good English
 - There were a few foreigners
 

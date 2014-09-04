@@ -137,7 +137,7 @@
     - 1 small room with a bar
     - 1 small lounge area with a DJ
 - Went on a rainy Friday night
-  - Cover was 3000 yen ($30)
+  - Cover was 3500 yen ($35) with 1 drink ticket
     - 500 yen ($5) discount by printing out a flyer
   - First area's large dance floor was crowded and difficult to dance in
     - After peak ended, it was more danceable

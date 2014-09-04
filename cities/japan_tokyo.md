@@ -136,7 +136,17 @@
     - 1 medium dance floor with low ceilings
     - 1 small room with a bar
     - 1 small lounge area with a DJ
+- Went on a rainy Friday night
+  - Cover was 3000 yen ($30)
+    - 500 yen ($5) discount by printing out a flyer
+  - First area's large dance floor was crowded and difficult to dance in
+    - After peak ended, it was more danceable
+  - First area's small dance floor had a few people but was danceable
+  - Second area's medium dance floor was full but had room to dance
+  - No reentry
 - Club tends to blast music which is abnormal for Tokyo, this will leave your ears ringing
+- Staff speaks good English
+- There were a few foreigners
 
 ## T2
 - Large landscape club with a small dancefloor open on a Tuesday

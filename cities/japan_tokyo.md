@@ -170,16 +170,21 @@
 - 2 small dancefloors open on Friday
 - 4 floors total
 - Went for Tuemix (Tuesday event)
+    - 1500 yen cover ($15)
     - Free glowsticks at the bar on Tuesday nights
     - Dancefloor and bar got filled but there was room to dance
+- Went for a rainy WEDM (Wednesday event)
+    - 1500 yen cover ($15)
+        - 500 yen ($5) discount by printing out flyer
+    - Dancefloor and bar got filled but there was room to dance
 - Went on a Friday
+    - 4000 yen cover ($40)
     - Huge dancefloor got packed and it was hard to dance
-      - After peak, it returned to danceable levels
+        - After peak, it returned to danceable levels
     - Other dance floors were full but with room to dance
-- 1500 yen cover ($15) on a Tuesday night
-- 4000 yen cover ($40) on Friday night
 - No reentry
 - 500 yen ($5) for a small bottle of water
+- 500 yen ($5) for cup of chicken bites
 - 700 yen ($7) for a *cuba libre* (mixed drink)
 - Staff speaks good English
 - 50/50 mix of foreigners to locals

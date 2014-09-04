@@ -44,11 +44,17 @@
 - 1 large dancefloor that was like a concert venue (crowd followed DJs actions)
 - 1 lounge area with ambient music and bar
 - 1 small dancefloor
-- Went for "Weekend Ravers" event, saw a few kandi but mostly t-shirts and button-downs
+- Went for "Weekend Ravers" event on a Friday night, saw a few kandi but mostly t-shirts and button-downs
+  - 3500 yen cover ($35)
   - Concert area was full but danceable
   - Small dancefloor was full but danceable
   - No reentry
-- 3500 yen cover ($35) on a Friday night
+- Went for Wednesday night
+  - 2000 yen cover ($20)
+    - I used a prepaid online option for 1000 yen ($10)
+  - Lounge and large dancefloor were open
+  - Both had few people, about 10 to 20 fluctuating between the rooms
+- 600 yen ($6) for a *grasshopper* (mixed drink)
 - 500 yen ($5) for a tall bottle of water
 - Website: http://asia.iflyer.jp/venue/
 - Staff speaks good English

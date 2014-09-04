@@ -56,6 +56,8 @@
   - Both had few people, about 10 to 20 fluctuating between the rooms
 - 600 yen ($6) for a *grasshopper* (mixed drink)
 - 500 yen ($5) for a tall bottle of water
+- There is a vending machine dedicated to selling alcohol, 500 yen for cans that can be found in convenience stores
+  - The cans go up to the *strong* variety at 8% or 9% ABV
 - Website: http://asia.iflyer.jp/venue/
 - Staff speaks good English
 - A few foreigners but mostly locals

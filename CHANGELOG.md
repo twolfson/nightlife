@@ -1,4 +1,6 @@
 # nightlife
+0.12.0 - Added updates and new venues to Tokyo
+
 0.11.0 - Added remaining venues/updates to Tokyo
 
 0.10.0 - Added a few more venues/updates to Tokyo

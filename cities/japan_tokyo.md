@@ -126,6 +126,18 @@
 - Staff speaks good English
 - I was the only foreigner
 
+## Sound Museum Vision
+- 1 floor with 2 areas separated by long hallway
+- In the first area
+  - 1 large dance floor with a bar
+  - 1 small dance floor and a bar in an adjacent room
+- In the hallway, frozen beverages are offered
+- In the second area
+  - 1 medium dance floor with low ceilings
+  - 1 small room with a bar
+  - 1 small lounge area with a DJ
+- Club tends to blast music which is abnormal for Tokyo, this will leave your ears ringing
+
 ## T2
 - Large landscape club with a small dancefloor open on a Tuesday
     - Arguably people could dance throughout all of it

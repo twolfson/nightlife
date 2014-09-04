@@ -182,6 +182,8 @@
     - Huge dancefloor got packed and it was hard to dance
         - After peak, it returned to danceable levels
     - Other dance floors were full but with room to dance
+- When it rains
+    - Large and compact umbrellas are collecte at the door
 - No reentry
 - 500 yen ($5) for a small bottle of water
 - 500 yen ($5) for cup of chicken bites

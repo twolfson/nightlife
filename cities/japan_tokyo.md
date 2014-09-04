@@ -190,6 +190,7 @@
     - Large and compact umbrellas are collecte at the door
 - No reentry
 - 500 yen ($5) for a small bottle of water
+- 500 yen ($5) for *pina colada smirnoff frozen*
 - 500 yen ($5) for cup of chicken bites
 - 700 yen ($7) for a *cuba libre* (mixed drink)
 - Staff speaks good English

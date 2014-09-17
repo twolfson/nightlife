@@ -1,4 +1,6 @@
 # nightlife
+0.15.0 - Added "Club Seata" to Tokyo
+
 0.14.0 - Updated notes for Womb on Tuesdays
 
 0.13.0 - Added notes for Hiroshima, Kyoto, and Osaka

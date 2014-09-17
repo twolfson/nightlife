@@ -52,6 +52,16 @@
 - Staff speaks good English
 - A few foreigners but mostly locals
 
+## Club Seata
+- 1 large dancefloor
+- 1 small dancefloor/lounge area
+- Went for monthly second Saturday event
+    - 2500 yen cover with 1 drink ticket
+    - Dancefloor sometimes had people but was always danceable
+- 600 yen for *rum coke* (mixed drink)
+- Staff was really friendly and spoke English
+- I was the only foreigner
+
 ## DJ'S BAR CAVE
 - 1 small lounge area
 - 1 small dance floor

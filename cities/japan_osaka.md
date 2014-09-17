@@ -1,4 +1,3 @@
 # Osaka, Japan
-
 ## Cheval
 - Placeholder

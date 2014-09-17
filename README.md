@@ -30,6 +30,7 @@ Venues are grouped by their cities, sorted alphabetically, and written in Markdo
 - [Tel Aviv](cities/israel_tel-aviv.md)
 
 ### Japan
+- [Notes on all of Japan](cities/japan_notes.md)
 - [Hiroshima](cities/japan_hiroshima.md)
 - [Kyoto](cities/japan_kyoto.md)
 - [Osaka](cities/japan_osaka.md)

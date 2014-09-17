@@ -1,5 +1,4 @@
 # Kyoto, Japan
-
 ## King Amila
 - Placeholder
 

@@ -163,9 +163,8 @@
 - 1 huge dancefloor open on Friday
 - 2 small dancefloors open on Friday
 - 4 floors total
-- Went for Tuemix (Tuesday event)
+- Went for Tuemix (Tuesday event), twice
     - 1500 yen cover ($15)
-    - Free glowsticks at the bar on Tuesday nights
     - Dancefloor and bar got filled but there was room to dance
 - Went for a rainy WEDM (Wednesday event)
     - 1500 yen cover ($15)

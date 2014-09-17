@@ -11,6 +11,7 @@
     - Dancefloor was empty and bar had a few people
 - 500 for a *cuba libre* (mixed drink)
 - Owner is fluent in English and Spanish
+- It was an even mix of foreigners and locals
 
 ## Bar Edge
 - Closed on a Monday night

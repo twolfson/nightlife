@@ -1,4 +1,6 @@
 # nightlife
+0.14.0 - Updated notes for Womb on Tuesdays
+
 0.13.0 - Added notes for Hiroshima, Kyoto, and Osaka
 
 0.12.0 - Added updates and new venues to Tokyo

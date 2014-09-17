@@ -55,6 +55,7 @@
 ## Club Seata
 - 1 large dancefloor
 - 1 small dancefloor/lounge area
+- Far from everything so make sure you like the music
 - Went for monthly second Saturday event
     - 2500 yen cover with 1 drink ticket
     - Dancefloor sometimes had people but was always danceable

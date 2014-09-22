@@ -137,6 +137,16 @@
     - 1 medium dance floor with low ceilings
     - 1 small room with a bar
     - 1 small lounge area with a DJ
+- Went on a Monday night
+  - Cover was 3500 yen ($35) with 1 drink ticket
+  - First area's large dance floor
+      - From 1AM to 4AM, was crowded and difficult to dance in
+      - After 4AM, had holes and was easier to dance
+  - First area's small dance floor
+      - From 1AM to 2AM and after 3:30AM, had people but was danceable
+      - Between 2AM and 3:30AM, was crowded and hard to dance
+  - Second area's medium dance floor had people but was always danceable
+  - No reentry
 - Went on a rainy Friday night
   - Cover was 3500 yen ($35) with 1 drink ticket
     - 500 yen ($5) discount by printing out a flyer

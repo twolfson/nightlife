@@ -30,6 +30,18 @@
 - 2900 yen for 1 *cuba libre* and 2 *bottle beers*
 - Packed and uncomfortable to dance in
 
+## Bar Quest
+- Large room with small dancefloor, small bar, and lots of tables
+    - Club-like atmosphere with lights and lazers
+- Went on a Saturday
+    - 1k cover with 1 drink ticket
+    - At 4AM, dancefloor is crowded but danceable
+    - From 4AM to 5AM, went from crowded to packed
+    - After 5AM, went back to crowded but never emptied out
+    - Seemed to be open well past 5AM
+- Did not test staff's English skills
+- 50/50 mix of foreigners and locals
+
 ## clubasia (Club Asia)
 - 1 large dancefloor that was like a concert venue (crowd followed DJs actions)
 - 1 lounge area with ambient music and bar

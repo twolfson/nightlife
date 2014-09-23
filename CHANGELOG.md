@@ -1,4 +1,6 @@
 # nightlife
+0.16.0 - Added and updated notes for Japan
+
 0.15.0 - Added "Club Seata" to Tokyo
 
 0.14.0 - Updated notes for Womb on Tuesdays

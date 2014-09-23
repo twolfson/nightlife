@@ -3,6 +3,7 @@
 - 1 medium dancefloor
 - 1 small dancefloor
 - Entire place is non-smoking except for small dancefloor in back (in another room)
+- Staff dances with customers to bring up and keep the vibe going
 - Went on a Wednesday night
     - 2000 yen cover with 1 drink ticket
     - Pretty empty at midnight

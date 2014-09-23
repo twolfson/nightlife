@@ -75,6 +75,18 @@
     - The drink menu was all katakana
 - I was the only foreigner
 
+## GASPANIC
+- Dive bar with a small dance floor
+- Went on a Friday
+    - No cover but must buy drink upon entry
+        - Staff doesn't always enforce this and it can be argued out of
+    - At 1AM, it had a few people but was danceable
+    - At 2AM, packed and cannot dance
+    - At 3AM, crowded but danceable
+- 900 yen for *rum coke* (mixed drink)
+- Staff spoke English
+- 50/50 mix of foreigners and locals
+
 ## Hub 2
 - Large dive bar
 - No cover on weekday or weekend

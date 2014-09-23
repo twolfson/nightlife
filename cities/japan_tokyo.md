@@ -87,6 +87,16 @@
 - Staff spoke English
 - 50/50 mix of foreigners and locals
 
+## Geronimo
+- Dive bar with medium sized room and 2 bars
+- Went on a Saturday
+    - No cover
+    - At 1AM, crowded and loud
+    - At 3AM, has a few people but feels empty
+- 1000 yen for shot
+- Staff spoke English
+- 50/50 mix of foreigners and locals
+
 ## Hub 2
 - Large dive bar
 - No cover on weekday or weekend

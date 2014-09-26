@@ -87,7 +87,7 @@
     - The drink menu was all katakana
 - I was the only foreigner
 
-## GASPANIC
+## GASPANIC - Shibuya
 - Dive bar with a small dance floor
 - Went on a Friday
     - No cover but must buy drink upon entry

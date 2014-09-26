@@ -87,6 +87,19 @@
     - The drink menu was all katakana
 - I was the only foreigner
 
+## GASPANIC - Roppongi
+- 1 large room with a small bar and medium dancefloor
+- 1 small room with a bunch of tables
+- Went on a Thursday
+    - No cover but you are required to have a drink at all times
+        - Staff actively walks around and checks that you have a drink with liquid in it
+        - Staff has a card that says you will be asked to leave if not
+        - I strongly suggest refilling with tap water from the bathroom
+    - From 2:30AM to 4:30AM, was crowded but could dance
+    - A few foreigners but mostly locals
+- 300 yen for *rum coke* (mixed drink)
+- Staff spoke English
+
 ## GASPANIC - Shibuya
 - Dive bar with a small dance floor
 - Went on a Friday

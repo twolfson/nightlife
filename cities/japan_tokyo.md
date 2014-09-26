@@ -98,6 +98,12 @@
     - The drink menu was all katakana
 - I was the only foreigner
 
+## ELE TOKYO
+- Dress code enforced on a Thursday night, couldn't enter
+    - No shorts
+    - No t-shirts
+
+
 ## GASPANIC - Roppongi
 - 1 large room with a small bar and medium dancefloor
 - 1 small room with a bunch of tables
@@ -150,6 +156,9 @@
   - Packed at 5AM but could still dance
 - I don't recall English level of the staff
 - Mostly foreigners
+
+## Lex Tokyo
+- 3000 yen cover on a Thursday night, did not enter
 
 ## Module
 - 1 bar area with tiny dance floor

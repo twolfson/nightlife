@@ -1,4 +1,6 @@
 # nightlife
+0.17.0 - Updated notes for Japan and README questions
+
 0.16.0 - Added and updated notes for Japan
 
 0.15.0 - Added "Club Seata" to Tokyo

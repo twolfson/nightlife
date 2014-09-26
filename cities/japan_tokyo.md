@@ -103,7 +103,6 @@
     - No shorts
     - No t-shirts
 
-
 ## GASPANIC - Roppongi
 - 1 large room with a small bar and medium dancefloor
 - 1 small room with a bunch of tables

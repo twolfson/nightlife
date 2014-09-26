@@ -48,6 +48,6 @@ In our notes, we try to answer the following questions. We skip over music since
   - How crowded does it get? Can we still dance?
   - What was the cover?
     - Is reentry allowed?
+  - In foreign countries, how many locals were there? How many foreigners?
 - What is the cost of a drink?
 - In foreign countries, how much English did the staff speak?
-- In foreign countries, how many locals were there? How many foreigners?

@@ -23,6 +23,17 @@
 - Did not test staff's English skills
 - A few foreigners but mostly locals
 
+## Bar Enzo
+- Bar/club combination
+- 1 large room with 2 small sets of tables, 1 small bar, and 1 small dancefloor
+- Went on a Thursday night
+    - No cover
+    - At 2:30 AM, it was empty
+    - After 4:30AM, there were a few people
+    - It was mostly foreigners
+- 1000 yen for *cuba libre* (mixed drink)
+- Staff spoke English
+
 ## Bar Green Land
 - Medium sized bar with dance music
 - No formal dancefloor

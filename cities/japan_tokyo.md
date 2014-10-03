@@ -160,6 +160,9 @@
 ## Jumanji 55
 - Medium bar with dance music
 - No defined dance floor
+- Went on a Thursday
+  - No cover
+  - At 4AM, crowded but can dance
 - Went on a Saturday
   - No cover
   - Packed at 5AM but could still dance
@@ -183,6 +186,9 @@
 
 ## New Planet
 - 1 medium dance floor
+- Went on a Thursday
+  - No cover
+  - At 4AM, virtually empty
 - Went on a Saturday at 6AM
   - Not sure if there was a cover or not, I did not pay anything but a friend might have
   - Crowded, hard to dance

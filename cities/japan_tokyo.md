@@ -163,6 +163,12 @@
 - Staff speaks great English
 - Mostly foreigners
 
+## Joker's Bar
+- 1 medium room with bar and danceable area
+- Went on a Thursday
+    - No cover
+    - At 4AM, had a few people
+
 ## Jumanji 55
 - Medium bar with dance music
 - No defined dance floor

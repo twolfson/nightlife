@@ -1,4 +1,10 @@
 # Tokyo, Japan
+**Recommendations:**
+
+- For drinking, [Hub 2](#hub-2) has good prices, a decent crowd, and a nice mix of foreigners/locals
+- For dancing on weekdays, [Womb](#womb) is the best choice with good music and a nice crowd
+- For dancing on the weekend, I never found an option I liked. It is either too crowded or a one-time event far away. Good luck =)
+
 ## Abbot's Choice
 - Small dive bar marketed as high class bar
 - No cover but 1 drink required per person

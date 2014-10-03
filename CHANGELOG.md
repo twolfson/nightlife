@@ -1,4 +1,6 @@
 # nightlife
+0.18.0 - Added more notes for Tokyo
+
 0.17.0 - Updated notes for Japan and README questions
 
 0.16.0 - Added and updated notes for Japan

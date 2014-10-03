@@ -173,9 +173,9 @@
 - 3000 yen cover on a Thursday night, did not enter
 
 ## Module
-- 1 bar area with tiny dance floor
-- 1 lounge with tiny dance floor
-- 1 medium dancefloor in the basement
+- 1 small room with a small bar and a tiny dance floor
+- 1 small room (lounge) with a tiny dance floor
+- 1 medium room (all dancefloor) in the basement
 - 2500 yen cover ($25) with 1 drink ticket on a Friday night
   - Only a few people were dancing but the bar had a good amount of people
   - No reentry
@@ -185,7 +185,7 @@
 - I was the only foreigner
 
 ## New Planet
-- 1 medium dance floor
+- 1 large room with a medium dance floor
 - Went on a Thursday
   - No cover
   - At 4AM, virtually empty

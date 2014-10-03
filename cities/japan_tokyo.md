@@ -86,6 +86,16 @@
 - Staff was really friendly and spoke English
 - I was the only foreigner
 
+## ColoR
+- 1 large room with a medium dancefloor
+- Went on a Wednesday night
+    - 2000 yen cover with 1 drink ticket
+    - At 12AM, had a few people
+    - After 1:30AM, had a small crowd but was still relatively empty
+    - I was the only foreigner
+- 700 yen for *malibu coke* (mixed drink)
+- Staff was friendly and spoke English
+
 ## DJ'S BAR CAVE
 - 1 small lounge area
 - 1 small dance floor

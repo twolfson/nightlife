@@ -57,6 +57,7 @@
     - After 4:30, huge was packed again. Probably due to set change or rain
     - After 4:30, medium room outside had people but was open for dancing
     - After 5, pool area had a few people and was very dancable. It was raining at the time but people were still dancing
+    - It was mostly locals with some foreigners
 - Most of the club is non-smoking, including the huge dancefloor and food court
 - 300 yen for tall water bottle
 - 500 yen for a bunch of fried chicken from food court
@@ -71,6 +72,9 @@
     - At 2:30 AM, it was empty
     - After 4:30AM, there were a few people
     - It was mostly foreigners
+- Went on a Friday night
+    - No cover
+    - At 4:30AM, it had a few people but wasn't crowded
 - 1000 yen for *cuba libre* (mixed drink)
 - Staff spoke English
 
@@ -84,6 +88,10 @@
 ## Bar Quest
 - Large room with small dancefloor, small bar, and lots of tables
     - Club-like atmosphere with lights and lazers
+- Went on a Friday
+    - 1k cover with 1 drink ticket
+    - At 4AM, had a crowd but not packed
+    - After 5AM, started crowding and never emptied
 - Went on a Saturday
     - 1k cover with 1 drink ticket
     - At 4AM, dancefloor is crowded but danceable
@@ -119,7 +127,7 @@
 - 1 large dancefloor
 - 1 small dancefloor/lounge area
 - Far from everything so make sure you like the music
-- Went for monthly second Saturday event
+- Went for monthly second Saturday event (twice)
     - 2500 yen cover with 1 drink ticket
     - Dancefloor sometimes had people but was always danceable
 - 600 yen for *rum coke* (mixed drink)
@@ -162,6 +170,10 @@
         - Staff has a card that says you will be asked to leave if not
         - I strongly suggest refilling with tap water from the bathroom
     - From 2:30AM to 4:30AM, was crowded but could dance
+    - A few foreigners but mostly locals
+- Went on a Friday
+    - Same no cover but drink required rule
+    - Had a crowd but could dance
     - A few foreigners but mostly locals
 - 300 yen for *rum coke* (mixed drink)
 - Staff spoke English

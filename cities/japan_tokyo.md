@@ -29,6 +29,40 @@
 - Did not test staff's English skills
 - A few foreigners but mostly locals
 
+## ageHa
+- Huge warehouse
+    - 1 medium rom with medium bar
+    - 1 small room with small dancefloor
+    - 1 huge room with huge dancefloor
+        - Dancefloor had barriers in the middle to avoid crowd pinching
+    - 1 hallway from huge room
+        - Left side
+            - 1 medium room with small bar
+            - 1 medium room which was all dancefloor
+        - Right side
+            - Small hallway leading outside
+              - 1 medium room all dancefloor (access via outside)
+              - 1 medium sized area food court
+              - 1 medium bar
+              - 1 small bar
+              - 1 small area with small pool in center, remainder was dancefloor
+            - 1 medium room with a small bar (connects back from outside)
+- Had food court
+- Went on a rainy Saturday night
+    - 4000 yen cover for advance ticket
+    - At 12:30AM, 10 minute wait for advance ticket line
+    - From 1 to 2, huge room had a crowd but was mostly open
+    - From 2 to 3:30, huge was crowded and couldn't dance
+    - From 3:30 to 4:30, huge had a crowd but could find room to dance
+    - After 4:30, huge was packed again. Probably due to set change or rain
+    - After 4:30, medium room outside had people but was open for dancing
+    - After 5, pool area had a few people and was very dancable. It was raining at the time but people were still dancing
+- Most of the club is non-smoking, including the huge dancefloor and food court
+- 300 yen for tall water bottle
+- 500 yen for a bunch of fried chicken from food court
+- Far away so make sure you like the music
+- Staff spoke good English
+
 ## Bar Enzo
 - Bar/club combination
 - 1 large room with 2 small sets of tables, 1 small bar, and 1 small dancefloor

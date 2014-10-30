@@ -9,3 +9,11 @@
 - Water is usually not free and in small bottles
     - I suggest buying it once and refilling in bathroom
 - People offer drinks to one another if they look hot/thirsty or want to be friendly
+
+**Sites:**
+
+- http://iflyer.tv/en-jp/
+    - Best site with most listings
+    - Offers DJ previews on site, ideal since finding the correct DJ outside of that is difficult
+- http://metropolis.co.jp/listings/clubbing/
+    - Offers some events not found in iflyer

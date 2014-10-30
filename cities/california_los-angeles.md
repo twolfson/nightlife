@@ -5,6 +5,18 @@
   - Most other places seem to be house
 - Some places have bathroom attendants
 
+## Arrowhead Elks Lodge 896
+- 1 floor
+  - 1 large room, all dancefloor with medium bar
+  - 1 medium outside area with small dancefloor
+  - 1 small room, all dancefloor with small bar
+- Went on a Saturday (for a rave)
+  - $20 cover
+  - Dancefloors had people but there was always plenty of room to dance
+  - Had 3 outdoor merchants selling rave gear
+- $5 *rum and coke*
+- $3 tall bottle of water
+
 ## Couture
 - 1 floor
   - 1 large room with medium dancefloor and medium bar

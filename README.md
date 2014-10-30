@@ -7,6 +7,7 @@ Venues are grouped by their cities, sorted alphabetically, and written in Markdo
 ### United States
 #### California
 - [Berkeley](cities/california_berkeley.md)
+- [Los Angeles](cities/california_los-angeles.md)
 - [Oakland](cities/california_oakland.md)
 - [San Francisco](cities/california_san-francisco.md)
 - SF South Bay

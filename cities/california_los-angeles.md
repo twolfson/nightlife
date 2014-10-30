@@ -11,6 +11,7 @@
 - Went on a Thursday
   - $10 cover
   - Dancefloor had a crowd but could find room to dance
+    - Each person had their own space to dance
   - Bar was easy to access
 - $9 for a *rum and coke* (mixed drink)
 - Water was free

@@ -50,5 +50,6 @@ In our notes, we try to answer the following questions. We skip over music since
   - What was the cover?
     - Is reentry allowed?
   - In foreign countries, how many locals were there? How many foreigners?
+  - Was there a dress code?
 - What is the cost of a drink?
 - In foreign countries, how much English did the staff speak?

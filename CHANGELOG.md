@@ -1,4 +1,6 @@
 # nightlife
+0.20.0 - Added notes for LA
+
 0.19.0 - Added last of notes for Tokyo
 
 0.18.0 - Added more notes for Tokyo

@@ -1,4 +1,6 @@
 # nightlife
+0.22.0 - Documented websites for SF and Japan
+
 0.21.0 - Added another note for Japan
 
 0.20.0 - Added notes for LA

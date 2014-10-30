@@ -8,3 +8,4 @@
 - Most clubs have lockers for storing belongings
 - Water is usually not free and in small bottles
     - I suggest buying it once and refilling in bathroom
+- People offer drinks to one another if they look hot/thirsty or want to be friendly

@@ -10,6 +10,17 @@
 - [Vessel](#vessel)
 - [DNA Lounge](#dna-lounge-bootie-sf)
 
+**Sites:**
+
+- http://www.nitevibe.com/ - Weekly flyer posted on Monday/Tuesday
+- http://www.sfstation.com/music/calendar/ - Calendar of SF events
+- http://clubzone.com/san-francisco/events/?sort=date - Calendar of SF events
+- http://www.sfhousemusic.com/Events - Weekly flyer
+- https://www.facebook.com/swingset.electric - Swing dance meetups
+- https://www.facebook.com/KandiloveSF - Rave promoter
+- https://www.facebook.com/PLURAlliance - Another rave promoter
+- https://www.facebook.com/pages/Imagine-Unity/112612435444777 - Yet another rave promoter
+
 ## 15 Romolo Place
 - Speakeasy-esque bar with nice cocktails
 - Usually birthday parties are held here
@@ -348,6 +359,7 @@
 - Electronic / hip hop / pop music
 - Not crowded
 - Every sunday there is an 18+ kandi kid rave
+  - https://www.facebook.com/SunsetArcadeSF
 
 ## Thee Parkside
 - Bar

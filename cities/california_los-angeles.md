@@ -5,6 +5,24 @@
   - Most other places seem to be house
 - Some places have bathroom attendants
 
+**Top picks:**
+
+- [The Echoplex](#the-echoplex) for [Bootie LA](http://bootiemashup.com/la/)
+- Any rave event
+
+**Sites:**
+
+- http://restlessnites.com/ - Listings of events that are occurring
+- http://www.socal-raves.org/calendar/ - Dead board with some good listings
+- https://www.facebook.com/noyzrus.productions - Rave producer
+- https://www.facebook.com/pages/Plur-Eventz/110303845806894 - Rave producer
+- https://www.facebook.com/STATIONLOSANGELES - Rave producer
+- https://www.facebook.com/pages/CKM-Records/234385369926934 - Rave producer
+- https://www.facebook.com/spinnindirty - Rave producer
+- https://www.facebook.com/mergemusicevents - Rave producer
+- http://www.q-dance.com/north-america/en/events/ - Rave events that I never attended
+- http://www.insomniac.com/ - EDM events that I never attended
+
 ## Alvarado's
 - This is an after hours place
 - 1 floor

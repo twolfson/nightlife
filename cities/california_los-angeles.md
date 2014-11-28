@@ -5,17 +5,34 @@
   - Most other places seem to be house
 - Some places have bathroom attendants
 
+## Alvarado's
+- This is an after hours place
+- 1 floor
+  - 1 small room indoors, all dancefloor
+  - Large outdoor area with multiple heaters
+- Went on a Saturday
+  - $10 cover
+  - Dancefloor varied in density
+    - Packed at times, not at others
+  - Was at from 2Am to 7AM
+  - Outside was filled from 2AM to 5AM
+  - Started emptying out by 5AM, was empty at 7AM
+
 ## Arrowhead Elks Lodge 896
 - 1 floor
   - 1 large room, all dancefloor with medium bar
   - 1 medium outside area with small dancefloor
   - 1 small room, all dancefloor with small bar
-- Went on a Saturday (for a rave)
+- Went on a Saturday (for a rave, twice)
   - $20 cover
   - Dancefloors had people but there was always plenty of room to dance
-  - Had 3 outdoor merchants selling rave gear
+  - One time
+    - Had 3 outdoor merchants selling rave gear
+  - Another time
+    - 1 indoor merchant selling rave gear but none outside
 - $5 *rum and coke*
 - $3 tall bottle of water
+- $4 for large bottle of Gatorade
 
 ## Couture
 - 1 floor
@@ -56,6 +73,17 @@
   - $9 for *Malibu coke* (mixed drink)
   - $4 for tall water bottle
   - Had good amount of people but was so big that there was always room to dance and sometimes felt empty
+
+## The MIME
+- 1 floor
+  - Medium room with tiny bar
+  - Small smoking area ouside
+- Went on a Saturday (rave)
+  - $15 cover
+  - $2 for tall water bottle
+  - $2 for Powerade
+  - Had people but plenty of room to dance
+    - Was at from 11PM to 2AM
 
 ## Project Club Los Angeles
 - 1 main floor with upstairs for bathrooms

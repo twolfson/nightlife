@@ -1,4 +1,6 @@
 # nightlife
+0.24.0 - Added LA recommendations
+
 0.23.0 - Added remaining venues/updates for LA
 
 0.22.0 - Documented websites for SF and Japan

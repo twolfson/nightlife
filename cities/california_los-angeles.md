@@ -63,6 +63,20 @@
 - $9 for a *rum and coke* (mixed drink)
 - Free water
 
+## The Echoplex
+- 1 floor
+  - Huge room with medium dancefloor
+    - Remainder was bar-like area but plenty of dancing going on
+    - 1 small bar
+    - 1 medium bar
+- Went on a Saturday (Bootie LA)
+  - $10 cover
+  - $10 for *Sailor Jerry and coke* (mixed drink)
+  - $3 for *coca cola* (soda)
+  - Dancefloor was grounded but could dance on outskirts
+  - After 2AM, started thinning out.
+  - Closed at 2:30AM
+
 ## Florentine Gardens
 - 1 floor
   - Big room with large dancefloor and medium bar

@@ -44,7 +44,7 @@ Venues are grouped by their cities, sorted alphabetically, and written in Markdo
 In our notes, we try to answer the following questions. We skip over music since that can vary significantly from night to night.
 
 - Is it a bar, club, combination, or something else?
-- How many rooms are there? What is in each room (e.g. bar, tables, dancefloor)? How big are they?
+- How many rooms are there? What is in each room (e.g. bar, tables, dancefloor)? How big are they? What kind of visual effects did they have?
 - When did you go?
   - How crowded does it get? Can we still dance?
   - What was the cover?

@@ -36,3 +36,7 @@
     - From 1:00-3:15AM, second floor was full but had room to dance
     - After 3:15AM, second floor started to empty
     - Left at 3:45AM
+    - Dress code listed as "dress nice" but there were plenty of t-shirts
+- $12 for *Ciroc and Sprite* (top shelf mixed drink)
+- $8 for *Rum and Coke* (well mixed drink)
+- $0 for tall glass of water

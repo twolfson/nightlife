@@ -40,3 +40,21 @@
 - $12 for *Ciroc and Sprite* (top shelf mixed drink)
 - $8 for *Rum and Coke* (well mixed drink)
 - $0 for tall glass of water
+
+## Crocodile
+- 2 floors
+    - Ground floor
+        - 1 medium bar
+        - 1 medium dancefloor
+        - 1 medium table area in back
+    - Basement floor
+        - Was not opened
+- Went on New Year's Eve (2014/12/31)
+    - $30 cover
+    - Arrived at 11:00PM, first floor was crowded but except for back area
+        - Could barely dance
+        - Downstairs was not open
+    - At 12:00PM, they cleared out tables and there was room to dance
+    - At 1:00AM, there were people but much more room to dance
+    - Closed at 1:45AM
+- $9 for *rum and coke* (well mixed drink)

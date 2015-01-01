@@ -57,3 +57,18 @@
     - At 1:00AM, there were people but much more room to dance
     - Closed at 1:45AM
 - $9 for *rum and coke* (well mixed drink)
+- No visible coat check
+
+## Mojoes (Joliet, IL)
+- 2 floors
+    - Ground floor
+        - Large room with medium dancefloor and small bar
+    - Upstairs floor
+        - Did not explore but looked like thin railing outlining ground floor looking down on dancefloor
+- Went on a Saturday (2014/12/27)
+    - $25 cover
+    - Crowded from 11PM to 1AM (left after that)
+    - Had EDM merchant on ground floor
+- Music was way too loud
+- $2 for tall water bottle
+- $3 for coat check

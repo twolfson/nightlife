@@ -28,7 +28,7 @@
                 - Floor lights with patterns (e.g. polka dots)
     - There were 3 more tiers after the second floor but they were visibly open to the second floor and mostly tables
 - Went on a Saturday (winter)
-    - $20 cover
+    - $20 cover (door)
     - $4 coat check (combined 2 jackets for same price)
     - Arrived at 11:40
     - At 11:40PM, first floor was full but second and basement were virtually empty
@@ -49,7 +49,7 @@
     - Basement floor
         - Was not opened
 - Went on New Year's Eve (2014/12/31)
-    - $30 cover
+    - $30 cover (advance online)
     - Arrived at 11:00PM, first floor was crowded but except for back area
         - Could barely dance
         - Downstairs was not open
@@ -65,10 +65,30 @@
         - Large room with medium dancefloor and small bar
     - Upstairs floor
         - Did not explore but looked like thin railing outlining ground floor looking down on dancefloor
-- Went on a Saturday (2014/12/27)
-    - $25 cover
+- Went on a Saturday (2014/12/20)
+    - $25 cover (door)
     - Crowded from 11PM to 1AM (left after that)
     - Had EDM merchant on ground floor
 - Music was way too loud
 - $2 for tall water bottle
 - $3 for coat check
+
+## Spybar
+- 1 floor
+    - Basement floor
+        - Big room
+            - Small open area
+            - Medium bar
+            - Medium dancefloor
+            - Small bar near dancefloor
+            - Tables otherwise
+- Went on a Saturday (2014/12/27)
+    - $10 cover (advance online)
+    - From 10:30PM to 11:30PM, it was empty
+    - From 11:30PM to 12:30PM, had people but dancable
+    - From 12:30PM to 3:00AM, packed/hard to dance
+    - At 3:00AM, a lot of people but had room to dance
+- $9 for *vodka sprite* (well mixed drink)
+- $9 for *whiskey soda* (well mixed drink)
+- $9 for *rum and coke* (well mixed drink)
+- $4 coat check

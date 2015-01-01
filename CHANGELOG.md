@@ -1,4 +1,6 @@
 # nightlife
+0.26.0 - Added more Chicago venues
+
 0.25.0 - Started Chicago docs
 
 0.24.0 - Added LA recommendations

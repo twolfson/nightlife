@@ -11,11 +11,11 @@ Venues are grouped by their cities, sorted alphabetically, and written in Markdo
 - [Oakland](cities/california_oakland.md)
 - [San Francisco](cities/california_san-francisco.md)
 - SF South Bay
-  - [Notes on all of them](cities/california_sf-south-bay-notes.md)
-  - [Mountain View](cities/california_mountain-view.md)
-  - [Palo Alto](cities/california_palo-alto.md)
-  - [San Jose](cities/california_san-jose.md)
-  - [Sunnyvale](cities/california_sunnyvale.md)
+    - [Notes on all of them](cities/california_sf-south-bay-notes.md)
+    - [Mountain View](cities/california_mountain-view.md)
+    - [Palo Alto](cities/california_palo-alto.md)
+    - [San Jose](cities/california_san-jose.md)
+    - [Sunnyvale](cities/california_sunnyvale.md)
 - [Santa Cruz](cities/california_santa-cruz.md)
 
 #### Florida
@@ -48,11 +48,12 @@ In our notes, we try to answer the following questions. We skip over music since
 
 - Is it a bar, club, combination, or something else?
 - How many rooms are there? What is in each room (e.g. bar, tables, dancefloor)? How big are they? What kind of visual effects did they have?
-- When did you go?
-  - How crowded does it get? Can we still dance?
-  - What was the cover?
-    - Is reentry allowed?
-  - In foreign countries, how many locals were there? How many foreigners?
-  - Was there a dress code?
+- When did you go? (day of the week, date/season)
+    - How crowded does it get? Can we still dance?
+    - What was the cover?
+        - Is reentry allowed?
+    - In foreign countries, how many locals were there? How many foreigners?
+    - Was there a dress code?
 - What is the cost of a drink?
+- How much was coat check?
 - In foreign countries, how much English did the staff speak?

@@ -44,9 +44,8 @@
 ## Crocodile
 - 2 floors
     - Ground floor
-        - 1 medium bar
-        - 1 medium dancefloor
-        - 1 medium table area in back
+        - 1 large room with medium bar and medium dancefloor
+        - 1 medium room in back, all tables
     - Basement floor
         - Was not opened
 - Went on New Year's Eve (2014/12/31)

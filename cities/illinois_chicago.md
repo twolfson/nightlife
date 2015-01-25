@@ -92,3 +92,37 @@
 - $9 for *whiskey soda* (well mixed drink)
 - $9 for *rum and coke* (well mixed drink)
 - $4 coat check
+
+## Studio Paris
+- 1 floor
+    - Upstairs
+        - 1 medium room
+            - 1 medium bar
+            - Remainder was tables/open space
+        - 1 medium room
+            - 1 small dance floor
+            - Remainder was tables
+            - Visuals
+                - Used lasers + mirrors for repeating laser effect
+                - Had overhead LED panels that would play horizontal scrolling animations around the room
+- Went on a Wednesday (2014/01/14)
+    - $20 cover (door)
+    - At 11AM, there were people at tables but dancefloor was empty
+    - At 12AM, dancefloor was crowded but could barely dance
+    - At 1AM, dancefloor opened up and could dance
+    - People started to leave at 12:30AM
+    - Everyone was dressed up nicely
+- $9 for *vodka sprite* (well mixed drink)
+- $4 coat check
+
+## Third Rail
+- This is a bar
+- 1 floor
+    - Ground floor
+        - Large room with medium bar
+- Went on a Friday (2014/01/16)
+    - No cover
+    - From 11PM to 12PM, it was crowded
+    - From 12PM to 2AM, there was an average crowd
+    - At 2AM, the place closed
+- $6 for *fireball coke* (mixed drink)

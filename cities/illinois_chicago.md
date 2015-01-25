@@ -59,6 +59,16 @@
 - $9 for *rum and coke* (well mixed drink)
 - No visible coat check
 
+## Grand Bar
+- 1 floor
+    - Ground floor
+        - Large room with medium dancefloor and medium bar
+- Went on a Friday (2014/01/16)
+    - $10 cover
+    - From 3AM to 3:30Am, dancefloor was filled and bar was crowded
+        - There was room to dance near the bar
+- $4 coat check
+
 ## Mojoes (Joliet, IL)
 - 2 floors
     - Ground floor
@@ -114,6 +124,25 @@
     - Everyone was dressed up nicely
 - $9 for *vodka sprite* (well mixed drink)
 - $4 coat check
+
+## The MID
+- 3 floors
+    - Basement
+        - Coat check, bathrooms, and photobooth
+    - Ground floor
+        - Large room with 2 medium bars, medium dance floor, and tables
+    - Upstairs
+        - Large room with hole in center (making it medium)
+            - 1 medium bar, medium open space, and tables
+- Went on a Saturday (2014/01/25)
+    - $20 cover + $5 service fee (advance)
+    - Initially was turned away for wearing graphic tee, only solid tees or collared shirts are allowed
+    - From 11:30AM to 1AM, there was a crowd and it was hard to dance but it could be done
+    - From 1AM to 2:30AM, packed and couldn't dance
+    - From 2:30AM to 3:30AM, crowded but could dance
+- $9 for *vodka sprite* (well mixed drink)
+- $10 for *whiskey soda* (well midex drink)
+- $4 for coat check
 
 ## Third Rail
 - This is a bar

@@ -1,8 +1,8 @@
 # Chicago
-**Tentative notes:**
+**Notes:**
 
-- TODO: Find out when last call occurs
-- Seemed to close at 5AM
+- Last call can be at 2AM, 4AM, or 5AM
+    - It depends on the bar but usually events will list a closing time
 
 ## Castle
 - 3 floors

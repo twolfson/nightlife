@@ -4,6 +4,22 @@
 - Last call can be at 2AM, 4AM, or 5AM
     - It depends on the bar but usually events will list a closing time
 
+## C-Haus
+- 2 floors
+    - Ground floor
+        - 1 big room with small bar, medium dancefloor, small stage, medium open space, and small open space
+        - Outside area had small open space, medium tent, and dome
+    - Upstairs
+        - 2 small rooms (lounge-like)
+        - 1 small room with small bar
+        - 1 small room with couches
+- Went on Saturday (2015/01/31 - Burners without Borders)
+    - $27 including service (advance)
+    - From 11PM to 4:30AM, had crowd but was always danceable
+- $6 for *vodka sprite* (well, mixed drink)
+- $6 for *whisky soda* (well, mixed drink)
+- No coat check
+
 ## Castle
 - 3 floors
     - Basement floor

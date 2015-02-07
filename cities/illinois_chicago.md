@@ -85,6 +85,15 @@
         - There was room to dance near the bar
 - $4 coat check
 
+## High Noon Saloon
+- Bar
+- 1 floor
+    - Ground floor
+        - Large room with medium bar and lots of tables
+- Went on Thursday (2015/02/05)
+    - No cover
+    - From 7:30PM to 11:30PM, had a few people at the bar
+
 ## Mojoes (Joliet, IL)
 - 2 floors
     - Ground floor

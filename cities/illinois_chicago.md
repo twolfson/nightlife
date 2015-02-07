@@ -95,6 +95,18 @@
 - $6 for *whisky soda* (well, mixed drink)
 - No coat check
 
+## Shamrock Club
+- Bar
+- 1 floor
+    - Ground floor
+        - Large yet narrow room with medium bar
+        - Has grill
+- Went on a Thursday (2015/01/29)
+    - No cover
+    - From 7PM to 9PM, had a decent crowd
+    - At 9PM, started to empty out
+- $4.25 for *vodka sprite* (well, mixed drink)
+
 ## Spybar
 - 1 floor
     - Basement floor

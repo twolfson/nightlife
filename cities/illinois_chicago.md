@@ -83,6 +83,18 @@
 - $2 for tall water bottle
 - $3 for coat check
 
+## Neo
+- 1 floor
+    - Ground floor
+        - Large room with medium bar and medium dancefloor
+- Went on a Wednesday (2015/01/28)
+    - No cover
+    - From 11PM to 2AM, had small crowd that churned throughout the night
+        - Was danceable
+- $6 for *rum coke* (well, mixed drink)
+- $6 for *whisky soda* (well, mixed drink)
+- No coat check
+
 ## Spybar
 - 1 floor
     - Basement floor

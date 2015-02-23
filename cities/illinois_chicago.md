@@ -126,6 +126,10 @@
     - From 12:30AM to 4AM, all upstairs areas were crowded and grew over the course of the night, always danceable though
     - At 4AM, location closed
     - It was a good balance of open space and crowd for the dancefloor
+- $6 for *vodka sprite* (well)
+- $7 for *rum coke* (well)
+- $7 for *whisky soda* (well)
+- $0 for medium *cup of water* with ice
 - No coat check
 
 ## Grand Bar

@@ -111,6 +111,22 @@
     - From 2AM to 3AM, had a few people but was mostly open and danceable
 - $10 for *mailbu coke*
 
+## Exit
+- Hybrid dive bar with a dancefloor
+- 2 floors
+    - Ground floor (dive bar)
+        - 1 large long room with medium bar
+    - Upstairs (dive bar with dancefloor)
+        - 1 small room with small bar
+        - 1 medium room, all dancefloor
+        - 1 small room with small bar
+- Went on a Friday (2015/02/20)
+    - From 11PM to 12:30AM, upstairs entrance-side bar was packed, upstairs dancefloor had a few people, upstairs rear bar had a few people
+    - From 12:30AM to 4AM, all upstairs areas were crowded and grew over the course of the night, always danceable though
+    - At 4AM, location closed
+    - It was a good balance of open space and crowd for the dancefloor
+- No coat check
+
 ## Grand Bar
 - 1 floor
     - Ground floor

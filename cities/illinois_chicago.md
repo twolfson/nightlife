@@ -75,6 +75,41 @@
 - $9 for *rum and coke* (well mixed drink)
 - No visible coat check
 
+## Debonair Social Club
+- 2 floors
+    - Ground floor
+        - Large room
+            - Medium dancefloor
+            - Medium bar
+            - Small open space
+            - Remainder was tables
+    - Basement
+        - Large room
+            - Medium bar
+            - Small dancefloor
+            - Remainder was couches/tables
+- Went on a Friday (2015/02/06)
+    - $5 cover with free drink ticket for knowing event passphrase
+    - At 11PM, ground had people but was relatively empty. Basement was crowded but could find room to dance.
+    - At midnight, both upstairs/downstairs were packed
+    - At 1:15AM, upstairs started to loosen up but still had a large crowd
+    - At 1:45AM, location closed
+
+## Evil Olive
+- 1 floor open, possibly upstairs and back area
+    - Ground floor
+        - 1 huge room
+            - Medium bar
+            - Medium open area
+            - Small dancefloor
+            - Medium open area
+            - Small bar
+- Went on Friday (2015/02/06)
+    - $5 cover
+    - $3 or $4 coat check was mandatory
+    - From 2AM to 3AM, had a few people but was mostly open and danceable
+- $10 for *mailbu coke*
+
 ## Grand Bar
 - 1 floor
     - Ground floor

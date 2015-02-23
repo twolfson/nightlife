@@ -88,8 +88,9 @@
             - Medium bar
             - Small dancefloor
             - Remainder was couches/tables
-- Went on a Friday (2015/02/06)
+- Went on a Friday (2015/02/06) for a Masquerade party
     - $5 cover with free drink ticket for knowing event passphrase
+    - 5% of attendants had Masquerade masks
     - At 11PM, ground had people but was relatively empty. Basement was crowded but could find room to dance.
     - At midnight, both upstairs/downstairs were packed
     - At 1:15AM, upstairs started to loosen up but still had a large crowd

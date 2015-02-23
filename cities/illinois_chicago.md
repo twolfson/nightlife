@@ -210,6 +210,21 @@
 - $9 for *vodka sprite* (well mixed drink)
 - $4 coat check
 
+## The Loft
+- 1 floor
+    - Upstairs
+        - 1 large room with medium dancefloor and small bar
+- Went on a Saturday (2015/02/14) for a rave
+    - $20 cover at door
+    - From 11:30PM to midnight, had a crowd outside dancefloor but dancefloor was open
+    - From midnight to 2AM, dancefloor was packed, hard to dance but could on outskirts
+    - From 2AM to 4AM, dancefloor was crowded but could dance
+- Drinks worked on ticket basis
+    - $3 for a ticket, later became $4
+    - 1 ticket for a tall water bottle
+    - 2 tickets for *vodka sprite*
+- No coat check
+
 ## The MID
 - 3 floors
     - Basement

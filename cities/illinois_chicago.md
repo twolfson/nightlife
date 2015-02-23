@@ -121,6 +121,7 @@
         - 1 medium room, all dancefloor
         - 1 small room with small bar
 - Went on a Friday (2015/02/20)
+    - No cover
     - From 11PM to 12:30AM, upstairs entrance-side bar was packed, upstairs dancefloor had a few people, upstairs rear bar had a few people
     - From 12:30AM to 4AM, all upstairs areas were crowded and grew over the course of the night, always danceable though
     - At 4AM, location closed

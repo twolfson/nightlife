@@ -121,6 +121,7 @@
 - $9 for *rum coke*
 - $9 for *fireball coke*
 - $10 for *mailbu coke*
+- $5 for *tall bottle of water*
 
 ## Exit
 - Hybrid dive bar with a dancefloor

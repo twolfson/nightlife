@@ -191,6 +191,19 @@
 ## Nucleus
 - Great music, great crowd
 
+## Redmond's Pub
+- 1 floor
+    - Ground floor
+        - Medium room with medium bar
+        - Medium room with small dancefloor, remainder was tables
+- Went on Saturday (2015/02/28)
+    - No cover
+    - From 11PM to 2AM, barely anyone on dancefloor
+- $4 for *vodka sprite*
+- $4 for *rum coke*
+- $4 for *malibu coke*
+- No coat check
+
 ## Shamrock Club
 - Bar
 - 1 floor

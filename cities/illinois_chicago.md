@@ -162,6 +162,18 @@
     - No cover
     - From 7:30PM to 11:30PM, had a few people at the bar
 
+## Logan Arcade
+- Bar with lots of pinball and cabinet arcade games
+- 1 floor
+    - Ground floor
+        - Medium room with medium bar and lots of games
+        - Medium room, all games
+        - Medium room, all games
+- Went on Friday (2015/03/06)
+    - No cover
+    - From 11PM to 1AM, had good amount of people but wasn't overwhelming
+- $7 for *Kraken coke*
+
 ## Mojoes (Joliet, IL)
 - 2 floors
     - Ground floor

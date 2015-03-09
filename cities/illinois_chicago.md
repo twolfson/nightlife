@@ -177,6 +177,9 @@
 - $6 for *whisky soda* (well, mixed drink)
 - No coat check
 
+## Nucleus
+- Great music, great crowd
+
 ## Shamrock Club
 - Bar
 - 1 floor

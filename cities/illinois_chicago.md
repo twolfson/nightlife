@@ -97,7 +97,7 @@
     - At 1:45AM, location closed
 
 ## Evil Olive
-- 1 floor open, possibly upstairs and back area
+- 2 floors
     - Ground floor
         - 1 huge room
             - Medium bar
@@ -105,10 +105,21 @@
             - Small dancefloor
             - Medium open area
             - Small bar
+        - 1 area in back, sealed off
+    - Upstairs
+        - VIP area, unable to view but probably has 10 tables
 - Went on Friday (2015/02/06)
     - $5 cover
     - $3 or $4 coat check was mandatory
     - From 2AM to 3AM, had a few people but was mostly open and danceable
+- Went on Saturday (2015/03/09)
+    - No cover (RSVP advance, arrived before 11:30PM)
+    - $3 coat check was mandatory
+    - From 11:30PM to 2AM, dancefloor was crowded, could dance on outskirts
+    - From 2AM to 3AM, daylight savings happened
+    - From 3AM to 4AM, crowd started to empty out. There were people on dancefloor but plenty of room to dance
+- $9 for *rum coke*
+- $9 for *fireball coke*
 - $10 for *mailbu coke*
 
 ## Exit

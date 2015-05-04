@@ -342,3 +342,17 @@
     - From 12PM to 2AM, there was an average crowd
     - At 2AM, the place closed
 - $6 for *fireball coke* (mixed drink)
+
+## TransAmoeba
+- Loft space
+- 2 floors
+    - Ground floor
+        - Huge room with small chilling area, small bar, small dancefloor
+    - Upstairs
+        - Balcony looking down
+        - Small room with couches, perfect for chilling
+- Went on a Saturday (2015/04/25)
+    - Cover was $20 + $2.50 advanced
+    - Stayed 11PM to 5AM
+    - From 11PM to 1AM, it was a small crowd. Lots of room to dance
+    - From 1AM to 5AM, picked up in size and became harder to find room to dance. Always danceable though

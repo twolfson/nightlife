@@ -96,6 +96,23 @@
     - At 1:15AM, upstairs started to loosen up but still had a large crowd
     - At 1:45AM, location closed
 
+## Elston St
+- 2 floors
+    - Ground floor
+        - Large room, all dancefloor
+    - Upstairs
+        - Has railing looking down on people
+        - Medium room, with medium bar, everything else is open space
+- Went on a Saturday (2015/04/04)
+    - $20 for advanced cover
+    - Was there from 12:30AM to 5AM (Sunday times)
+    - From 12:30AM to 1AM, dancefloor was half empty
+    - From 1AM to 2AM, dancefloor started to fill up
+    - From 2AM to 4AM, dancefloor was packed. Had to dance outside it
+    - From 4AM to 5AM, dancefloor was crowded but could dance
+- $9 for *vodka sprite*
+- $4 for tall bottle of water
+
 ## Evil Olive
 - 2 floors
     - Ground floor

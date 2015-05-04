@@ -223,6 +223,12 @@
     - No cover
     - From 11PM to 2AM, had small crowd that churned throughout the night
         - Was danceable
+- Went on a Thursday (2015/03/16)
+    - $5 cover
+    - From 11:30PM to 2AM, had good crowd. Hard to dance inside but easy on the outside
+- Went on a Friday (after 2015/01/28, before 2015/04/16)
+    - $5 cover
+    - Can't remember details but believe it was pretty empty at 11PM, got crowded at 2AM
 - $6 for *rum coke* (well, mixed drink)
 - $6 for *whisky soda* (well, mixed drink)
 - No coat check

@@ -1,4 +1,6 @@
 # nightlife
+0.32.0 - Added more Chicago venues up to 2015/05/03
+
 0.31.0 - Added additional note for Chicago
 
 0.30.0 - Added more Chicago venues up to 2015/03/08

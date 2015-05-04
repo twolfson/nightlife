@@ -175,6 +175,32 @@
     - From 11PM to 1AM, had good amount of people but wasn't overwhelming
 - $7 for *Kraken coke*
 
+## Metro/Smart Bar
+- Concert venue (Metro) and club (Smart Bar) combined for Resonate event
+- 4 floors
+    - Basement (Smart Bar)
+        - Medium room, medium bar
+        - Large room with medium bar, large dancefloor
+    - Ground floor
+        - Small room, all dancefloor
+        - Medium outside area with stage and smokers
+            - There was music at one point but I missed it
+    - Upstairs
+        - Huge room with medium stage, large dancefloor, and small setup of artists
+        - Small room with small bar
+    - Top floor
+        - Balcony looking down on huge room
+        - Medium space, mostly artists
+- Went on Saturday (2015/05/02)
+    - Cover was $34 + $6 for advanced purchase
+    - Was at event from 11:30PM to 4:30AM
+    - Smart Bar's dancefloor was crowded the entire night but could always find some room to dance
+    - Small room on ground floor was on/off at having people or not. Always danceable
+    - Upstairs always had a crowd and varied between being packed/not
+- $7 for *rum and coke*
+- $3 for tall bottle of water
+- No cup of water available (only ice)
+
 ## Mojoes (Joliet, IL)
 - 2 floors
     - Ground floor

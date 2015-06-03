@@ -392,6 +392,26 @@
     - At 2AM, the place closed
 - $6 for *fireball coke* (mixed drink)
 
+## Time
+- 2 floors
+    - Ground floor
+        - Long large room, mostly tables with a small dancefloor and medium bar
+    - Downstairs
+        - Medium room with medium bar and medium dancefloor
+- Went on a Friday (2015/05/22)
+    - $10 cover (advance)
+    - Had dress code (no bright blue converses + cargo pants + yellow toucan shirt)
+        - Got in with suspenders, sports jacket, and slacks
+        - Once inside, saw long sleeve t-shirts with graphics and sneakers
+            - Prob needed more neutral tones and no cargo pants
+    - From 12AM to 12:30AM, ground floor dancefloor was empty-ish
+    - From 12:30 to 2:30AM, ground floor dancefloor was crowded and hard to dance
+    - From 2:30AM to 3:30AM, ground floor dancefloor opened up and had some people but was easy to dance
+    - Closed at 3:30AM
+- $11 for *well vodka and sprite*
+- $0 for tall glass of water with ice
+- $0 for short glass of water with ice
+
 ## TransAmoeba
 - Loft space
 - 2 floors

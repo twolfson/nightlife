@@ -175,6 +175,9 @@
 - $0 for medium *cup of water* with ice
 - No coat check
 
+## Freak Easy
+- Too magical to say. Was there for a whopping 8 hours =3
+
 ## Grand Bar
 - 1 floor
     - Ground floor

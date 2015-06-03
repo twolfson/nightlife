@@ -57,6 +57,20 @@
 - $8 for *Rum and Coke* (well mixed drink)
 - $0 for tall glass of water
 
+## Catalyst
+- 2 floors
+    - First floor
+        - Medium room with tall ceiling
+        - Small room, all dancefloor
+        - Long hallway
+    - Upstairs
+        - Medium room with large couch and hammock setup
+- Went on a Friday (2015/05/08)
+    - $30 + $2 cover (advance ticket)
+    - No coat check
+    - Stayed from 11PM to 2AM, it always had a crowd but there was room to move around
+- Free water from pitcher
+
 ## Crocodile
 - 2 floors
     - Ground floor
@@ -319,6 +333,18 @@
     - Everyone was dressed up nicely
 - $9 for *vodka sprite* (well mixed drink)
 - $4 coat check
+
+## The Bottom Lounge
+- 2 floors
+    - Ground floor
+        - Didn't get a good idea as our event was upstairs
+    - Upstairs
+        - 1 large room with large dancefloor and medium bar
+- Went on a Saturday (2015/05/16)
+    - $7 cover (door)
+    - From 11PM to 2AM, there were a few people but it was mostly empty
+- $6 for *vodka sprite* (well mixed drink)
+- $7 for *Sailor Jerry and Coke* (mixed drink)
 
 ## The Loft
 - 1 floor

@@ -1,4 +1,6 @@
 # nightlife
+0.34.0 - Added fragmented recollection of Chicago up to 2015/11/05
+
 0.33.1 - Added `foundry` for release
 
 0.33.0 - Added more Chicago venues up to 2015/06/03

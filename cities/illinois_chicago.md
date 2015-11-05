@@ -2,7 +2,32 @@
 **Notes:**
 
 - Last call can be at 2AM, 4AM, or 5AM
-    - It depends on the bar but usually events will list a closing time
+    - It depends on the vnue but usually events will list a closing time
+
+## Top picks
+- Full Moon Jam - http://fullmoonjam.org/
+- Freak Easy - Sign up to newsletter http://www.freakeasy.net/
+
+**Do not recommend:**
+
+- Avoid Evil Olive
+    - Bouncers accept bribes frequently
+    - Cannot get back in after taking a break outside without waiting in line
+    - DJ booth is 1 floor above dancefloor, making it awkward
+
+## Beauty Bar
+- 1 floor
+    - Ground floor
+        - Large room with medium bar
+        - Medium room, all dancefloor
+- Went on a Saturday (2015/07/04)
+    - $5 cover at door
+    - Arrived at midnight, dancefloor was crowded but had room
+    - After 1:30AM, started to open up
+    - Left at 2:30AM, had a few handfuls of people but dancefloor was empty. Bar still had people
+    - Large room was kept cold
+- $8 for Sailor Jerry and coke
+- Free tall water
 
 ## C-Haus
 - 2 floors
@@ -89,6 +114,17 @@
 - $9 for *rum and coke* (well mixed drink)
 - No visible coat check
 
+## Door #3
+- Part of Double Door but open exclusively sometimes
+- 1 floor
+    - Basement
+        - 1 large room with medium bar
+        - 1 medium room with pool table
+        - Low ceilings
+- Went for Rouge (electroswing)
+    - No cover
+    - Had people, always had room to dance
+
 ## Debonair Social Club
 - 2 floors
     - Ground floor
@@ -109,6 +145,30 @@
     - At midnight, both upstairs/downstairs were packed
     - At 1:15AM, upstairs started to loosen up but still had a large crowd
     - At 1:45AM, location closed
+
+## Eco
+- 3 floors
+    - Ground floor
+        - 1 medium room with small bar and small kitchen
+        - 1 small room for stairs
+        - 1 medium room, all dancefloor with stage
+    - Second floor
+        - 1 medium room with small bar and couches
+        - 1 small room with stairs
+        - 1 medium outdoor garden space
+    - Third floor
+        - 1 small room with pillows and tea
+- Went for Feastival 2015
+    - Plenty of people, everyone was friendly
+    - Dancefloor usually had people, there was always room to dance although it got hot quickly
+
+## El Rey Ballroom
+- 1 floor
+    - Ground floor
+        - Medium room with small bar
+        - Large room with medium stage, all dancefloor
+- Went for Burner Decompression 2015
+    - Had people, plenty of room to dance
 
 ## Elston St
 - 2 floors
@@ -196,6 +256,38 @@
 - Went on Thursday (2015/02/05)
     - No cover
     - From 7:30PM to 11:30PM, had a few people at the bar
+
+## Hoyne Art Studio
+- 1 floor
+    - Ground floor
+        - 1 long yet narrow room with small bar, dancefloor in the front
+        - 1 small room
+- Went for an underground event
+    - Lots of big canvas art leaning on walls
+    - Had people, got crowded at one point, could kind of dance
+
+## Hoyne Loft
+- 1 floor
+    - Upstairs
+        - 1 large room with medium dancefloor and small bar
+- Went on a Saturday (2015/02/14) for a rave
+    - $20 cover at door
+    - From 11:30PM to midnight, had a crowd outside dancefloor but dancefloor was open
+    - From midnight to 2AM, dancefloor was packed, hard to dance but could on outskirts
+    - From 2AM to 4AM, dancefloor was crowded but could dance
+- Drinks worked on ticket basis
+    - $3 for a ticket, later became $4
+    - 1 ticket for a tall water bottle
+    - 2 tickets for *vodka sprite*
+- No coat check
+
+## Link's Taproom
+- Bar
+- 1 floor
+    - Ground floor
+        - Medium/long room with medium/long bar
+- Went on a Thursday
+    - No cover
 
 ## Logan Arcade
 - Bar with lots of pinball and cabinet arcade games
@@ -337,6 +429,20 @@
 - $9 for *vodka sprite* (well mixed drink)
 - $4 coat check
 
+## Subterranean
+- Music venue
+- 3 floors? (we went upstairs for the show)
+    - Ground floor
+        - Didn't explore
+    - Second floor
+        - Large/long room with small bar
+        - Front 3/4's is dancefloor
+    - Third floor
+        - Large/long room with small bar and small cutout looking down to second floor
+            - End result is a medium room
+- Went for World Inferno
+    - Had good crowd, could dance in back but wound up going in front to the mosh pit
+
 ## The Bottom Lounge
 - 2 floors
     - Ground floor
@@ -349,20 +455,13 @@
 - $6 for *vodka sprite* (well mixed drink)
 - $7 for *Sailor Jerry and Coke* (mixed drink)
 
-## The Loft
+## The Kingdom
 - 1 floor
-    - Upstairs
-        - 1 large room with medium dancefloor and small bar
-- Went on a Saturday (2015/02/14) for a rave
-    - $20 cover at door
-    - From 11:30PM to midnight, had a crowd outside dancefloor but dancefloor was open
-    - From midnight to 2AM, dancefloor was packed, hard to dance but could on outskirts
-    - From 2AM to 4AM, dancefloor was crowded but could dance
-- Drinks worked on ticket basis
-    - $3 for a ticket, later became $4
-    - 1 ticket for a tall water bottle
-    - 2 tickets for *vodka sprite*
-- No coat check
+    - Ground floor
+        - Massive warehouse space
+- Went for a rave, cannot recall date
+- No alcohol sold
+- $2 for tall water bottle
 
 ## The MID
 - 3 floors

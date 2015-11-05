@@ -27,6 +27,9 @@ Venues are grouped by their cities, sorted alphabetically, and written in Markdo
 #### Nevada
 - [Black Rock City aka Burning Man](cities/nevada_black-rock-city.md)
 
+#### Texas
+- [Austin](cities/texas_austin.md)
+
 #### Utah
 - [Salt Lake City](cities/utah_salt-lake-city.md)
 

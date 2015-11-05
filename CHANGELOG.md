@@ -1,4 +1,6 @@
 # nightlife
+0.33.1 - Added `foundry` for release
+
 0.33.0 - Added more Chicago venues up to 2015/06/03
 
 0.32.0 - Added more Chicago venues up to 2015/05/03

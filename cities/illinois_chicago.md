@@ -135,6 +135,14 @@
     - At 1:15AM, upstairs started to loosen up but still had a large crowd
     - At 1:45AM, location closed
 
+## El Rey Ballroom
+- 1 floor
+    - Ground floor
+        - Medium room with small bar
+        - Large room with medium stage, all dancefloor
+- Went for Burner Decompression 2015
+    - Had people, plenty of room to dance
+
 ## Elston St
 - 2 floors
     - Ground floor
@@ -221,6 +229,15 @@
 - Went on Thursday (2015/02/05)
     - No cover
     - From 7:30PM to 11:30PM, had a few people at the bar
+
+## Hoyne Art Studio
+- 1 floor
+    - Ground floor
+        - 1 long yet narrow room with small bar, dancefloor in the front
+        - 1 small room
+- Went for an underground event
+    - Lots of big canvas art leaning on walls
+    - Had people, got crowded at one point, could kind of dance
 
 ## Hoyne Loft
 - 1 floor

@@ -1,4 +1,6 @@
 # nightlife
+0.35.0 - Documented Austin, Texas
+
 0.34.0 - Added fragmented recollection of Chicago up to 2015/11/05
 
 0.33.1 - Added `foundry` for release

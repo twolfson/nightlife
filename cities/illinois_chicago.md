@@ -114,6 +114,17 @@
 - $9 for *rum and coke* (well mixed drink)
 - No visible coat check
 
+## Door #3
+- Part of Double Door but open exclusively sometimes
+- 1 floor
+    - Basement
+        - 1 large room with medium bar
+        - 1 medium room with pool table
+        - Low ceilings
+- Went for Rouge (electroswing)
+    - No cover
+    - Had people, always had room to dance
+
 ## Debonair Social Club
 - 2 floors
     - Ground floor
@@ -134,6 +145,22 @@
     - At midnight, both upstairs/downstairs were packed
     - At 1:15AM, upstairs started to loosen up but still had a large crowd
     - At 1:45AM, location closed
+
+## Eco
+- 3 floors
+    - Ground floor
+        - 1 medium room with small bar and small kitchen
+        - 1 small room for stairs
+        - 1 medium room, all dancefloor with stage
+    - Second floor
+        - 1 medium room with small bar and couches
+        - 1 small room with stairs
+        - 1 medium outdoor garden space
+    - Third floor
+        - 1 small room with pillows and tea
+- Went for Feastival 2015
+    - Plenty of people, everyone was friendly
+    - Dancefloor usually had people, there was always room to dance although it got hot quickly
 
 ## El Rey Ballroom
 - 1 floor
@@ -253,6 +280,14 @@
     - 1 ticket for a tall water bottle
     - 2 tickets for *vodka sprite*
 - No coat check
+
+## Link's Taproom
+- Bar
+- 1 floor
+    - Ground floor
+        - Medium/long room with medium/long bar
+- Went on a Thursday
+    - No cover
 
 ## Logan Arcade
 - Bar with lots of pinball and cabinet arcade games
@@ -393,6 +428,20 @@
     - Everyone was dressed up nicely
 - $9 for *vodka sprite* (well mixed drink)
 - $4 coat check
+
+## Subterranean
+- Music venue
+- 3 floors? (we went upstairs for the show)
+    - Ground floor
+        - Didn't explore
+    - Second floor
+        - Large/long room with small bar
+        - Front 3/4's is dancefloor
+    - Third floor
+        - Large/long room with small bar and small cutout looking down to second floor
+            - End result is a medium room
+- Went for World Inferno
+    - Had good crowd, could dance in back but wound up going in front to the mosh pit
 
 ## The Bottom Lounge
 - 2 floors

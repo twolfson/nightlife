@@ -6,7 +6,9 @@
 
 ## Top picks
 - Full Moon Jam - http://fullmoonjam.org/
-- Freak Easy - Sign up to newsletter http://www.freakeasy.net/
+- Freakeasy - Sign up to newsletter http://www.freakeasy.net/
+- Beauty Bar - For a good indie dance night
+- Young Camelot - For underground live music
 
 **Do not recommend:**
 
@@ -235,7 +237,7 @@
 - $0 for medium *cup of water* with ice
 - No coat check
 
-## Freak Easy
+## Freakeasy
 - Too magical to say. Was there for a whopping 8 hours =3
 
 ## Grand Bar

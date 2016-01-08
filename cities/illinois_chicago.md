@@ -4,10 +4,6 @@
 - Last call can be at 2AM, 4AM, or 5AM
     - It depends on the vnue but usually events will list a closing time
 
-Fizz
-Riff
-Young Camelot
-
 ## Top picks
 - Full Moon Jam - http://fullmoonjam.org/
 - Freakeasy - Sign up to newsletter http://www.freakeasy.net/

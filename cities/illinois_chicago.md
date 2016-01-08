@@ -4,6 +4,10 @@
 - Last call can be at 2AM, 4AM, or 5AM
     - It depends on the vnue but usually events will list a closing time
 
+Fizz
+Riff
+Young Camelot
+
 ## Top picks
 - Full Moon Jam - http://fullmoonjam.org/
 - Freakeasy - Sign up to newsletter http://www.freakeasy.net/
@@ -236,6 +240,18 @@
 - $7 for *whisky soda* (well)
 - $0 for medium *cup of water* with ice
 - No coat check
+
+## Fizz
+- Part bar, part dance venue (not really a nightclub)
+- 2 floors
+    - Ground floor
+        - 1 large room with a bar, never stayed down there
+    - Upstairs
+        - 1 large room, with medium dancefloor and small stage
+- Went on Monday nights for swing dancing
+    - $7 donation based cover
+    - Can vary from being crowded (week of Thanksgiving) to being packed (Fizzmas)
+- No coat check but relatively safe
 
 ## Freakeasy
 - Too magical to say. Was there for a whopping 8 hours =3

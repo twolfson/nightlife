@@ -545,3 +545,14 @@ Young Camelot
     - Stayed 11PM to 5AM
     - From 11PM to 1AM, it was a small crowd. Lots of room to dance
     - From 1AM to 5AM, picked up in size and became harder to find room to dance. Always danceable though
+
+## Young Camelot
+- Live music venue, mostly rock but with wide variety
+- 1 floor
+    - Ground floor
+        - 1 medium room with small stage
+- Went on a Saturday (2015/12/12)
+    - Attended from 11PM to 1AM (unsure)
+    - Had a crowd but plenty of room to dance
+        - Not too many people were dancing
+- No coat check

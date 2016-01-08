@@ -393,6 +393,29 @@ Young Camelot
 - $4 for *malibu coke*
 - No coat check
 
+## Riff
+- Nightclub
+- 4 floors
+    - Ground floor
+        - Large room with medium bar, medium dancefloor, and small amount of tables
+    - Basement
+        - Small room with small tables
+    - Upstairs
+        - 1 small room with small bar
+        - 1 medium room with dancefloor
+    - Top floor
+        - 1 small room with small bar
+        - 1 small room with open space (no music)
+- Went for NYE (2015/12/31)
+    - Hosted by Reverse events so crowds, floors, and prices might not be reproducable
+    - From 11PM to 11:30PM, ground floor dancefloor was sparse
+    - From 11:30PM to midnight, dancefloor grew in numbers
+    - From midnight to 2AM, dancefloor was crowded with room to dance
+    - From 2AM to 3AM, upstairs dancefloor was crowded with room to dance
+    - At 2:30AM, basement dancefloor was crowded with room to dance
+    - $10 for **rum coke**
+    - $10 for **Jameson soda**
+
 ## Shamrock Club
 - Bar
 - 1 floor

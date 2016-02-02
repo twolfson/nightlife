@@ -1,4 +1,6 @@
 # nightlife
+0.37.0 - Added more Chicago venues up to 2016/02/02
+
 0.36.0 - Added more Chicago venues up to 2016/01/07
 
 0.35.0 - Documented Austin, Texas

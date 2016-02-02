@@ -47,6 +47,20 @@
 - $6 for *whisky soda* (well, mixed drink)
 - No coat check
 
+## Canvas
+- Art space, attended for special event
+- 1 floor
+    - Ground floor
+        - Large room with medium dance floor, small stage, and tiny bar
+        - Outside area (front of building)
+            - Large open space
+- Went on Saturday (2016/01/16 - Shangri La / Edamame event)
+    - $15 at door
+    - From 11PM to 2AM, there was a decent crowd with room to dance
+    - From 11PM to 12AM, only a few people were dancing
+    - After 12AM, lots more people were dancing
+- Coat check was self service and free
+
 ## Castle
 - 3 floors
     - Basement floor

@@ -494,6 +494,15 @@
 - Went for World Inferno
     - Had good crowd, could dance in back but wound up going in front to the mosh pit
 
+## Swig
+- Bar with a "dancefloor"
+- 1 floor
+    - Ground floor
+        - Large room with medium bar and tiny dancefloor (6 people max)
+- Went on a Thursday (2016/02/04)
+    - No cover
+    - From 11PM to 1AM, dancefloor was crowded for the most part but could dance outside it
+
 ## The Bottom Lounge
 - 2 floors
     - Ground floor

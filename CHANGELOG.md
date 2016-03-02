@@ -1,4 +1,6 @@
 # nightlife
+0.38.0 - Added more Chicago venues up to 2016/03/01
+
 0.37.0 - Added more Chicago venues up to 2016/02/02
 
 0.36.0 - Added more Chicago venues up to 2016/01/07

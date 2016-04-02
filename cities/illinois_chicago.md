@@ -17,6 +17,25 @@
     - Cannot get back in after taking a break outside without waiting in line
     - DJ booth is 1 floor above dancefloor, making it awkward
 
+## Annex Nightclub
+- 2 floors
+    - Upstairs
+        - All continuous but like a giant sideways H
+        - Near DJ booth, medium dancefloor and small bar
+        - Next to DJ booth, small dancefloor and small bar
+        - Distant from DJ booth, large dancefloor and small bar
+        - Out of sight from from DJ booth, small dancefloor and small bar
+    - Attic
+        - 1 room with small dancefloor and small bar
+        - 1 room with small dancefloor and tables
+- Went on a Saturday (2016/03/05)
+    - $5 cover at 11:15PM
+    - $4 coat check
+    - Club opened 1 month prior so info is unstable
+    - From 11:15PM to midnight, both upstairs and downstairs had people but weren't crowded
+    - From midnight to 2AM, downstairs had people but wasn't crowded. Upstairs was packed/couldn't find room to dance
+- $8 for rum coke
+
 ## Beauty Bar
 - 1 floor
     - Ground floor

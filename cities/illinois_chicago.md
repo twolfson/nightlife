@@ -457,7 +457,26 @@
     - At 9PM, started to empty out
 - $4.25 for *vodka sprite* (well, mixed drink)
 
+## Sound-Bar
+- Nightclub despite name
+- 2 floors
+    - Ground floor
+        - 1 large room with medium dancefloor and 2 small bars
+        - 1 medium hallway with a 1 small bar
+        - 1 medium room with a circular medium bar
+    - Downstairs
+        - 1 large room with a medium dancefloor and 3 small bars
+- Went on a Saturday (2016/04/16)
+    - Have attended 2x previously but cannot recall dates
+    - From 11PM to midnight, there were people on both levels but had room to dance
+    - From midnight to 2AM, crowded on both floors but could find room to on upstairs. Not sure about downstairs
+- By 11AM, line is artificially inflated (i.e. low amount of people inside but hold people outside to make it look crowded)
+    - Always buy a ticket ahead of time if possible (it will bypass line)
+- $9 for rum coke
+- $3 coat check
+
 ## Spybar
+- Nightclub despite name
 - 1 floor
     - Basement floor
         - Big room

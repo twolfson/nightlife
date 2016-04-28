@@ -534,6 +534,19 @@
 - $6 for *vodka sprite* (well mixed drink)
 - $7 for *Sailor Jerry and Coke* (mixed drink)
 
+## The Keep
+- 2 floors
+    - Groupd floor
+        - 1 small room with chairs/couch
+        - 1 big room, all dancefloor with small bar
+    - Upstairs
+        - 1 small room with nothing
+- Went on a Saturday (2016/04/02)
+    - $20 cover (online + $3 fee)
+    - From 11PM to 2AM, big room was packed with tiny/hard to find pockets to dance
+- $4 for rum coke
+- No coat check
+
 ## The Kingdom
 - 1 floor
     - Ground floor

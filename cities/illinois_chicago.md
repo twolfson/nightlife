@@ -131,6 +131,21 @@
     - Stayed from 11PM to 2AM, it always had a crowd but there was room to move around
 - Free water from pitcher
 
+## Concord Music Hall
+- 2 floors
+    - First floor
+        - 1 large room with large dancefloor and 4 small bars
+    - Upstairs
+        - 2 medium balconies overlooking the first floor with 1 small bar each
+- Went on a Saturday (2015/04/30)
+    - $18 (online advance) + $7.50 online fees
+    - $4 coat check
+    - From 10:20PM to 11:00PM, front section was packed but back was sparse. Balconies had people at railing but nothing else
+    - From 11:00PM to 1:30AM (end of concert), front section was packed and back was crowded but could dance. Balconies had people at railing but nothing else
+- $10 for rum and coke
+- $10 for Malibu and coke
+- Balconies had small cups of water for free
+
 ## Crocodile
 - 2 floors
     - Ground floor

@@ -8,11 +8,9 @@
 - In clubs, people seem to wear black, white, and dull colors
 
 ## Top picks
-
 - To be determined (currently contemplating Mensch Meier and Kosmonaut)
 
 ## Sites
-
 - https://www.residentadvisor.net/events.aspx?ai=34 - Listing of majority of events
 - https://www.goabase.net/party/?country=Germany - Goa trance and psytrance events
 

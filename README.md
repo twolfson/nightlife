@@ -33,6 +33,9 @@ Venues are grouped by their cities, sorted alphabetically, and written in Markdo
 #### Utah
 - [Salt Lake City](cities/utah_salt-lake-city.md)
 
+### Germany
+- [Berlin](cities/germany_berlin.md)
+
 ### Israel
 - [Tel Aviv](cities/israel_tel-aviv.md)
 

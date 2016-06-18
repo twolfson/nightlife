@@ -66,3 +66,17 @@
 - Took a 0.50€ deposit on drinks (no chip)
 - Staff spoke fluent English
 - Stickers were put over phone's cameras
+
+## RADIALSYSTEM V
+- Art/science center that co-hosted a swing event
+- Only had access to 3rd floor for swing event
+    - Large open floor with medium dancefloor and small food/beer/wine stand
+        - Had wonderful view of river
+- Went on a Sunday (June 12) for special swing event
+    - 5€ cover
+    - Arrived at 4PM
+    - Limit for people at event was 100 so must arrive early
+    - From 4PM to 5PM, approximately 60 people on floor
+    - From 5PM to 7PM, space was "full" but plenty of room to dance
+    - From 7PM to 8PM, people reduced back to 60-ish
+    - Left at 8PM

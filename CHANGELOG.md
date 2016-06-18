@@ -1,4 +1,6 @@
 # nightlife
+0.42.0 - Added documentation for Berlin up to 2016/06/18
+
 0.41.0 - Added more Chicago venues up to 2016/05/01
 
 0.40.0 - Added more Chicago venues up to 2016/04/27

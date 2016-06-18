@@ -14,6 +14,20 @@
 - https://www.residentadvisor.net/events.aspx?ai=34 - Listing of majority of events
 - https://www.goabase.net/party/?country=Germany - Goa trance and psytrance events
 
+## Frannz Club
+- Might have had multiple floors but only was outside
+    - 1 medium outdoor space with small dancefloor
+- Went on a Thursday (June 9) for swing dancing
+    - No cover (at least where I entered)
+    - Arrived at 10:30
+    - From 10:30 to 11:30, crowded on dancefloor but could dance
+    - From 11:30 to 1AM, about 3 to 5 couples on dancefloor
+    - At 1AM, DJ stopped playing and I left
+    - Everyone had a backpack for water and a coat/secondary layer
+- 0.50€ deposit on drinks with electronic-esque token
+- 2.00€ for small glass of water
+- Staff was fluent in English
+
 ## Kosmonaut
 - 1 floor
     - 1 medium room with medium bar

@@ -16,6 +16,36 @@
 - https://www.residentadvisor.net/events.aspx?ai=34 - Listing of majority of events
 - https://www.goabase.net/party/?country=Germany - Goa trance and psytrance events
 
+## Kosmonaut
+- 1 floor
+    - 1 medium room with medium bar
+    - Semi-warm - 1 medium room, all dancefloor
+        - Strobe lights on perimiter of room
+        - Horizontal equalizer-esque panel behind DJ booth
+    - Hotbox - 1 medium room, all dancefloor
+        - Long red/blue fluoresent tubes in a scattered network across ceiling
+    - Garten - 1 large outdoor space with medium dancefloor and food stand
+        - Dancefloor had a canopy
+        - There were wooden boardwalks to walk on with sand around them
+        - There were 2 large sets of stairs and chairs to sit on
+    - 1 medium room with medium bar
+    - Lots of little decorative spaces and sitting spots between rooms
+- Went on a Saturday (June 11)
+    - Door was 15€ but paid 13€ (including fees) online
+    - Arrived at 2AM
+    - From 2AM to 3AM, hotbox was packed and hot. Semi-warm was crowded but could dance. Garten had a crowd but there was a decent amount of space
+    - From 5AM to 7AM, crowds lightened up in semi-warm and hotbox. Garten had same crowd
+    - At 6AM, the front bar was sealed off/closed
+    - From 7AM to 10Am, semi-warm and hotbox were more/less empty but Garten had a good crowd
+    - Food closed at 6AM
+- 2.50€ for glass of orange juice
+- 3.00€ for small bottle of Mate
+- 0.50€ for glass of water listed, (didn't get)
+- 2.00€ for small fries
+- Took a 0.50€ deposit on drinks and received token
+- Staff spoke fluent English
+- No stickers were put on phone
+
 ## Mensch Meier
 - 1 floor
     - Garden - 1 large outdoor space, pizza for sale
@@ -33,5 +63,6 @@
 - Decorations (stretch lycra ceilings, colorful ornamentation), atmosphere, and smell (burning firewood and cigarettes) reminded me of Burning Man
 - 6.50€ for Rum Kola
 - 1.50€ for seltzer
+- Took a 0.50€ deposit on drinks (no chip)
 - Staff spoke fluent English
 - Stickers were put over phone's cameras

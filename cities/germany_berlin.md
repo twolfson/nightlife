@@ -149,14 +149,20 @@
 - 2 floors
     - Ground floor
         - 1 large outdoor space with small bar
+            - Had a boat that rocked when people entered/exited
+            - Had a very large rotating disco ball
         - 2 small rooms with chairs
         - 1 small room with bar
         - 1 large room all dancefloor (Schwarz/Black)
+            - Red/blue tubes like ceiling beams but angled to intersect
+            - DJ booth had 5x5 array of Bell shaped lamps facing towards audience which did patterns
     - Upstairs
         - 2 small rooms with chairs
         - 1 small room with small bar
         - 1 small room, all dancefloor (Grün/Green)
+            - Lots of disco ball on ceiling
         - 1 medium room all dancefloor (Rot/Red)
+            - LEDs behind DJ booth that did patterns
 - Went on a Saturday (July 2 2016)
     - From 2:00 to 2:30, arrived and waited in line
     - 14€ cover at door

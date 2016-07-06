@@ -19,7 +19,7 @@
 ## Frannz Club
 - Might have had multiple floors but only was outside
     - 1 medium outdoor space with small dancefloor
-- Went on a Thursday (June 9) for swing dancing
+- Went on a Thursday (June 9 2016) for swing dancing
     - No cover (at least where I entered)
     - Arrived at 10:30
     - From 10:30 to 11:30, crowded on dancefloor but could dance
@@ -67,9 +67,9 @@
     - Planets - 1 small room with small dancefloor
     - Saloon - 1 medium room with medium dancefloor and small bar
     - Had coat check but didn't use it
-- Went on a Friday (June 3)
+- Went on a Friday (June 3 2016)
     - 10€ cover at door
-    - Arrived at 2AM (June 4)
+    - Arrived at 2AM (June 4 2016)
     - From 2AM to 3AM, main room had a crowd but had room to dance. Others (including garden) didn't have many people
     - From 3AM to 5AM, main room got crowded and was hard to dance in. Other rooms weren't so packed but crowds would flow freely between rooms
     - Left at 5AM (tired due to jet lag)
@@ -86,7 +86,7 @@
 - Only had access to 3rd floor for swing event
     - Large open floor with medium dancefloor and small food/beer/wine stand
         - Had wonderful view of river
-- Went on a Sunday (June 12) for special swing event
+- Went on a Sunday (June 12 2016) for special swing event
     - 5€ cover
     - Arrived at 4PM
     - Limit for people at event was 100 so must arrive early

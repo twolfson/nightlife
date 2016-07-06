@@ -144,3 +144,28 @@
     - From 5PM to 7PM, space was "full" but plenty of room to dance
     - From 7PM to 8PM, people reduced back to 60-ish
     - Left at 8PM
+
+## Renate (Salon zur wilden Renate)
+- 2 floors
+    - Ground floor
+        - 1 large outdoor space with small bar
+        - 2 small rooms with chairs
+        - 1 small room with bar
+        - 1 large room all dancefloor (Schwarz/Black)
+    - Upstairs
+        - 2 small rooms with chairs
+        - 1 small room with small bar
+        - 1 small room, all dancefloor (Grün/Green)
+        - 1 medium room all dancefloor (Rot/Red)
+- Went on a Saturday (July 2 2016)
+    - From 2:00 to 2:30, arrived and waited in line
+    - 14€ cover at door
+    - Green and red
+        - From 2:30 to 7:00, green and red were crowded, warm, and could not dance
+    - Black
+        - From 2:30 to 6:00, black was crowded, not too hot, and could dance
+        - From 6:00 to 7:00, black had people and could dance
+    - Outdoor
+        - From 2:00 to 4:00, outdoor had people but not many
+        - From 4:00 to 7:00, outdoor had lots of people
+- 2€ Mexikaner

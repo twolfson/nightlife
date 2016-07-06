@@ -74,7 +74,7 @@
         - There were 2 large sets of stairs and chairs to sit on
     - 1 medium room with medium bar
     - Lots of little decorative spaces and sitting spots between rooms
-- Went on a Saturday (June 11)
+- Went on a Saturday (June 11 2016)
     - Door was 15€ but paid 13€ (including fees) online
     - Arrived at 2AM
     - From 2AM to 3AM, hotbox was packed and hot. Semi-warm was crowded but could dance. Garten had a crowd but there was a decent amount of space
@@ -82,6 +82,12 @@
     - At 6AM, the front bar was sealed off/closed
     - From 7AM to 10Am, semi-warm and hotbox were more/less empty but Garten had a good crowd
     - Food closed at 6AM
+- Went on a Friday (July 1 2016)
+    - No cover
+    - Only Garten was open
+        - Space was likely reduced due to Fusion festival same weekend
+    - 1€ charge for DJ on first drink
+    - From 2:30 to 3:30 crowded and barely could dance
 - 2.50€ for glass of orange juice
 - 3.00€ for small bottle of Mate
 - 0.50€ for glass of water listed, (didn't get)

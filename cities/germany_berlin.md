@@ -30,6 +30,35 @@
 - 2.00€ for small glass of water
 - Staff was fluent in English
 
+## Magdalena
+- 2 floors
+    - Ground floor
+        - 1 large outdoor space with small food stand
+        - 1 big room, all dancefloor
+        - 1 medium room with medium bar
+        - 1 large beach area open with small bar (closed until morning)
+    - Upstairs
+        - 1 small room with small dancefloor
+        - 1 large room, all dancefloor
+        - 1 medium room with medium bar
+- Went on a Saturday (June 18 2016)
+    - 12€ cover online
+    - Arrived and waited in line from 2:30 to 3:00
+        - Saw good amount of rejection (4 groups), no idea why
+    - From 3 to 6, both dance floors crowded but could dance
+    - Left to wait for afternoon
+    - Could get new stamp
+    - Re-entered at 2:30, garden now playing music
+    - Upstairs large dancefloor open as well
+    - Entire place had people but very few, virtually nobody dancing
+    - Left at 5:00, no changes
+- 2€ for hot dog at food stand
+- 3.50€ for tall bottle of water
+- 0.50€ deposit for drinks in glasses
+- 6.00€ for vodka lemonade
+- Coat check available but didn't use (1.50€ per item)
+- Had ATM and photo booth
+
 ## Kosmonaut
 - 1 floor
     - 1 medium room with medium bar

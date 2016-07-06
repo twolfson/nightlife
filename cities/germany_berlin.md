@@ -90,6 +90,19 @@
 - Staff spoke fluent English
 - No stickers were put on phone
 
+## M-BIA
+- 1 floor
+    - 1 large room with medium dancefloor and small bar (Psytrance)
+    - 1 medium room, chairs and beds only
+    - 1 medium room with medium bar, chairs, and beds
+    - 1 medium room, all dancefloor (Techno)
+- Went on a Saturday (June 25 2016)
+    - Asked for passport, Illinois drivers license worked
+    - 8€ cover at door
+    - From 2:30 to 5, techno had a crowd but danceable; psytrance had people and plenty of room to dance
+- 0.50€ deposit with chip
+- 2.50€ for tall glass of cola
+
 ## Mensch Meier
 - 1 floor
     - Garden - 1 large outdoor space, pizza for sale

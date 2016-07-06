@@ -36,6 +36,7 @@
     - Ground floor
         - 1 large outdoor space with small food stand
         - 1 big room, all dancefloor
+            - Had many squares of lights overhead which could run different patterns and strobe
         - 1 medium room with medium bar
         - 1 large beach area open with small bar (closed until morning)
     - Upstairs

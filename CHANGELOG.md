@@ -1,4 +1,6 @@
 # nightlife
+0.43.1 - Added missed notes on venue visuals for Berlin
+
 0.43.0 - Added more Berlin venues up to 2016/07/06
 
 0.42.0 - Added documentation for Berlin up to 2016/06/18

@@ -207,3 +207,24 @@
         - From 2:00 to 4:00, outdoor had people but not many
         - From 4:00 to 7:00, outdoor had lots of people
 - 2€ Mexikaner
+
+## Void Club
+- 1 floor
+    - Ground floor
+        - 1 small room with couches
+        - 1 large room, large dancefloor and small bar/coat check
+        - 1 large room, medium dancefloor and medium bar
+        - Both dancefloor rooms had overhead lights and camoflauge leaf canopy (jungle-esque, matching drum and bass alias: jungle)
+        - 1 small room with couches
+- Went on a Saturday (2016/07/23, drum and bass)
+    - Cover 10€
+    - No line
+    - Illinois id worked fine
+    - From 2:15 to 3:15, large dancefloor was very warm and crowded
+    - From 3:15 to 4:00, large dancefloor could start dancing
+    - From 4:00 to 5:00, large dancefloor had plenty of room to dance
+    - From 2:15 to 5:00, medium dancefloor was warm and fluctuated between having people and none. Could always dance
+- 3.50€ for Outer Rim long drink
+- 0.40€ for Wassereis (ice pop, small)
+- 1.00€ deposit on drinks (token was puzzle piece)
+- 2.00€ for medium water in glass bottle with bubbles

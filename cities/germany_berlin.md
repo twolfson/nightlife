@@ -17,6 +17,21 @@
 - https://www.residentadvisor.net/events.aspx?ai=34 - Listing of majority of events
 - https://www.goabase.net/party/?country=Germany - Goa trance and psytrance events
 
+## Badehaus
+- 1 floor
+    - Ground floor
+        - 1 large room with medium bar
+        - 1 large room, all dancefloor
+        - 1 small covered outdoor area, technically dancefloor
+- Went on a Friday (2016/07/29)
+    - Cover was 6€
+    - Arrived at 00:15, virtually no line
+    - From 00:15 to 2:00, large dancefloor was warm all night and fluctuated between having people/being crowded but could always dance
+    - From 00:15 to 2:00 outside had people but nobody was dancing
+    - Left at 2:00
+- 5€ for whiskey soda
+- 0.50€ deposit
+
 ## Frannz Club
 - Might have had multiple floors but only was outside
     - 1 medium outdoor space with small dancefloor

@@ -23,13 +23,30 @@
         - 1 large room with medium bar
         - 1 large room, all dancefloor
         - 1 small covered outdoor area, technically dancefloor
-- Went on a Friday (2016/07/29)
+- Went on a Friday (2016/07/29, 90s night)
     - Cover was 6€
     - Arrived at 00:15, virtually no line
     - From 00:15 to 2:00, large dancefloor was warm all night and fluctuated between having people/being crowded but could always dance
     - From 00:15 to 2:00 outside had people but nobody was dancing
     - Left at 2:00
 - 5€ for whiskey soda
+- 0.50€ deposit
+
+## Dunckerclub
+- 1 floor
+    - Ground floor
+        - 1 large room, medium dancefloor and small bar
+        - 1 small room with tables
+        - 1 large outdoor area with small bar
+- Went on a Monday (2016/07/25, goth + new wave night)
+    - Cover was 4€
+    - Must ring bell to enter
+    - No id check, no stamp
+    - From 11:30 to 12:30, indoor had people but room to dance and wasn't too warm
+    - From 12:30 to 1:30, indoor got more people; could still dance but was warm
+    - From 11:30 to 1:30, outside was always mostly crowded at tables
+- 3€ for whiskey soda (single shot)
+- 5€ for Watermelon Man coctail (tall)
 - 0.50€ deposit
 
 ## Frannz Club

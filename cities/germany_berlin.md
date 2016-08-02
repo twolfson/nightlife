@@ -35,6 +35,7 @@
 
 ## Cassiopeia
 - 2 floors
+    - Entrance had netting overhead with light strings criss-crossing left/right. Small round bulbs slowly changing colors
     - Ground floor
         - 1 medium room, all dancefloor
         - 1 large room with large dancefloor and small bar

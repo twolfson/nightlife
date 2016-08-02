@@ -150,12 +150,6 @@
     - 1 with small dancefloor, medium bar
     - 4 with medium dancefloor, small bar
     - 1 medium outside smoking area
-    - From 00:30 to 1:00, rightmost dancefloor was crowded but danceable
-    - From 1:00 to 2:30, rightmost dancefloor was packed and hard to dance
-    - From 0:00 to 2:30
-        - Small dancefloor was empty-ish
-        - 2 medium dancefloors were crowded and hard to dance
-        - 1 medium dancefloor had a few people
 - Went on a Wednesday (2016/07/21, pop/top 40)
     - Cover was 7€ (apparently included coat check, too warm for that)
     - Illinois id worked
@@ -166,6 +160,12 @@
     - Happy Hour so 2 for 1 drinks (including water)
     - 18+ event, majority 18 to 21 but handled themselves well
     - Only 1 room had broken glass on floor, staff didn't clean it up though
+    - From 00:30 to 1:00, rightmost dancefloor was crowded but danceable
+    - From 1:00 to 2:30, rightmost dancefloor was packed and hard to dance
+    - From 0:00 to 2:30
+        - Small dancefloor was empty-ish
+        - 2 medium dancefloors were crowded and hard to dance
+        - 1 medium dancefloor had a few people
 - 3€ for tall glass carbonated water
 
 ## Mensch Meier

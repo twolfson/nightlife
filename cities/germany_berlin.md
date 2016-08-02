@@ -274,6 +274,22 @@
         - From 4:00 to 7:00, outdoor had lots of people
 - 2€ Mexikaner
 
+## Suicide Circus
+- 1 floor
+    - 1 medium room with medium bar
+    - 1 large room, all dancefloor
+    - 1 large outdoor space with potential dancefloor but it wasn't open
+- Went on a Wednesday (2016/07/06)
+    - Cover 10€
+    - No line
+    - Saw 1 group of 3 rejected
+    - Illinois id + alone was good
+    - From 1:30 to 2:00, large dancefloor had crowd but could dance
+    - From 2:00 to 3:30, large dancefloor varied between not being able to dance due to overcrowding and crowded but had room
+    - Left due to getting tired and having test next day
+- 2.5€ small bottle Coca Cola
+- 2.0€ medium bottle still water
+
 ## Void Club
 - 1 floor
     - Ground floor

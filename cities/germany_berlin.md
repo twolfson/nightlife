@@ -54,6 +54,25 @@
     - Left due to set change and disliking all music
 - 1€ for coat check
 
+## Chalet
+- Unknown floors, didn't get full perspective due to Sunday
+    - Ground floor
+        - Main house closed off except for
+            - 1 small room with piano
+            - 1 small room with chairs
+        - 1 large outdoor space with pillows, bed, and bonfire (but it was 70 degrees out (warm))
+        - Second house
+            - 1 medium room with medium bar
+            - 1 small dancefloor
+- Went on a Sunday (2016/07/10)
+    - Arrived at 1:10
+    - In line for 5 minutes
+    - Saw group of 6 get rejected
+    - Approved 3 people then me
+    - From 1:15 to 2:30, small dancefloor was always warm and fluctuated between empty and having small amount of people
+    - Left due to improper sleep preparation (due to moving apartments all day)
+    - At 2:30, line looked 15 minutes long
+
 ## Dunckerclub
 - 1 floor
     - Ground floor

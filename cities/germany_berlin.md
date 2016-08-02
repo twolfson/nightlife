@@ -33,6 +33,27 @@
 - 5€ for whiskey soda
 - 0.50€ deposit
 
+## Cassiopeia
+- 2 floors
+    - Ground floor
+        - 1 medium room, all dancefloor
+        - 1 large room with large dancefloor and small bar
+        - 1 big outdoor space with closed bar
+    - Upstairs
+        - 1 large room with medium dancefloor and medium bar
+        - Gear turning disco balls
+- Went on a Friday (2016/07/15)
+    - Cover was 10€
+    - Went alone, Illinois id was good
+    - Had stamp
+    - From 2:20 to 2:50, was in line
+    - From 2:50 to 4:00
+        - Both downstairs rooms were crowded
+        - Upstairs had people but lots of room to dance
+        - Few people outside due to cold
+    - Left due to set change and disliking all music
+- 1€ for coat check
+
 ## Dunckerclub
 - 1 floor
     - Ground floor

@@ -11,7 +11,7 @@
 ## Top picks
 - Mensch Meier
 - Kosmonaut
-- Pending approval: Renate
+- Renate
 
 ## Sites
 - https://www.residentadvisor.net/events.aspx?ai=34 - Listing of majority of events

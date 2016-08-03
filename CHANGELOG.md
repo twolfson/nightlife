@@ -1,4 +1,6 @@
 # nightlife
+0.44.1 - Published unpublished changes
+
 0.44.0 - Added more Berlin venues up to 2016/08/02
 
 0.43.1 - Added missed notes on venue visuals for Berlin

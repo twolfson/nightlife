@@ -11,11 +11,85 @@
 ## Top picks
 - Mensch Meier
 - Kosmonaut
-- Pending approval: Renate
+- Renate
 
 ## Sites
-- https://www.residentadvisor.net/events.aspx?ai=34 - Listing of majority of events
+- https://www.residentadvisor.net/events.aspx?ai=34 - Listing of electronic music events
 - https://www.goabase.net/party/?country=Germany - Goa trance and psytrance events
+- http://www.virtualnights.com/berlin/events - Listing of club events
+
+## Badehaus
+- 1 floor
+    - Ground floor
+        - 1 large room with medium bar
+        - 1 large room, all dancefloor
+        - 1 small covered outdoor area, technically dancefloor
+- Went on a Friday (2016/07/29, 90s night)
+    - Cover was 6€
+    - Arrived at 00:15, virtually no line
+    - From 00:15 to 2:00, large dancefloor was warm all night and fluctuated between having people/being crowded but could always dance
+    - From 00:15 to 2:00 outside had people but nobody was dancing
+    - Left at 2:00
+- 5€ for whiskey soda
+- 0.50€ deposit
+
+## Cassiopeia
+- 2 floors
+    - Entrance had netting overhead with light strings criss-crossing left/right. Small round bulbs slowly changing colors
+    - Ground floor
+        - 1 medium room, all dancefloor
+        - 1 large room with large dancefloor and small bar
+        - 1 big outdoor space with closed bar
+    - Upstairs
+        - 1 large room with medium dancefloor and medium bar
+        - Gear turning disco balls
+- Went on a Friday (2016/07/15)
+    - Cover was 10€
+    - Went alone, Illinois id was good
+    - Had stamp
+    - From 2:20 to 2:50, was in line
+    - From 2:50 to 4:00
+        - Both downstairs rooms were crowded
+        - Upstairs had people but lots of room to dance
+        - Few people outside due to cold
+    - Left due to set change and disliking all music
+- 1€ for coat check
+
+## Chalet
+- Unknown floors, didn't get full perspective due to Sunday
+    - Ground floor
+        - Main house closed off except for
+            - 1 small room with piano
+            - 1 small room with chairs
+        - 1 large outdoor space with pillows, bed, and bonfire (but it was 70 degrees out (warm))
+        - Second house
+            - 1 medium room with medium bar
+            - 1 small dancefloor
+- Went on a Sunday (2016/07/10)
+    - Arrived at 1:10
+    - In line for 5 minutes
+    - Saw group of 6 get rejected
+    - Approved 3 people then me
+    - From 1:15 to 2:30, small dancefloor was always warm and fluctuated between empty and having small amount of people
+    - Left due to improper sleep preparation (due to moving apartments all day)
+    - At 2:30, line looked 15 minutes long
+
+## Dunckerclub
+- 1 floor
+    - Ground floor
+        - 1 large room, medium dancefloor and small bar
+        - 1 small room with tables
+        - 1 large outdoor area with small bar
+- Went on a Monday (2016/07/25, goth + new wave night)
+    - Cover was 4€
+    - Must ring bell to enter
+    - No id check, no stamp
+    - From 11:30 to 12:30, indoor had people but room to dance and wasn't too warm
+    - From 12:30 to 1:30, indoor got more people; could still dance but was warm
+    - From 11:30 to 1:30, outside was always mostly crowded at tables
+- 3€ for whiskey soda (single shot)
+- 5€ for Watermelon Man coctail (tall)
+- 0.50€ deposit
 
 ## Frannz Club
 - Might have had multiple floors but only was outside
@@ -110,6 +184,31 @@
 - 0.50€ deposit with chip
 - 2.50€ for tall glass of cola
 
+## Matrix
+- 1 floor
+    - Left/right layout, all large rooms
+    - 1 with medium dancefloor, small bar
+    - 1 with small dancefloor, medium bar
+    - 4 with medium dancefloor, small bar
+    - 1 medium outside smoking area
+- Went on a Wednesday (2016/07/21, pop/top 40)
+    - Cover was 7€ (apparently included coat check, too warm for that)
+    - Illinois id worked
+    - No stamp
+    - Arrived at 00:15
+    - Waited in line for 15 minutes
+    - Entered at 00:30
+    - Happy Hour so 2 for 1 drinks (including water)
+    - 18+ event, majority 18 to 21 but handled themselves well
+    - Only 1 room had broken glass on floor, staff didn't clean it up though
+    - From 00:30 to 1:00, rightmost dancefloor was crowded but danceable
+    - From 1:00 to 2:30, rightmost dancefloor was packed and hard to dance
+    - From 0:00 to 2:30
+        - Small dancefloor was empty-ish
+        - 2 medium dancefloors were crowded and hard to dance
+        - 1 medium dancefloor had a few people
+- 3€ for tall glass carbonated water
+
 ## Mensch Meier
 - 1 floor
     - Garden - 1 large outdoor space, pizza for sale
@@ -175,3 +274,40 @@
         - From 2:00 to 4:00, outdoor had people but not many
         - From 4:00 to 7:00, outdoor had lots of people
 - 2€ Mexikaner
+
+## Suicide Circus
+- 1 floor
+    - 1 medium room with medium bar
+    - 1 large room, all dancefloor
+    - 1 large outdoor space with potential dancefloor but it wasn't open
+- Went on a Wednesday (2016/07/06)
+    - Cover 10€
+    - No line
+    - Saw 1 group of 3 rejected
+    - Illinois id + alone was good
+    - From 1:30 to 2:00, large dancefloor had crowd but could dance
+    - From 2:00 to 3:30, large dancefloor varied between not being able to dance due to overcrowding and crowded but had room
+    - Left due to getting tired and having test next day
+- 2.5€ small bottle Coca Cola
+- 2.0€ medium bottle still water
+
+## Void Club
+- 1 floor
+    - Ground floor
+        - 1 small room with couches
+        - 1 large room, large dancefloor and small bar/coat check
+        - 1 large room, medium dancefloor and medium bar
+        - Both dancefloor rooms had overhead lights and camoflauge leaf canopy (jungle-esque, matching drum and bass alias: jungle)
+        - 1 small room with couches
+- Went on a Saturday (2016/07/23, drum and bass)
+    - Cover 10€
+    - No line
+    - Illinois id worked fine
+    - From 2:15 to 3:15, large dancefloor was very warm and crowded
+    - From 3:15 to 4:00, large dancefloor could start dancing
+    - From 4:00 to 5:00, large dancefloor had plenty of room to dance
+    - From 2:15 to 5:00, medium dancefloor was warm and fluctuated between having people and none. Could always dance
+- 3.50€ for Outer Rim long drink
+- 0.40€ for Wassereis (ice pop, small)
+- 1.00€ deposit on drinks (token was puzzle piece)
+- 2.00€ for medium water in glass bottle with bubbles

@@ -236,9 +236,14 @@
 ## Mensch Meier
 - 1 floor
     - Garden - 1 large outdoor space, pizza for sale
+        - Projectors casted a striped pattern over the crowd
+        - No overhead lights
+        - Lots of benches and chairs
     - Main - 1 medium room with medium dancefloor and small bar
+        - Color changing chandeliers
     - Planets - 1 small room with small dancefloor
     - Saloon - 1 medium room with medium dancefloor and small bar
+        - Normal wall fixtures as sound visualization; lit up/down based on controls. Had a few colored bulbs but mostly yellow/white incandescent
     - Had coat check but didn't use it
 - Went on a Friday (June 3 2016)
     - 10€ cover at door

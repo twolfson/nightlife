@@ -54,6 +54,15 @@
     - Music was hip hop, 80s, 90s, and disco
     - From 2:30 to 3:00 medium was filled but could dance
     - From 3:00 to 4:00 medium had people and plenty of room to dance
+- Went on a Wednesday (2016/08/03)
+    - Cover was 6€
+    - At 00:15, no line
+    - Downstairs large and upstairs large were open
+    - From 00:15 to 00:45, both rooms had few people
+    - From 00:45 to 2:30, downstairs fluctuated between being fully crowded/super hard to dance and being crowded/can dance
+    - From 00:45 to 2:30, no idea about upstairs
+    - Downstairs music was hip hop and trap
+    - Upstairs music was reggae
 - Went on a Friday (2016/07/15)
     - Cover was 10€
     - Went alone, Illinois id was good

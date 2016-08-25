@@ -102,10 +102,23 @@
 - 0.50€ deposit
 
 ## Frannz Club
-- Might have had multiple floors but only was outside
-    - 1 medium outdoor space with small dancefloor
+- 2 floors
+    - Ground floor
+        - 1 medium outdoor space with small dancefloor and small bar
+    - Upstairs
+        - 1 medium room with small bar
+        - 1 medium room, all dancefloor
+- Went on a Monday (August 15 2016) for club dancing
+    - 3€ cover at door but had password to pass freely
+    - No line at 1AM
+    - Upstairs dancefloor
+        - From 1 to 1:30, had people but danceable
+        - From 1:30 to 2:30, crowded/hard to dance but could
+        - From 2:30 to 3:40, crowded but danceable
+        - Played pop, 90s, hip hop, and indie
 - Went on a Thursday (June 9 2016) for swing dancing
-    - No cover (at least where I entered)
+    - No cover for outside
+    - I think upstairs was open but didn't visit
     - Arrived at 10:30
     - From 10:30 to 11:30, crowded on dancefloor but could dance
     - From 11:30 to 1AM, about 3 to 5 couples on dancefloor
@@ -113,6 +126,7 @@
     - Everyone had a backpack for water and a coat/secondary layer
 - 0.50€ deposit on drinks with electronic-esque token
 - 2.00€ for small glass of water
+- 0.50€ to use bathroom
 - Staff was fluent in English
 
 ## Magdalena

@@ -247,10 +247,22 @@
     - From 3AM to 5AM, main room got crowded and was hard to dance in. Other rooms weren't so packed but crowds would flow freely between rooms
     - Left at 5AM (tired due to jet lag)
     - I was unable to tell difference between locals and foreigners but had a good time altogether =)
+- Went on a Saturday (August 13 2016)
+    - 10€ cover at door
+    - From 2AM to 4AM, was waiting in line (at 3AM, bouncers told everyone club was full)
+    - Music was deep house, drum and bass, live punk, live electronic/guitar jam band
+    - From 4AM to 6:30AM, main was crowded but could dance on edges
+    - From 4AM to 5AM, planets was crowded but danceable
+    - From 5AM to 6:30AM, planets had people and could dance
+    - From 4AM to 6:30AM, saloon fluctuated between having crowd and not due to set changes
+    - From 4AM to 5AM, garden was crowded
+    - From 5AM to 6:30AM, garden was filled but had room
+    - Left at 6:30AM due to music frustration
 - Decorations (stretch lycra ceilings, colorful ornamentation), atmosphere, and smell (burning firewood and cigarettes) reminded me of Burning Man
 - 6.50€ for Rum Kola
 - 1.50€ for seltzer
-- Took a 0.50€ deposit on drinks (no chip)
+- 0.50€ deposit on bottles, 1.00€ on glasses (no token)
+- 1.00€ for coat check
 - Staff spoke fluent English
 - Stickers were put over phone's cameras
 

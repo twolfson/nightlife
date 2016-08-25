@@ -2,11 +2,12 @@
 **Notes:**
 
 - Most clubs are open between midnight and noon. People start arriving at 2AM and peak is from 3AM to 7AM
+    - To avoid long waits, I suggest arriving at 1AM
 - Due to the long hours, some clubs will serve food and caffeinated beverages (e.g. pizza, fries, currywurst, coffee, tea, mate)
 - Some clubs will state "No photos allowed" and place stickers over your phone's cameras
 - Clubs/bars might take a deposit on drinks (e.g. 0.50€). You might receive a token with your glass which you return with your glass to get the deposit back
 - Clubs/bars might take a secondary cover for the DJ when ordering your first drink (e.g. 1.00€). You will receive a stamp on your wrist to prove you already paid this cover
-- In clubs, people seem to wear black, white, and dull colors
+- In clubs, most people to wear black, white, and dull colors
 
 ## Top picks
 - Mensch Meier

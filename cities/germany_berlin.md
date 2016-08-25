@@ -8,6 +8,7 @@
 - Clubs/bars might take a deposit on drinks (e.g. 0.50€). You might receive a token with your glass which you return with your glass to get the deposit back
 - Clubs/bars might take a secondary cover for the DJ when ordering your first drink (e.g. 1.00€). You will receive a stamp on your wrist to prove you already paid this cover
 - In clubs, most people to wear black, white, and dull colors
+- If the line is moving quickly, it means people are getting accepted/rejected. If it's moving slowly, then it's likely due to the club being full
 
 ## Top picks
 - Mensch Meier

@@ -16,7 +16,7 @@
 
 ## Sites
 - https://www.residentadvisor.net/events.aspx?ai=34 - Listing of electronic music events
-- https://www.goabase.net/party/?country=Germany - Goa trance and psytrance events
+- https://www.goabase.net/parties.php?saAtt[geoloc]=Berlin&saAtt[radius]=200 - Goa trance and psytrance events
 - http://www.virtualnights.com/berlin/events - Listing of club events
 
 ## Badehaus

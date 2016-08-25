@@ -44,6 +44,15 @@
     - Upstairs
         - 1 large room with medium dancefloor and medium bar
         - Gear turning disco balls
+- Went on a Tuesday (2016/08/23)
+    - Cover was 5€
+    - Went alone, Illinois id was good
+    - Had stamp
+    - Arrived at 2:30, no line
+    - Only medium downstairs and outdoor space were open
+    - Music was hip hop, 80s, 90s, and disco
+    - From 2:30 to 3:00 medium was filled but could dance
+    - From 3:00 to 4:00 medium had people and plenty of room to dance
 - Went on a Friday (2016/07/15)
     - Cover was 10€
     - Went alone, Illinois id was good

@@ -84,6 +84,9 @@
     - From 1:15 to 2:30, small dancefloor was always warm and fluctuated between empty and having small amount of people
     - Left due to improper sleep preparation (due to moving apartments all day)
     - At 2:30, line looked 15 minutes long
+- Went on a Friday (2016/08/05)
+    - From 4:05 to 4:10, in line
+    - Rejected as a group of 3 men due to too many men inside
 
 ## Dunckerclub
 - 1 floor

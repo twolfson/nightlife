@@ -130,6 +130,21 @@
 - 0.50€ to use bathroom
 - Staff was fluent in English
 
+## Kaffee Burger
+- 1 floor
+    - Ground floor
+        - 1 small room with small bar
+        - 1 small room in back
+        - 1 medium room, all dancefloor
+- Went on a Saturday (August 6 2016)
+    - No cover
+    - At 2:20, no line
+    - From 2:20 to 3:20, dancefloor was crowded but could dance
+    - From 3:20 to 4:20, dancefloor had people but could easily dance
+    - Music was mix of disco, 90s electronic, scratch hop
+        - Kind of frustrating because DJ would jump genres/pace frequently
+- 7€ for tall glass of whiskey/coke
+
 ## Magdalena
 - 2 floors
     - Ground floor

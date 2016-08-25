@@ -145,6 +145,11 @@
         - Kind of frustrating because DJ would jump genres/pace frequently
 - 7€ for tall glass of whiskey/coke
 
+## Kater Blau
+- Went on a Friday (August 5 2016)
+    - From 2:45 to 3:25, was in line
+    - Rejected as a group of 2, probably due to bright graphic on shirt (brown shirt)
+
 ## Magdalena
 - 2 floors
     - Ground floor

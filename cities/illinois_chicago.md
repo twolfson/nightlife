@@ -47,7 +47,16 @@
     - After 1:30AM, started to open up
     - Left at 2:30AM, had a few handfuls of people but dancefloor was empty. Bar still had people
     - Large room was kept cold
+- Went on a Saturday (2016/08/27)
+    - $5 cover at door
+    - From 11:40PM to 12:10AM, waited in line
+    - From 12:10 to 1:50, dancefloor was crowded and couldn't dance
+    - From 1:50 to 2:30, dancefloor was filled but could dance
+    - From 12:10 to 1:50, main room was crowded but could dance
+    - From 1:50 to 2:30, main room had people and could easily dance
+    - Music was 90s with some 80s and pop mixed in
 - $8 for Sailor Jerry and coke
+- $8 for Jameson soda
 - Free tall water
 
 ## C-Haus

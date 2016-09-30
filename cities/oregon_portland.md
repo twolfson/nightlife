@@ -12,6 +12,17 @@
 - Madhouse Mondays
     - https://www.facebook.com/madhousepdx/
 
+## 45 East
+- 1 floor
+    - 1 big room with medium dancefloor and small bar
+- Went on a Saturday (2016/09/03 - Red Cube)
+    - $15 cover at door
+    - No line
+    - From 11:20 to 1:00, dancefloor mostly full but plenty of room to dance
+    - From 1:00 to 2:00, dancefloor half full and plenty of room to dance
+- $5 for coat check
+- $6 for rum and coke
+
 ## Holocene
 - 1 floor
     - 1 medium room with medium bar

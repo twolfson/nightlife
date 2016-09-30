@@ -94,6 +94,24 @@
     - Music was rock
 - $6 for Portland Vodka on the rocks
 
+## The Liquor Store
+- Half bar, half nightclub
+- 2 floors
+    - Ground floor
+        - 1 large room with medium bar
+    - Downstairs
+        - 1 large room with small bar and medium dancefloor
+- Went on a Saturday (2016/09/17 - Booms and Claps)
+    - No cover for ground floor (bar)
+    - $10 cover for downstairs (nightclub)
+    - No line at 11:30
+    - From 11:30 to 12:30, downstairs was crowded but had room to dance
+    - From 12:30 to 1:00, downstairs had people and plenty of room to dance
+    - Left at 1:00 due to set change, boredom, and hunger
+    - Downstairs music was hip hop and trap
+- $5 for vodka sprite
+- $8 for Kraken on the rocks (felt like a double)
+
 ## Whiskey Bar
 - Nightclub, not a bar
 - 1 floor

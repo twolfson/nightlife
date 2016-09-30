@@ -135,5 +135,10 @@
         - Dancefloor was filled but had room to dance
         - Outside was crowded but could stand
     - Music was dubstep
+- Went on a Saturday (2016/09/24 - Mission Trance)
+    - $15 cover
+    - No line at 11:00PM
+    - From 11:00 to 12:00, dancefloor had a handful of people
+    - From 12:00 to 1:00, dancefloor had a small crowd
 - $5 for whiskey soda
 - $5 for rum and coke

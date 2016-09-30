@@ -73,7 +73,19 @@
 - $4 for rum and coke
 - $4 for whiskey soda
 
-# Sandy Hut
+## Paris Theater
+- 1 floor
+    - 1 large rom with small bar and small dancefloor
+- Went on a Thursday (2016/09/15 - Madhouse PDX)
+    - $5 advance cover
+    - No line at 10:30PM
+    - From 10:30 to 11:30, only a few people
+    - From 11:30 to 1:00, dancefloor had people but easy to dance
+    - From 1:00 to 2:00, dancefloor had some people and easy to dance
+- $7 for whiskey soda
+- $7 for vodka sprite
+
+## Sandy Hut
 - Bar
 - 1 floor
     - 1 huge room with medium bar and no dancefloor

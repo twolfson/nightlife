@@ -56,3 +56,27 @@
     - Music was dark electronic and hip hop
 - $4 for rum and coke
 - $4 for whiskey soda
+
+# Sandy Hut
+- Bar
+- 1 floor
+    - 1 huge room with medium bar and no dancefloor
+- Went on a Friday (2016/09/09)
+    - From 11:20 to 11:50, had plenty of people but room to sit
+    - Music was rock
+- $6 for Portland Vodka on the rocks
+
+## Whiskey Bar
+- Nightclub, not a bar
+- 1 floor
+    - 1 big room with medium bar and medium dancefloor
+    - 1 medium outside area
+- Went on a Friday (2016/09/09 - DeafLife)
+    - $5 cover
+    - No line at 11:50PM
+    - From 11:50 to 2:00
+        - Dancefloor was filled but had room to dance
+        - Outside was crowded but could stand
+    - Music was dubstep
+- $5 for whiskey soda
+- $5 for rum and coke

@@ -42,3 +42,17 @@
 - $7 for Jameson soda
 - Had ATM
 - Had coat rack, not coat check
+
+## Lovecraft Bar
+- 1 floor
+    - 1 large room with small bar and medium dancefloor
+    - Back room was closed on a Tuesday
+- Went on a Tuesday (2016/09/06 - Coma Toast)
+    - No cover
+    - Illinois ID was checked
+    - From 11:20 to 11:50, handful of people and dancefloor empty
+    - From 11:50 to 1:10, dancefloor had people and room to dance
+    - From 1:10 to 1:40, some people around but dancefloor almost empty
+    - Music was dark electronic and hip hop
+- $4 for rum and coke
+- $4 for whiskey soda

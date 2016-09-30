@@ -94,6 +94,23 @@
     - Music was rock
 - $6 for Portland Vodka on the rocks
 
+## Spin Room
+- 1 floor
+    - 1 medium room (front) with small dancefloor and 2 poles
+    - 1 medium room (rear) with small dancefloor, small bar, and 3 poles
+    - Visuals were:
+        - Light bars across walls
+        - Dot panels overhead
+        - Circular/square color changing panels on walls
+        - Clear plastic cups which glowed due to low power blacklight but blacklight didn't overglow eyes at all
+        - Super luminescent place, reminded me of Robot restaurant in Tokyo
+- Went on a Monday (2016/09/26 - Madhouse PDX)
+    - No cover
+    - No line at 11:00PM
+    - From 11:00 to 2:00, rear room had crowd but room to dance
+    - Music was house
+- $5 for rum and coke
+
 ## Studio 20
 - 1 floor
     - 1 large room with free snacks (e.g. chips, grapes) and water

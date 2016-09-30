@@ -43,6 +43,22 @@
 - Had ATM
 - Had coat rack, not coat check
 
+## Laurelhurst Park, Heartbeat Silent Disco
+- Silent disco in a park
+- 1 floor
+    - 1 large patch of grass
+- Went on a Sunday (2016/09/11 - Heartbeat Silent Disco)
+    - $5 to $10 sliding donation
+    - Event started at 6:00
+    - From 6:00 to 6:30, about 10 people
+    - From 6:30 to 9:00, about 30 people with plenty of room to dance
+    - Event ended at 9:00
+    - 2 music channels
+        - Varied between older pop, progressive trance, tribal, and hip hop
+- Bathrooms and water fountains were nearby
+- Lots of people brought towels, water, food, and backpacks
+- Some people brought flow toys; hoop, staff, rope dart, poi
+
 ## Lovecraft Bar
 - 1 floor
     - 1 large room with small bar and medium dancefloor

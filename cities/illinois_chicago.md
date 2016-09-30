@@ -2,7 +2,7 @@
 **Notes:**
 
 - Last call can be at 2AM, 4AM, or 5AM
-    - It depends on the vnue but usually events will list a closing time
+    - It depends on the venue but usually events will list a closing time
 
 ## Top picks
 - Full Moon Jam - http://fullmoonjam.org/

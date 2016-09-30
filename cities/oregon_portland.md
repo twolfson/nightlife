@@ -94,6 +94,17 @@
     - Music was rock
 - $6 for Portland Vodka on the rocks
 
+## Studio 20
+- 1 floor
+    - 1 large room with free snacks (e.g. chips, grapes) and water
+    - 1 large room with small dancefloor
+    - 1 small outdoor smoking area
+- Went on a Thursday (2016/09/22 - PLAN.E)
+    - $5 cover
+    - From 10:30 to 1:00, 10 to 15 people shifting between rooms. Dancefloor was never crowded
+    - Event was flow jam-esque
+    - Music was EDM and trap
+
 ## The Liquor Store
 - Half bar, half nightclub
 - 2 floors

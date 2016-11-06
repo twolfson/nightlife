@@ -41,6 +41,19 @@
 - $8 for whiskey soda
 - $8 for rum and coke
 
+## Goodfoot
+- 2 floors (separate outdoor entrances)
+    - Ground floor
+        - 1 huge room with medium bar and medium dancefloor (technically large dancefloor due to people dancing outside of it)
+    - Upstairs, bar I think but didn't enter that entrace
+- Went on a Saturday (2016/10/29 - Get on up)
+    - $5 cover at door
+    - Line from 11:40 to 12:20, due to Halloween weekend
+        - Line moved super quick at 12:10, could have been inflation as well
+    - From 12:20 to 1:40, dancefloor filled but easily danceable on outskirts
+    - From 1:40 to 2:00, dancefloor mostly full but started to clear out
+    - At 2:00, venue closed
+
 ## Holocene
 - 1 floor
     - 1 medium room with medium bar

@@ -140,7 +140,13 @@
     - No line at 11:00PM
     - From 11:00 to 2:00, rear room had crowd but room to dance
     - Music was house
+- Went on a Monday (2016/10/24 - Madhouse PDX)
+    - No cover
+    - From 10:50PM to 11:30PM, handful of people in venue
+    - From 11:30PM to 12:50PM, good amount of people and room to dance
+    - From 12:50PM to 1:40AM, some people and plenty of room to dance
 - $5 for rum and coke
+- $5 for coconut Bacardi and coke
 
 ## Studio 20
 - 1 floor

@@ -22,6 +22,25 @@
 - $5 for coat check
 - $6 for rum and coke
 
+## Expo Center, Hall A
+- Setup specific to Burn Out 2016
+- 1 floor
+    - Massive space
+        - 1 small bar
+        - 1 small concession stand
+        - 3 medium music areas
+- Went on a Saturday (2016/11/05 - Burn Out)
+    - $20 cover online
+    - From 6:40 to 8:00, venue was barely filled with 60 people
+    - From 8:00 to 12:20, 1 rear music space had a crowd with room to dance
+        - Maybe 100 people total in the entire place
+    - Left at 12:20 due to last train and lack of interest in music
+        - Music was good up to 12:00 though
+- $4 for pretzel
+- $7 for hot dog with toppings
+- $8 for whiskey soda
+- $8 for rum and coke
+
 ## Holocene
 - 1 floor
     - 1 medium room with medium bar

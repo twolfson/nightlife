@@ -154,6 +154,18 @@
 - $5 for rum coke (before midnight)
 - $7 for rum coke (after midnight)
 
+## Skate World
+- Located in Gresham
+- 1 floor
+    - Ground floor
+        - 1 huge room with big dancefloor (roller rink)
+- Went on a Saturday (2016/10/01 - Fantasia, rave)
+    - $25 cover at door
+    - From 12:00 to 12:30, waited in line
+    - From 12:30 to 3:30, crowd on dancefloor but only 1/4 taken up due to space being so big
+    - Music was happy hardcore
+- No alcohol served but drinks/snacks available
+
 ## Spin Room
 - 1 floor
     - 1 medium room (front) with small dancefloor and 2 poles

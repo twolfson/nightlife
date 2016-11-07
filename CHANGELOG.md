@@ -1,4 +1,6 @@
 # nightlife
+0.48.0 - Added Portland venues up to 2016/10/06
+
 0.47.0 - Added Portland venues up to 2016/09/29
 
 0.46.0 - Added Chicago updates up to 2016/09/02

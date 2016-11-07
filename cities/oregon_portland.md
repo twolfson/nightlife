@@ -22,6 +22,18 @@
 - $5 for coat check
 - $6 for rum and coke
 
+## Bar XV
+- 1 floor
+    - 1 large room with medium bar and small dancefloor
+    - 1 medium room, all tables
+    - 2 more rooms available but closed due to Wednesday
+- Went on a Wednesday (2016/10/12 - Deep House Wednesdays)
+    - No cover
+    - From 12:00 to 1:30, dancefloor was empty or virtually empty
+    - Music was house
+- $6.50 for Sailor Jerry and Coke
+- No Coat check
+
 ## Expo Center, Hall A
 - Setup specific to Burn Out 2016
 - 1 floor

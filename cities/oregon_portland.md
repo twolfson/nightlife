@@ -101,6 +101,10 @@
     - From 11:50 to 1:10, dancefloor had people and room to dance
     - From 1:10 to 1:40, some people around but dancefloor almost empty
     - Music was dark electronic and hip hop
+- Went on a Tuesday (2016/10/18 - Mood ring)
+    - No cover
+    - From 11:30PM to 1:15, dancefloor had people and room to dance
+    - Music was electronic, new wave, and hip hop remixes
 - $4 for rum and coke
 - $4 for whiskey soda
 

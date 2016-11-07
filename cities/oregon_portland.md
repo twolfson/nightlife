@@ -141,6 +141,19 @@
     - Music was rock
 - $6 for Portland Vodka on the rocks
 
+## Shake
+- 1 floor
+    - Ground floor
+        - 1 medium room with medium bar and small dancefloor
+        - 1 medium room with medium bar and small dancefloor
+        - Probably more rooms open on weekend
+- Went on a Tuesday (2016/10/04 - DRTY DNCN)
+    - From at 10:40PM to 1:50AM, 30 people shuffled between 2 rooms
+        - Sometimes 1 was crowded and other was empty and then vice versa
+    - Music was: trap and hip hop in 1 room, other not sure but didn't enjoy it
+- $5 for rum coke (before midnight)
+- $7 for rum coke (after midnight)
+
 ## Spin Room
 - 1 floor
     - 1 medium room (front) with small dancefloor and 2 poles

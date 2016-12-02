@@ -1,5 +1,7 @@
 # nightlife
-0.49.0 - Added Portland venues up to 2016/11/19)
+0.50.0 - Added New York City venues up to 2016/11/30
+
+0.49.0 - Added Portland venues up to 2016/11/19
 
 0.48.0 - Added Portland venues up to 2016/10/06
 

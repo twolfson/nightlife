@@ -27,6 +27,9 @@ Venues are grouped by their cities, sorted alphabetically, and written in Markdo
 #### Nevada
 - [Black Rock City aka Burning Man](cities/nevada_black-rock-city.md)
 
+#### New York
+- [New York City](cities/new-york_new-york-city.md)
+
 #### Oregon
 - [Portland](cities/oregon_portland.md)
 

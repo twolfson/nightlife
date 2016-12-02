@@ -32,7 +32,7 @@
     - From 12:00 to 1:30, dancefloor was empty or virtually empty
     - Music was house
 - $6.50 for Sailor Jerry and Coke
-- No Coat check
+- No coat check
 
 ## Bit House Saloon
 - 2 floors

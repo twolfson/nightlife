@@ -34,6 +34,19 @@
 - $6.50 for Sailor Jerry and Coke
 - No Coat check
 
+## Bit House Saloon
+- 2 floors
+    - Ground floor, had a bar and tables -- ignored mostly
+    - Upstairs
+        - 1 large room with small bar and medium dancefloor
+- Went on a Saturday (2016/11/12, --let--me--tell--you)
+    - No cover (althought $5 mentioned on page)
+    - From 11:40 to 1:00, dancefloor had good crowd with room to dance
+    - From 1:00 to 2:00, dancefloor died down slowly to a couple handfuls of people
+    - Music was disco remixes and hip hop
+- $7 for Tito's and sprite
+- No coat check but had coat rack
+
 ## Expo Center, Hall A
 - Setup specific to Burn Out 2016
 - 1 floor

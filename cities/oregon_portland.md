@@ -120,6 +120,15 @@
 - $4 for rum and coke
 - $4 for whiskey soda
 
+## McMenamin's Crystal Ballroom, Lola's Room
+- 1 floor
+    - 1 huge room with medium bar and large dancefloor
+- Went on a Saturday (2016/11/19, 90's flashback)
+    - $7 cover
+    - From 11:40 to 12:30, dancefloor was crowded with some room to dance on outskirts
+    - From 12:30 to 1:30, dancefloor started emptying out with about half full at 1:30
+    - Closed at 1:30
+
 ## Paris Theater
 - 1 floor
     - 1 large rom with small bar and small dancefloor

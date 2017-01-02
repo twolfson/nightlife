@@ -78,6 +78,15 @@
     - From 12:20 to 1:40, dancefloor filled but easily danceable on outskirts
     - From 1:40 to 2:00, dancefloor mostly full but started to clear out
     - At 2:00, venue closed
+- Went on a Saturday (2016/12/24 - Get on up)
+    - $5 cover
+    - No line present
+    - Numbers probably not best representation due to being Christmas Eve
+    - From 11:10 to 1:00, dancefloor sparsely crowded
+    - From 1:00 to 2:00, dancefloor died down to a few handfuls of people
+    - Music was various pop remixes
+- $5 for vodka sprite
+- $5 for whiskey coke
 
 ## Holocene
 - 1 floor

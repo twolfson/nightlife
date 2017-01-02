@@ -124,6 +124,16 @@
 - Lots of people brought towels, water, food, and backpacks
 - Some people brought flow toys; hoop, staff, rope dart, poi
 
+## Lenora's Ballroom
+- 1 floor
+    - 1 big room, all dancefloor
+- Went on a Friday (been twice for Barefoot Blues, didn't take notes before)
+    - Blues dancing
+    - $7 to $15 sliding donation
+    - From 9 to 12, crowded
+    - From 12 to 1, sharp drop off
+    - Music is dark/bluesy electronic/pop
+
 ## Lovecraft Bar
 - 1 floor
     - 1 large room with small bar and medium dancefloor

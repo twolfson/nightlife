@@ -187,6 +187,21 @@
     - From 12:30 to 1:30, dancefloor started emptying out with about half full at 1:30
     - Closed at 1:30
 
+## Mississippi Studios
+- 1 floor
+    - Ground floor
+        - 1 large room with medium bar
+            - Not for event (no cover)
+        - 1 big room with medium bar and large dancefloor (had cover)
+        - Maybe outside area but didn't explore
+- Went on a Saturday (2016/12/10, Jump jack sound machine)
+    - Mostly gay/lesbian event but didn't see anything initially on listing =/
+    - $7 cover
+    - From 11:40 to 12:10, dancefloor was full but had room to dance
+    - From 12:10 to 1:10, dancefloor was mostly full but could dance easily
+- $5 for vodka sprite
+- No coat check but had hooks scattered throughout venue
+
 ## Paris Theater
 - 1 floor
     - 1 large rom with small bar and small dancefloor

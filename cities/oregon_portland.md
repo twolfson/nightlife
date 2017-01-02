@@ -116,10 +116,19 @@
     - From 12:50 to 1:20, main was half-full and easy to dance in
     - From 11:20 to 1:20, back room had a handful of people and plenty of room to dance
     - Music was EDM, hip hop, and trap
+    - Had coat rack, not coat check
+- Went on a Saturday (2016/12/17)
+    - $10 cover
+    - From 11:30 to 12:00, both rooms filled with rooms to dance
+    - From 12:00 to 12:40
+        - Main room had mostly full dancefloor but danceable
+        - Back room had 2 handfuls of people
+    - From 12:40 to 1:50, main room slowly dwindled to quarter full well packed
+    - Had coat check, didn't record cost
+    - Music was hip hop remixes, pretty poppy
 - $5.50 for rum and coke
 - $7 for Jameson soda
 - Had ATM
-- Had coat rack, not coat check
 
 ## Laurelhurst Park, Heartbeat Silent Disco
 - Silent disco in a park

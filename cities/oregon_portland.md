@@ -47,6 +47,19 @@
 - $7 for Tito's and sprite
 - No coat check but had coat rack
 
+## Bossanova Ballroom
+- 1 floor
+    - 1 medium room with small bar
+    - 1 big room, all dancefloor
+- Went on a Tuesday (2016/12/20, Tuesday Blues)
+    - Blues dancing
+    - $7 to $15 sliding donation
+    - From 9:40 to 11:00, crowded with plenty of people dancing
+    - From 11:00 to 12:00, windsdown rapidly to handful of pairs on dancefloor
+    - Music was Big band swing and Christmas music (DJ was Brenda Russell)
+- Went on a Tuesday (2016/12/27, Tuesday Blues)
+    - Similar experience to before but different music. Forgot to write down which. Probably not going to record these too frequently though due to personal frequency
+
 ## Expo Center, Hall A
 - Setup specific to Burn Out 2016
 - 1 floor

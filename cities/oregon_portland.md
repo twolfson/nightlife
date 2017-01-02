@@ -154,6 +154,23 @@
 - $7 for whiskey soda
 - $7 for vodka sprite
 
+## Pure Space
+- 2 floors
+    - Ground floor
+        - 1 huge room with big dancefloor and medium bar
+        - 1 big room with medium dancefloor and medium bar
+    - Upstairs, closed off for non-VIPs
+- Went on a Saturday (2016/12/31, Midnite NYE)
+    - $60 advance cover
+    - From 10:30 to 10:50, waited in line
+    - From 10:50 to 12:30
+        - Front room was crowded with room to dance on outskirts
+        - Back room was crowded, didn't try to dance but looked like there was room
+    - From 12:30 to 1:30, back room dwindled and closed up
+    - From 12:30 to 2:00, front room dwindled and ended being half-filled loosely packed
+- $5 coat check
+- $8 for rum coke
+
 ## Sandy Hut
 - Bar
 - 1 floor

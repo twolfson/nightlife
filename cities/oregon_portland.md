@@ -163,7 +163,10 @@
 ## Lovecraft Bar
 - 1 floor
     - 1 large room with small bar and medium dancefloor
-    - Back room was closed on a Tuesday
+    - 1 small room, half dancefloor
+        - Closed on Tuesdays
+    - 1 medium room with small bar and small dancefloor
+        - Closed on Tuesdays
 - Went on a Tuesday (2016/09/06 - Coma Toast)
     - No cover
     - Illinois ID was checked
@@ -179,8 +182,13 @@
     - No cover
     - From 12:00 to 2:10, dancefloor had crowd with room to dance
     - Music was dark trance and hip hop
+- Went on a Saturday (2017/01/28 - Electronomicon)
+    - $5 cover
+    - From 11:00 to 2:00, front was almost always crowded with rare breaks
+    - From 11:00 to 2:00, back was filled but had room to dance
 - $4 for rum and coke
 - $4 for whiskey soda
+- $6 for Kraken and coke
 
 ## McMenamin's Crystal Ballroom, Lola's Room
 - 1 floor

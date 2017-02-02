@@ -269,9 +269,16 @@
         - 1 medium room with medium bar and small dancefloor
         - Probably more rooms open on weekend
 - Went on a Tuesday (2016/10/04 - DRTY DNCN)
+    - No cover
     - From at 10:40PM to 1:50AM, 30 people shuffled between 2 rooms
         - Sometimes 1 was crowded and other was empty and then vice versa
     - Music was: trap and hip hop in 1 room, other not sure but didn't enjoy it
+- Went on a Wednesday (2016/01/18 - Shake Wednesdays)
+    - No cover
+    - From 11:00 to 1:10
+        - Not very crowded to a couple handfuls of people in front
+        - Back always seemed to have a crowd, didn't spend much time there due to music
+- $5? coat check but didn't use
 - $5 for rum coke (before midnight)
 - $7 for rum coke (after midnight)
 

@@ -16,15 +16,25 @@
     - Monthly but not on a regular schedule
 
 ## 45 East
-- 1 floor
-    - 1 big room with medium dancefloor and small bar
+- 2 floors
+    - Ground floor
+        - 1 big room with medium dancefloor and small bar
+    - Upstairs
+        - Looked empty, didn't explore much
+        - At least a medium dancefloor
 - Went on a Saturday (2016/09/03 - Red Cube)
     - $15 cover at door
     - No line
     - From 11:20 to 1:00, dancefloor mostly full but plenty of room to dance
     - From 1:00 to 2:00, dancefloor half full and plenty of room to dance
+- Went on a Friday (2016/01/20)
+    - $10 + $3 advance cover for downstairs (includes entry to upstairs)
+    - From 11:30 to 1:00, downstairs had large crowd but could dance near wall/back
+    - From 1:00 to 2:00, lightened up and mostly crowded
+    - Music was hip hop, dubsteap, and drum and bass
 - $5 for coat check
 - $6 for rum and coke
+- $8 for Tito's and sprite
 
 ## Bar XV
 - 1 floor

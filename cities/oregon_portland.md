@@ -140,7 +140,14 @@
     - From 12:40 to 1:50, main room slowly dwindled to quarter full well packed
     - Had coat check, didn't record cost
     - Music was hip hop remixes, pretty poppy
-- $5.50 for rum and coke
+- Went on a Friday (2017/01/13 👻 - Dance Yourself Clean)
+    - $8 cover
+    - From 11:30 to 12:30, front and back were crowded, even on back stage. Room to dance in back though
+    - From 12:30 to 2:00, front always had crowd. Back flowed between crowd and quarter full
+    - Indie pop all night long
+- $2 coat check
+- $5 or $5.50 for rum and coke
+- $6 for vodka sprite
 - $7 for Jameson soda
 - Had ATM
 

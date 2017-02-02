@@ -10,6 +10,10 @@
     - https://www.facebook.com/HeartbeatSoundSystems/
 - Madhouse Mondays
     - https://www.facebook.com/madhousepdx/
+- Dance Yourself Clean @ Holocene
+    - https://www.facebook.com/DanceYourselfClean/
+- Get on Up @ The Goodfoot
+    - Monthly but not on a regular schedule
 
 ## 45 East
 - 1 floor

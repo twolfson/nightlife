@@ -36,6 +36,22 @@
 - $6 for rum and coke
 - $8 for Tito's and sprite
 
+## Audio Cinema
+- 1 floor
+    - Ground floor
+        - 1 big room (warehouse), large dancefloor and medium bar
+        - Open to outside via warehouse door so a bit chilly
+- Went on a Friday (2017/02/17 - Occasion Vibration)
+    - $20 + $3 advance cover
+    - From 11:30 to 2:00, dancefloor filled with room to dance
+    - From 2:00 to 3:00, drained from filled to 3/4
+    - From 3:00 to 3:10, dancefloor repleneshed back to filled
+    - Left at 3:10 due to exhaustion, event was planned until 5:00
+    - Music was techno, trance, and house
+- $5 for vodka ginger
+- $5 for whiskey ginger
+- Had coat rack
+
 ## Bar XV
 - 1 floor
     - 1 large room with medium bar and small dancefloor

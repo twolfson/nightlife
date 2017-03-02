@@ -102,6 +102,44 @@
 - Went on a Tuesday (2016/12/27, Tuesday Blues)
     - Similar experience to before but different music. Forgot to write down which. Probably not going to record these too frequently though due to personal frequency
 
+## Dirty
+- 1 floor, 2 halves
+    - Dirty half
+        - 1 large room with small bar and small dancefloor and platform
+        - 1 medium room with medium bar
+    - Spin Room half
+        - 1 medium room (front) with small dancefloor and 2 poles
+        - 1 medium room (rear) with small dancefloor, small bar, and 3 poles
+        - Visuals were:
+            - Light bars across walls
+            - Dot panels overhead
+            - Circular/square color changing panels on walls
+            - Clear plastic cups which glowed due to low power blacklight but blacklight didn't overglow eyes at all
+            - Super luminescent place, reminded me of Robot restaurant in Tokyo
+- Went on a Monday (2016/09/26 - Madhouse PDX)
+    - No cover
+    - Only Spin room half open
+    - No line at 11:00PM
+    - From 11:00 to 2:00, rear room had crowd but room to dance
+    - Music was house
+- Went on a Monday (2016/10/24 - Madhouse PDX)
+    - No cover
+    - Only Spin room half open
+    - From 10:50PM to 11:30PM, handful of people in venue
+    - From 11:30PM to 12:50PM, good amount of people and room to dance
+    - From 12:50PM to 1:40AM, some people and plenty of room to dance
+- Went on a Saturday (2017/02/04)
+    - $15 cover door for no specific headliners
+    - Dirty half open and Spin Room (rear) open
+    - 5 minute line
+    - If you step outside, must wait in alternate line to re-enter
+    - Dirty half always had a crowd but we never stayed
+    - From 11:00 to 2:00, spin room fluctuated between being filled to dance (45 min intervals) and a handful of people (10 min intervals)
+- $5 for rum and coke
+- $5 for coconut Bacardi and coke
+- $5 coat check in Dirty half (no coat check in Spin room half)
+    - Interesting technique: Wrote a number on a sticker and attached to my ID, recorded name and number on paper, matched 2 on retrieval
+
 ## Expo Center, Hall A
 - Setup specific to Burn Out 2016
 - 1 floor
@@ -344,29 +382,6 @@
     - From 12:30 to 3:30, crowd on dancefloor but only 1/4 taken up due to space being so big
     - Music was happy hardcore
 - No alcohol served but drinks/snacks available
-
-## Spin Room
-- 1 floor
-    - 1 medium room (front) with small dancefloor and 2 poles
-    - 1 medium room (rear) with small dancefloor, small bar, and 3 poles
-    - Visuals were:
-        - Light bars across walls
-        - Dot panels overhead
-        - Circular/square color changing panels on walls
-        - Clear plastic cups which glowed due to low power blacklight but blacklight didn't overglow eyes at all
-        - Super luminescent place, reminded me of Robot restaurant in Tokyo
-- Went on a Monday (2016/09/26 - Madhouse PDX)
-    - No cover
-    - No line at 11:00PM
-    - From 11:00 to 2:00, rear room had crowd but room to dance
-    - Music was house
-- Went on a Monday (2016/10/24 - Madhouse PDX)
-    - No cover
-    - From 10:50PM to 11:30PM, handful of people in venue
-    - From 11:30PM to 12:50PM, good amount of people and room to dance
-    - From 12:50PM to 1:40AM, some people and plenty of room to dance
-- $5 for rum and coke
-- $5 for coconut Bacardi and coke
 
 ## Studio 20
 - 1 floor

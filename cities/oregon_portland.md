@@ -173,10 +173,17 @@
     - From 11:30 to 12:30, front and back were crowded, even on back stage. Room to dance in back though
     - From 12:30 to 2:00, front always had crowd. Back flowed between crowd and quarter full
     - Indie pop all night long
+- Went on a Friday (2017/02/10 - Dance Yourself Clean)
+    - $8 cover
+    - Line from 10:40 to 11:25 x_x
+    - From 11:25 to 2:00, front was filled. Maybe 75% after 12:30
+    - From 11:25 to 1:00, crowded including stage but could dance with 2 10 minute sections where area emptied to handfuls
+    - From 1:00 to 1:45, slowly dwindled to none
 - $2 coat check
-- $5 or $5.50 for rum and coke
+- $5.50 for rum and coke
 - $6 for vodka sprite
 - $7 for Jameson soda
+- $7 for Tito's sprite
 - Had ATM
 
 ## Laurelhurst Park, Heartbeat Silent Disco

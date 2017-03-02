@@ -383,6 +383,24 @@
     - Music was happy hardcore
 - No alcohol served but drinks/snacks available
 
+## SomaSpace
+- 1 floor
+    - Ground floor
+        - 1 medium room with small dancefloor
+        - 1 large room, all dancefloor
+- Went on a Thursday (2017/02/02 - Ecstatic Dance)
+    - $10 cover
+    - Open from 7:30 to 9:15 except for 5 minute circles
+        - Circle is when everyone stands in a circle and meditates/concentrates spiritually and communally
+        - Opening circle at 8:00
+        - Closing circle at 9:15
+    - From 7:30 to 9:15, dancefloor sparsely filled with room to dance
+    - Music was tribal and trance
+- No shoes
+- Spiritual space
+- Free water and tea
+- Had coat rack
+
 ## Studio 20
 - 1 floor
     - 1 large room with free snacks (e.g. chips, grapes) and water

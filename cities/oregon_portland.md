@@ -254,8 +254,15 @@
     - From 10:30 to 11:30, only a few people
     - From 11:30 to 1:00, dancefloor had people but easy to dance
     - From 1:00 to 2:00, dancefloor had some people and easy to dance
+- Went on a Friday (2017/02/24 - Blackout)
+    - $15 + $2 advance cover
+    - From 11:40 to 1:30, crowded but danceable
+    - From 1:30 to 2:00, 3/4 full
+    - Closed at 2:00, despite 2:30 advertisement =(
 - $7 for whiskey soda
 - $7 for vodka sprite
+- $7 for rum coke
+- No coat check
 
 ## Pure Space
 - 2 floors

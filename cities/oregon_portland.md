@@ -36,7 +36,7 @@
 - $6 for rum and coke
 - $8 for Tito's and sprite
 
-## Audio Cinema
+## AudioCinema
 - 1 floor
     - Ground floor
         - 1 big room (warehouse), large dancefloor and medium bar

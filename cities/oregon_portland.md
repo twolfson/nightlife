@@ -61,6 +61,18 @@
 - $7 for Tito's and sprite
 - No coat check but had coat rack
 
+## Blue Diamond
+- Bar with live music and blues dancing
+- 1 floor
+    - Ground floor
+        - 1 large room with medium bar and small dancefloor
+- Went on a Sunday (2016/10/30)
+    - Can't remember times but it was crowded at night
+- Went on a Wednesday (2017/03/01)
+    - From 9:50 to 12:00, live music with plenty of room to dance
+    - Left at 12:20, unsure when bar closed
+- $4.50 for rum and coke
+
 ## Bossanova Ballroom
 - 1 floor
     - 1 medium room with small bar

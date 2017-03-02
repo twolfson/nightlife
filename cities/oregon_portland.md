@@ -215,6 +215,8 @@
     - $5 cover
     - From 11:00 to 2:00, front was almost always crowded with rare breaks
     - From 11:00 to 2:00, back was filled but had room to dance
+- Went on a Tuesday (2017/02/21 - Mood Ring)
+    - Nothing noteworthy, same as past Mood Rings
 - $4 for rum and coke
 - $4 for whiskey soda
 - $6 for Kraken and coke

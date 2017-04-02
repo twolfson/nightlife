@@ -1,4 +1,6 @@
 # nightlife
+0.54.0 - Added Portland venues up to 2017/04/02
+
 0.53.0 - Added Portland venues up to 2017/03/01
 
 0.52.0 - Added Portland venues up to 2017/02/01

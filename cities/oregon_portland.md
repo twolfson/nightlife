@@ -217,7 +217,9 @@
     - From 11:25 to 2:00, front was filled. Maybe 75% after 12:30
     - From 11:25 to 1:00, crowded including stage but could dance with 2 10 minute sections where area emptied to handfuls
     - From 1:00 to 1:45, slowly dwindled to none
-- $2 coat check
+- Went on a Saturday (2017/03/11 - Verified PDX)
+    - Nothing noteworthy, same as past Verifieds
+    - $2 coat check
 - $5.50 for rum and coke
 - $6 for vodka sprite
 - $7 for Jameson soda
@@ -278,6 +280,8 @@
     - From 11:00 to 2:00, back was filled but had room to dance
 - Went on a Tuesday (2017/02/21 - Mood Ring)
     - Nothing noteworthy, same as past Mood Rings
+- Went on a Tuesday (2017/03/07 - Coma Toast)
+    - Nothing noteworthy, same as past Coma Toasts
 - $4 for rum and coke
 - $4 for whiskey soda
 - $6 for Kraken and coke

@@ -90,17 +90,34 @@
 - $4.50 for rum and coke
 
 ## Bossanova Ballroom
-- 1 floor
-    - 1 medium room with small bar
-    - 1 big room, all dancefloor
+- 2 floors
+    - Second floor
+        - 1 small room with small bar
+        - 1 medium room with small bar
+        - 1 big room, all dancefloor
+    - Third floor
+        - 1 medium room with small bar, remainder dancefloor
+        - 1 medium room, tables only
 - Went on a Tuesday (2016/12/20, Tuesday Blues)
     - Blues dancing
     - $7 to $15 sliding donation
+    - Only second floor open
     - From 9:40 to 11:00, crowded with plenty of people dancing
     - From 11:00 to 12:00, windsdown rapidly to handful of pairs on dancefloor
     - Music was Big band swing and Christmas music (DJ was Brenda Russell)
-- Went on a Tuesday (2016/12/27, Tuesday Blues)
-    - Similar experience to before but different music. Forgot to write down which. Probably not going to record these too frequently though due to personal frequency
+- Went on many Tuesdays (Tuesday Blues)
+    - Similar experience to before but different music. Changes every time, relatively consistent crowd
+- Went on a Friday (2017/03/24 - White out)
+    - $35 + $3 advance cover (same day)
+    - From 10:40 to 10:50, waited in line (moved fast)
+    - From 10:50 to 1:00, third floor was crowded and super warm
+    - From 10:50 to 1:30, second floor dancefloor was crowded with room to dance at edges
+    - From 1:30 to 2:30, second floor dancefloor had crowds but loosely packed
+    - Left at 2:30 but event was until 4
+- $7 Malibu and coke
+- $7 Sailor Jerry and coke
+- $6 whiskey and soda
+- $2 coat check
 
 ## Dirty
 - 1 floor, 2 halves

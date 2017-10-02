@@ -124,7 +124,7 @@
         - Large room with small bar, small dancefloor (back)
         - Medium room with small bar, small dancefloor (back/left)
         - Medium room with medium dancefloor, small dancefloor (left)
-- Went on 2017/09/16 (Bootie SF)
+- Went on a Saturday (2017/09/16, Bootie SF)
     - $20 cover (same as 2011-2014)
     - Arrived at 10:30, no line and plenty of room downstains
     - Between 10:30 and 11:30, only main and back rooms were open
@@ -243,6 +243,29 @@
 - Crowded but not overwhelming
 - Large location
 
+## Love + Propaganda
+- 2 floors
+    - Upstairs
+        - Entrance with 1 small bar
+    - Downstainrs
+        - Big room with medium dancefloor, medium bar, and too many tables
+- Went on a Saturday (2017/09/30)
+    - Free before 11:00PM with RSVP
+    - Arrived at 10:30
+    - Line looked large but people quickly filtered due to dress code
+    - Dress code
+        - Sweater and shoes borderline
+        - Dress shirt ideal
+        - Suspenders fine
+    - Waiting in line for 10 minutes (10:40)
+    - From 10:40 to 11:00PM, went from slightly crowded to crowded
+    - From 11:00PM to 1:30AM, crowded and hard to dance
+    - From 1:30 to 1:50, steep drop off of people
+    - Closed at 1:50
+- Dancefloor velocity: Normally not slick but lots of poorly cleaned drink spills so usually slick and can get sticky
+- $14 Hangar One and sprite
+- $11 shot of well rum
+
 ## Mikkeller Bar
 - Beer bar with some wine, no hard liquor
 - Medium sized venue
@@ -278,7 +301,7 @@
          - 1 huge room with large dancefloor, 1 medium bar, and 1 small bar
     - Upstairs
         - Balcony overlooking downstairs with tables
-- Went on 2017/09/23 (Savoy DJ set)
+- Went on a Saturday (2017/09/23, Savoy DJ set)
     - Arrived at 10:15, no line
     - Free entry via RSVP before 11PM
         - Normally, $15 advance or $20 door
@@ -429,12 +452,14 @@
 - $10 for a mixed drink
 
 ## Vessel
-- $20 cover on average
-- $9 for a mixed drink
-- Crowded dance floor near DJ booth
-- Much less crowded from booth
-- Medium sized dance floor
-- Great electronic DJs frequent here
+- Replaced by [Love + Propaganda](#love--propaganda)
+- Between 2011-2014
+    - $20 cover on average
+    - $9 for a mixed drink
+    - Crowded dance floor near DJ booth
+    - Much less crowded from booth
+    - Medium sized dance floor
+    - Great electronic DJs frequent here
 
 ## Zeitgeist
 - Dive bar

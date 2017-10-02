@@ -2,8 +2,9 @@
 **Notes:**
 
 - Last call is 1:30AM
-- Places are usually empty until 11:00PM (11:30PM is a good target)
-- Weekdays still have a good crowd. Friday/Saturday are the most crowded.
+- Places are usually low occupancy until 11:00PM
+- Weekdays still have a good crowd. Friday/Saturday are the most crowded
+- Unless dates are specified (usually 2017 and beyond), assume note was added between 2011 and 2014
 
 **Top picks:**
 

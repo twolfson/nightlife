@@ -273,11 +273,27 @@
 - Trance music
 
 ## Mezzanine
-- Medium dance floor
-- Crowded with a little room to dance
-- $10 for drink
-- $25 for cover
-- Went to a Daft Punk set (cannot comment on music variety outside of that)
+- 2 floors
+    - Ground
+         - 1 huge room with large dancefloor, 1 medium bar, and 1 small bar
+    - Upstairs
+        - Balcony overlooking downstairs with tables
+- Went on 2017/09/23 (Savoy DJ set)
+    - Arrived at 10:15, no line
+    - Free entry via RSVP before 11PM
+        - Normally, $15 advance or $20 door
+    - Upstairs was closed, likely due to slow night with DJ set
+    - From 10:15 to 11:00PM, 1/5th full and easy to dance
+    - From 11:00PM to 1:00AM, 1/3rd full and easy to dance
+    - From 1:00AM to 2:00AM, 1/5th full and easy to dance
+    - Venue closed at 2:00AM
+- $2 coat check
+- $10 for Tito's and sprite
+- $10 for Malibu and coke
+- $10 for Jameson soda
+- From 2011-2014
+    - $10 for drink
+    - $25 for cover
 
 ## Mighty
 - $30 average cover

@@ -8,8 +8,7 @@
 
 **Top picks:**
 
-- [Vessel](#vessel)
-- [DNA Lounge](#dna-lounge-bootie-sf)
+- [DNA Lounge](#dna-lounge)
 
 **Sites:**
 
@@ -116,13 +115,35 @@
 - Medium sized bar with lots of couches
 - Decent cocktails
 
-## DNA Lounge (Bootie SF)
-- $20 average coder
-- Crowded main room (large dance floor with dance stage)
-- Crowded side room (large
-- Not that crowded other side room
-- $8 for a mixed drink
-- Consistently great pop / indie / electronic DJs
+## DNA Lounge
+- 2 floors
+    - Ground floor
+        - Huge room with medium bar, small bar, large dancefloor, and small stage/dancefloor
+    - Upstairs
+        - Balcony overlooking dancefloor below, 1 medium bar and coat check
+        - Large room with small bar, small dancefloor (back)
+        - Medium room with small bar, small dancefloor (back/left)
+        - Medium room with medium dancefloor, small dancefloor (left)
+- Went on 2017/09/16 (Bootie SF)
+    - $20 cover (same as 2011-2014)
+    - Arrived at 10:30, no line and plenty of room downstains
+    - Between 10:30 and 11:30, only main and back rooms were open
+    - By 11:00, a good crowd had formed and a burlesque performance occurred
+    - At 11:30, downstairs was fully crowded
+    - At 11:30, all 4 rooms opened up
+    - From 11:30 to 1:40
+        - Upstairs left room was sparsely filled
+        - Upstairs back/left varied between crowded and less crowded
+        - Downstairs was packed
+    - From 1:40 to 2:10
+        - Upstairs back/left had a loose crowd
+        - Downstairs still packed
+    - Left at 2:10, unsure when venue closed
+- $3 coat check
+- $9 for vodka sprite
+- $11 for Malibu Coke
+- Between 2011-2014
+    - $8 for a mixed drink
 
 ## Danz Haus
 - Normally dance studio, this time it was for a pop-up event

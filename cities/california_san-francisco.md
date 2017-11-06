@@ -271,10 +271,23 @@
 - Medium sized venue
 
 ## Madrone Art Bar
-- Small dance floor
-- Crowded
-- $5 cover
-- Great indie music
+- 1 floor
+    - Ground floor
+        - 1 large long room with medium dancefloor and medium bar
+- Prior to 2017
+    - $5 cover
+    - Crowded
+- Went on a Saturday (2017/10/28)
+    - $5 cover
+    - Arrived at 10:40
+    - A few people in line but insignificant time-wise
+    - From 10:40 to 1:00, dancefloor and bar were crowded. Hard to dance but could manage at front
+- $7 for vodka sprite
+- Cash bar, must use ATM at front
+- Water available via pitchers at end of bar
+- No coat check
+- Tedious line for bathrooms
+- Personal note: It's crowded and annoying but the crowd has a great vibe and the music is usually great
 
 ## Matrix Fillmore
 - Small dance floor

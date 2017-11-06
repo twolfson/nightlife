@@ -310,7 +310,7 @@
 - Prior to 2017
     - $5 cover
     - Crowded
-- Went on a Saturday (2017/10/28)
+- Went on a Saturday (2017/10/28, House Party - Halloween weekend)
     - $5 cover
     - Arrived at 10:40
     - A few people in line but insignificant time-wise
@@ -479,6 +479,19 @@
 - Usually crowded but you can find room
 - $9 for mixed drink
 - Large venue with upstairs
+
+## Underground (SoMa)
+- Keeping organizer and venue location secret for now
+- 1 floor
+    - Ground floor
+        - Huge room with medium bar and large dancefloor
+- Went on a Saturday (2017/10/28 - Halloween weekend)
+    - $10 cover before 1AM, $20 after
+    - Party was from 12 to 6
+    - From 1:10 to 2:00AM, half crowded dancefloor
+    - From 2 to 3, dancefloor was full but plenty of room to dance
+- $9 rum and Coke
+- $9 whiskey soda
 
 ## Warsaw theater
 - Music venue, not a club

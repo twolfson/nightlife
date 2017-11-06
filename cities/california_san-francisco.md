@@ -194,6 +194,39 @@
 - On/off crowded
     - Weather balloons
 
+## The Great Northern
+- 2 floors
+    - Ground floor
+        - Huge room with 1 medium, 1 small, and 1 large dancefloor
+    - Upstairs
+        - Small room, all dancefloor
+- Went on a Saturday (2017/10/07, Dusty Rhino Afterburn)
+    - $15 cover advance
+    - Arrived at 10:30
+    - No line
+    - Downstairs
+        - From 10:30 to 11:30, dancefloor was half-full, easy to dance
+        - From 11:30 to 2:00, dancefloor was crowded, hard to dance
+    - Upstairs
+        - Closed until 11:00
+        - From 11:30 to 1:30, 3/4 full and super warm
+    - Left at 2:10 due to low energy/poor preparation
+    - At 2:10, there was an aerialist performing in the cube
+- Has a water tap at end of downstairs small bar
+- Had a tray-based snack vendor in smoking area
+- $12 for Hangar One and sprite
+- $9 for well rum and coke
+- $3 coat check
+- Visuals are:
+    - Downstairs
+        - Dreamscape archway/landscape projection on rear walls. Not specific to DJ but to venue
+        - Faux tree on 1 column
+        - Faux stained glass above bar
+        - Thin LED strips in chevron pattern on ceiling but used them for twinkling star effects
+        - Had aerial rings and cubes spread out in venue
+    - Upstairs
+        - Nothing noteworthy
+
 ## Harlot
 - Medium dance floor
 - Electronic / pop music
@@ -435,39 +468,6 @@
 - Not crowded
 - Every sunday there is an 18+ kandi kid rave
   - https://www.facebook.com/SunsetArcadeSF
-
-## The Great Northern
-- 2 floors
-    - Ground floor
-        - Huge room with 1 medium, 1 small, and 1 large dancefloor
-    - Upstairs
-        - Small room, all dancefloor
-- Went on a Saturday (2017/10/07, Dusty Rhino Afterburn)
-    - $15 cover advance
-    - Arrived at 10:30
-    - No line
-    - Downstairs
-        - From 10:30 to 11:30, dancefloor was half-full, easy to dance
-        - From 11:30 to 2:00, dancefloor was crowded, hard to dance
-    - Upstairs
-        - Closed until 11:00
-        - From 11:30 to 1:30, 3/4 full and super warm
-    - Left at 2:10 due to low energy/poor preparation
-    - At 2:10, there was an aerialist performing in the cube
-- Has a water tap at end of downstairs small bar
-- Had a tray-based snack vendor in smoking area
-- $12 for Hangar One and sprite
-- $9 for well rum and coke
-- $3 coat check
-- Visuals are:
-    - Downstairs
-        - Dreamscape archway/landscape projection on rear walls. Not specific to DJ but to venue
-        - Faux tree on 1 column
-        - Faux stained glass above bar
-        - Thin LED strips in chevron pattern on ceiling but used them for twinkling star effects
-        - Had aerial rings and cubes spread out in venue
-    - Upstairs
-        - Nothing noteworthy
 
 ## Thee Parkside
 - Bar

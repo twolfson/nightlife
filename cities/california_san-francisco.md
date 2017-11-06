@@ -100,11 +100,20 @@
 - Pop music
 - Crowded
 
-## Cat club
-- 2 medium dance floors
-- Indie / gothic music
-- Not crowded
-- $10 cover
+## Cat Club
+- 1 floor
+    - Ground floor
+        - Front room, large and long (80'x15'?) with medium dancefloor and bar
+        - Back room (40'x25'?), 1 small bar and 1 large dancefloor
+- Prior to 2017
+    - $10 cover
+- Went on a Saturday (2017/11/04 - Leisure)
+    - $10 cover
+    - From 12:15 to 1:15AM, front was karaoke with few people dancing
+    - From 12:15 to 1:15AM, back was crowded/hard to dance but could find space
+    - Left at 1:15AM due to fatigue
+- $8 whiskey soda
+- Has coat check
 
 ## The Cellar
 - No cover on Mondays

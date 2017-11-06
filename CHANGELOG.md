@@ -1,4 +1,6 @@
 # nightlife
+0.56.0 - Added San Francisco venues up to 2017/11/05
+
 0.55.0 - Added San Francisco venues up to 2017/10/01
 
 0.54.0 - Added Portland venues up to 2017/04/02

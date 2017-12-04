@@ -236,6 +236,27 @@
     - Upstairs
         - Nothing noteworthy
 
+## Halcyon
+- 2 floors
+    - Ground floor
+        - Big room (200 people) with medium bar and large dancefloor
+        - Visuals
+            - Glow bars across ceiling in 3 8-point intersection grid pattern. Used in linear trailing pattern
+            - Lots of horizontal glow bars behind DJ. Played in sporatic pattern
+            - Brick walls illuminated with colored LED strips at top
+    - Upstairs
+        - Tables only and potentially a bar
+- Went on a Saturday (2017/12/02)
+    - $5 advance cover before 11PM (normally $15/20)
+    - At 10:30, no line
+    - From 10:30 to 11:15, small crowd of 15-30 people; plenty of room to dance, lacking vibes
+    - From 11:15 to 12:40, crowd is 40-80 people, vibes picking up
+    - Left at 12:40
+- Dress code: T-shirt and cargo pants are fine
+- Has ATM
+- $10 Tito's sprite (with very generous pour)
+- $3 coat check
+
 ## Harlot
 - 2 floors
     - Ground floor

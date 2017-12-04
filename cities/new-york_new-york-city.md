@@ -6,6 +6,27 @@
 - Outbound public transit is fine but subways at 4AM feel slow/infrequent, consider using a taxi instead
 - Official last call is 4AM but there seem to be plenty of after-hours on Resident Advisor
 
+## Analog BKNY
+- 1 floor
+    - Ground floor
+        - 1 room (24x40) with 2 medium bars and 1 large dancefloor
+        - Visuals
+            - Grid of color changing glow tubes above dancefloor
+            - Vertical glow bars as sconces behind bar
+            - Left/right panning color projecting vertical rows of lights behind DJ
+            - Bar and bottles illuminated exclusively via under-bottle lights behind bartenders
+            - M and L neon signs in front of bathrooms
+- Went on a Friday (2017/11/24)
+    - $20 door ($10 advance)
+    - $4 mandatory coat check
+    - 1 bar closed
+    - From 11:30 to 12:00, 20 people (barely anyone)
+    - From 12:00 to 1:00, 40 people (still light crowd)
+    - Left due to lack fo engagement and visiting NYC
+- No cups for water
+- Music is very loud
+- $12 vodka sprite
+
 ## Flash Factory
 - 1 floor
     - 1 medium room with medium bar

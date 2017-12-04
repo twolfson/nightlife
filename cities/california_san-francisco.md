@@ -237,10 +237,27 @@
         - Nothing noteworthy
 
 ## Harlot
-- Medium dance floor
-- Electronic / pop music
-- Packed
-- Every 2nd Tuesday is Tutu Tuesday
+- 2 floors
+    - Ground floor
+        - Big room with medium bar (10, 2 servers) and small dancefloor (30)
+    - Upstairs
+        - Never explored
+- Prior to 2017
+    - Medium dance floor
+    - Packed
+    - Every 2nd Tuesday is Tutu Tuesday
+- Updates from 2017
+    - No longer has small smoking patio at front of ground floor
+- Visuals
+    - Leafs/vines on poles/ceiling
+- Went on a Tuesday (2017/11/15 - Tutu Tuesday)
+    - $2 cover with tutu
+    - At 10:40, no line and 2 tutus left for sale
+    - From 10:40 to 11:00, dancefloor had a handful of people -- felt empty-ish (different from 3 years ago -- used to be packed)
+    - From 11:00 to 12:30, dancefloor had a crowd but easy to dance
+- $10 vodka sprite
+- $10 hangar one sprite
+- Had coat check but didn't use
 
 ## Homestead
 - Bar

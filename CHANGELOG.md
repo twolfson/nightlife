@@ -1,4 +1,6 @@
 # nightlife
+0.57.0 - Added SF and NYC venues up to 2017/12/03
+
 0.56.0 - Added San Francisco venues up to 2017/11/05
 
 0.55.0 - Added San Francisco venues up to 2017/10/01

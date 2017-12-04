@@ -418,10 +418,33 @@
 - Would recommend if you want a "private" space on a budget
 
 ## Public Works
-- Small dance floor (upper floor)
-- There is lower floor but it is split entry
-- Electronic / experimental music
-- Not crowded
+- 2 venues
+    - Main venue
+        - 2 floors
+            - Ground floor
+                - Large room with medium bar
+            - Upstairs
+                - Medium balcony overlooking ground floor with medium dancefloor and small bar
+    - Loft venue
+        - Have yet to re-attend recently
+- Prior to 2017
+    - Small dance floor (loft)
+    - There is lower floor but it is split entry
+    - Not crowded
+- Went on a Friday (2017/11/10 - Simon Shackleton)
+    - $20 advance
+    - At 10:30, no line
+    - From 10:30 to 11:15
+        - Downstairs had a crowd but room to dance
+        - Upstairs empty
+    - From 11:15 to 1:30
+        - Downstairs filled but can dance on outskirts
+        - Upstairs had a small crowd, easy to dance but distant from vibes
+- Has ATM ($2.50 surcharge)
+- $3 coat check
+- $7 vodka sprite
+- $9 paloma (special)
+- $12 pink slush (special) - tasty
 
 ## Raven Bar
 - Bar atmosphere downstairs, club atmosphere upstairs

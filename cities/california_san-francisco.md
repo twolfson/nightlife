@@ -550,6 +550,22 @@
 - $9 for mixed drink
 - Large venue with upstairs
 
+## Underground (Western Addition)
+- Keeping organizer and venue location secret for now
+- 1 floor
+    - Ground floor
+        - Long room (80 people) with 1 long dancefloor and medium bar
+- Went on a Saturday (2017/12/02)
+    - $10 before 1:30AM
+    - Bar seemed to close at 2AM
+    - From 1:20 ot 1:40, small 10 person crowd
+    - From 1:40 to 2:00, grew from 10 to 50. Could easily dance, great vibes
+    - From 2:00 to 2:40, grew from 50 to 60. Crowded but could dance in back
+    - Shut down at 2:40
+- No coat check
+- $11 Jameson soda
+- Lots of other nice alcohol available (e.g. Jameson, Bulleit, Belvedere)
+
 ## Underground (SoMa)
 - Keeping organizer and venue location secret for now
 - 1 floor

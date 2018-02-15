@@ -373,11 +373,17 @@
     - Arrived at 10:40
     - A few people in line but insignificant time-wise
     - From 10:40 to 1:00, dancefloor and bar were crowded. Hard to dance but could manage at front
+- Went on a Saturday (2018/01/20, Fringe)
+    - $5 cover
+    - From 11:05 to 11:25, waited in line
+    - From 11:25 to 1:30, dancefloor ebbed and flowed between a little crowded and packed/hard to dance
+    - At 1:30, lights on and "everybody out"
 - $7 for vodka sprite
 - Cash bar, must use ATM at front
 - Water available via pitchers at end of bar
 - No coat check
 - Tedious line for bathrooms
+- Personal note: **Arrive early to miss the line**
 - Personal note: It's crowded and annoying but the crowd has a great vibe and the music is usually great
 
 ## Matrix Fillmore

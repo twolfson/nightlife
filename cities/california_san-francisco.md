@@ -58,6 +58,23 @@
 - $10 for mixed drink (but it is damn good)
 - Don't let the name/owners fool you. There is nothing offensive here.
 
+## Audio
+- 1 floor
+    - Upstairs
+        - Big room with 1 large dancefloor and 2 medium bars
+- Went on a Saturday (2018/02/10)
+    - $20 advance online
+    - From 10:20 to 10:40, could easily dance
+    - From 10:40 to 11:20, started crowding up. Hard to dance
+    - From 11:20 to 1:40, kept getting even more crowded. Super hard to dance
+- Visuals
+    - Thin LED strips between wall panels
+    - Wall panels are small tetrahedrons in odd rotations/patterns
+    - Infinity mirror behind DJ
+    - Dancefloor a few steps down from rest of floor
+    - Light bars on walls of lowest steps on dancefloor
+- $10 Tito's and sprite
+
 ## Balancoire
 - Medium size dance floor
 - Plenty of room to dance (Thursday night)

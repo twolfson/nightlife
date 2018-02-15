@@ -221,6 +221,17 @@
         - From 11:30 to 1:30, 3/4 full and super warm
     - Left at 2:10 due to low energy/poor preparation
     - At 2:10, there was an aerialist performing in the cube
+- Went on Christmas Eve (Sunday 2017/12/24, Latke Ball)
+    - $40 advance, $50 VIP ticket (me)
+        - VIP includes 1 well drink ticket + "VIP lounge" access + $5 restaurant coupon
+    - Floor setup
+        - Downstairs all open
+        - Area behind DJ booth is "VIP lounge"
+        - Upstairs closed
+    - From 10:30 to 11:30, dancefloor had a crowd with room to dance
+    - From 11:30 to 1:30, dancefloor filled but could dance on outskirts
+    - From 1:30 to 2:15, crowded and could dance agin
+    - At 2:15, closed
 - Has a water tap at end of downstairs small bar
 - Had a tray-based snack vendor in smoking area
 - $12 for Hangar One and sprite

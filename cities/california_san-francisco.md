@@ -455,6 +455,25 @@
 - Packed in some spots, free in others
 - Pop music
 
+## Mr Smith's
+- Bar with dancefloor in basement
+- 3 floors
+    - Main floor
+        - 1 medium room with medium bar
+    - Upstairs
+        - 1 small room with small bar (iirc)
+    - Downstairs
+        - 1 medium room with small dancefloor and small bar
+- Went on a Thursday (2018/02/08, Blank)
+    - Event in basement
+    - $5 basement door cover
+    - From 9:40 to 10:30, loosely filled dancefloor. ~25 people
+    - From 10:30 to 11:50, loose crowd. ~35 people
+    - From 11:50 to 12:30, wind down to ~10 people
+    - Always could dance
+- $8 vodka sprite
+- $8 whiskey soda
+
 ## OddJob
 - Bar
 - No cover

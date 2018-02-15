@@ -434,6 +434,58 @@
 - Cocktail focused
 - $10 for mixed drink
 
+## Old SF Mint
+- Event venue
+- 2 floors
+    - Main floor
+        - 3 small rooms, 6 medium rooms, 2 large rooms, 1 large courtyard
+        - All purposes enumerated in event details
+    - Basement
+        - 5 small rooms, 1 medium room, 1 big room
+- Went on New Year's Eve (Sunday 2017/12/31, New Bohmeia)
+    - Cover $100, last chance advance online
+    - Floor setup
+        - Main floor
+            - 1 small room for "Tea with the Princess" (Alice from Wonderland)
+            - 1 small room for apothecary + resting
+            - 1 medium room for dancing, all dancefloor with vines and foliage (The Jungle)
+            - 1 medium room for shibari
+            - 1 medium room for artwork
+            - 1 small room for artwork
+            - 1 large room for face painting with 1 medium bar and lots of couches
+            - 1 large room all dancing (Western Parlor)
+            - 1 large outdoor courtyard
+            - 1 large room all dancing (Da' Club)
+            - 1 medium room with medium bar
+            - 1 medium room for performances
+            - 1 medium room all couches
+        - Basement
+            - 1 medium room for collaborative painting
+            - 1 small room for psychic
+            - 1 small room for ASMR chilling
+            - 1 small room for silent disco
+            - 1 small room for quiet relaxation with mattresses and tapestries
+            - 1 tiny room with dancefloor with funhouse decor
+            - 1 big room with large dancefloor (The Cave) and medium bar
+    - Arrived 10:30, no line
+    - From 10:30 to 10:40, waited in coat check line
+    - From 10:40 to 11:30, West Parlor was not too full
+    - From 10:40 to 11:30, The Cave had a small crowd
+    - From 10:40 to 3:00, Da' Club was filled.
+    - From 11:30 to 12:10, The Cave filled up but could still dance
+    - From 12:10 to 1:10, relaxed in relatation room (full)
+    - From 1:10 to 2:00, Jungle room had a crowd but was danceable
+    - From 2:00 to 2:20, wandered around
+    - From 2:20 to 3:00, Jungle room had a crowd then slowly waned down
+    - At 3:00, everything seemed to close
+    - $4 coat check
+    - $12 Absolut + sprite
+    - In addition 1 men's/women's bathroom per floor, there were 8 portos in basement
+    - Visuals and interactivity out the wazoo
+        - Lots of performers and circus folk
+        - Every room was built to draw you in
+- 3 water fountains with at least 1 broken and at least 1 functional
+
 ## Origin
 - Long line with bottle-service only entry
     - Did not go in due to this

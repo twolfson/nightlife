@@ -353,6 +353,16 @@
     - From 11:00PM to 1:30AM, crowded and hard to dance
     - From 1:30 to 1:50, steep drop off of people
     - Closed at 1:50
+- Went on a Saturday
+    - Free before 11:00PM with RSVP
+    - Line from 10:50 to 11:15, still covered by RSVP
+    - Dress code
+        - Suspenders still fine
+        - Some people had graphic tees inside, definitely would have been rejected by line. Maybe had table service
+    - From 11:15 to 11:50, dancefloor had people but large zones to dance
+    - From 11:50 to 1:25, crowded and hard to dance
+    - From 1:25 to 2:00, sharp drop off and slow drain due to tables getting closed out
+    - At 2:00, everyone forced out
 - Dancefloor velocity: Normally not slick but lots of poorly cleaned drink spills so usually slick and can get sticky
 - $14 Hangar One and sprite
 - $11 shot of well rum

@@ -1,4 +1,6 @@
 # nightlife
+2018.0214.1003 - Added SF venues up to 2018/02/14
+
 0.57.0 - Added SF and NYC venues up to 2017/12/03
 
 0.56.0 - Added San Francisco venues up to 2017/11/05

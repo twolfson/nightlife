@@ -39,12 +39,36 @@
 - Looks very mega club oriented
 - Might be 18+ club
 
-## 1015 Folsom Street
-- 2 medium dance floors (light on people and crowded but dancable
-- 1 large dance floor (crowded bordering packed)
-- Mostly trance music
-- $25 cover
-- $10 drinks
+## 1015 Folsom
+- 3 floors
+    - Basement
+        - Closed on last visit
+    - Ground floor
+        - In front, large room with medium dancefloor and bar
+        - Big room with large dancefloor, medium bar, and performance stage
+    - Upstairs
+        - In front, large room with medium dancefloor and bar
+            - Has a balcony overlooking to big room
+        - Small hallway balcony overlooking big room
+        - In back, medium room with medium dancefloor and small bar
+            - Has a balcony overlooking to big room
+- Prior to 2017
+    - 2 medium dance floors (light on people and crowded but dancable)
+    - 1 large dance floor (crowded bordering packed)
+    - Mostly trance music
+    - $25 cover
+    - $10 drinks
+- Went on a Friday (2018/03/16, P-Funk)
+    - $40 cover, last minute advance
+    - Basement closed
+    - At 11AM, no line
+    - From 11AM to 2AM
+        - In ground floor front room, a couple of handfuls of people
+        - In ground floor big room, always crowded and impossible to dance
+        - Upstairs, all areas didn't have many people. Balconies were super crowded
+    - From 2AM to 2:30, numbers dropped slightly
+    - Left at 2:30AM
+    - Had very long set changes (11:15PM to 11:30PM, 12:30AM to 1:30AM)
 
 ## Amnesia
 - Small club

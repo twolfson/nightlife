@@ -165,9 +165,20 @@
         - Upstairs back/left had a loose crowd
         - Downstairs still packed
     - Left at 2:10, unsure when venue closed
+- Went on a Friday (2018/03/30, Hotline)
+    - $10 advance + $2 fee
+    - Layout
+        - Ground floor open
+        - Raised stage was photography only until 1AM
+        - Balcony closed
+        - Upstairs back lounge open with dancefloor
+    - From 10:25 to 1:20, dancefloor had a crowd but was never overwhelming
+    - Didn't spend time upstairs
 - $3 coat check
 - $9 for vodka sprite
+- $10 special with Tito's base
 - $11 for Malibu Coke
+- $11 for Tito's and sprite
 - Between 2011-2014
     - $8 for a mixed drink
 

@@ -698,11 +698,47 @@
 - Large emphasis on Wine
 
 ## Temple SF
-- 2 large dance floors
-- Electronic / hip hop / pop music
-- Not crowded
-- Every sunday there is an 18+ kandi kid rave
-  - https://www.facebook.com/SunsetArcadeSF
+- 3 floors
+    - Basement
+        - 1 medium room with medium dancefloor and 1 small bar
+        - 1 big room with large dancefloor and medium bar
+    - Ground floor
+        - 1 huge room with 2 medium bars and 1 large dancefloor
+        - 1 small room with 1 small bar and food stand
+        - 1 large outside area with L shape
+    - Upstairs
+        - Tables on balconies overlooking ground floor
+- Prior to 2017
+    - 2 large dance floors
+    - Electronic / hip hop / pop music
+    - Not crowded
+    - Every sunday there is an 18+ kandi kid rave
+        - https://www.facebook.com/SunsetArcadeSF
+- Went on a Saturday (2018/03/02, 3Lau)
+    - $20 advance early bird cover
+    - From 10:45 to 11:00, waited in line
+        - Ticket scanned in line, exchanged for paper ticket, normal after that
+    - From 11:00 to 11:30
+        - Basement's medium room was empty
+        - Ground floor's huge room had a few handfuls of people but plenty of room to dance
+        - Basement's large room had a crowd, was warm but room to dance. Floor was hard to move on
+    - From 11:30 to 1:50
+        - Ground floor's huge room was crowded and impossible to dance in
+            - Every nook and cranny filled, become high traffic area, or had bad sound acoustics
+    - From 1:50 to 2:00, ground floor huge room had slight drop in crowd. Still a little hard to dance but could
+    - From 2:00 to 2:30, ground floor huge room had significant drop (maybe halved). Still crowded but had room to dance again
+    - From 11:30 to 1:30
+        - Basement's medium room had only a handful of people and plenty of room to dance
+        - Baseement's large room had same size crowd, was even warmer, and floor had moisture accumulated on it making it easy to slide
+    - Decided to leave at 2:30
+- Visuals changed a lot from pre-2017
+    - Lots of renovations (e.g. grafitti in basement is gone, new room in basement)
+- Visuals
+    - Ground floor: Dot grid ceiling and wall behind DJ, it curved. Most patterns ran from front to back. Striped EL panel in () fashion along columns. EL trenches in couches. Glow cubes and non-glow cubes in walls
+    - Basement medium: LED grid ceiling and behind DJ booth. No curve here but a lot more circular and fan based animations
+    - Basement large: Normal club lighting and LED screens
+    - Coat check to basement stairwell: Detailed sculpture wall around of portals and heads
+    - Ground floor to basement medium stairwell: UV grafitti
 
 ## Thee Parkside
 - Bar

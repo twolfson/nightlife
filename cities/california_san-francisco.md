@@ -424,6 +424,21 @@
 - Personal note: **Arrive early to miss the line**
 - Personal note: It's crowded and annoying but the crowd has a great vibe and the music is usually great
 
+## Make Out Room
+- 1 floor
+    - Ground floor
+        - Big room with medium bar and large dancefloor
+            - Probably holds 60 people with 12 people at bar
+- Went on a Friday (2018/03/23)
+    - $5 cover at door
+    - At 10:35, no line
+    - From 10:35 to 11:00, crowd on dancefloor (about 30), lots of room to dance. Nobody on stage
+    - From 11:00 to 1:00, dancefloor crowded and had to dance on outskirts (fluctuated between 40 and 50 people)
+    - From 1:00 to 1:50, still crowded but easier to dance (fluctuated between 30 and 45)
+    - At 1:50, closed down
+- $8 Hangar and sprite (before 11PM)
+- $9 Hangar and sprite (after 11PM)
+
 ## Matrix Fillmore
 - Small dance floor
 - Crowded

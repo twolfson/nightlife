@@ -387,6 +387,7 @@
 - Large location
 
 ## Love + Propaganda
+- Strong dislike for artificial line inflation, even worse when coupled with promotions
 - 2 floors
     - Upstairs
         - Entrance with 1 small bar
@@ -415,9 +416,26 @@
     - From 11:50 to 1:25, crowded and hard to dance
     - From 1:25 to 2:00, sharp drop off and slow drain due to tables getting closed out
     - At 2:00, everyone forced out
+- Went on a Thursday (2018/04/12)
+    - RSVP'd before, still $15 before 11PM
+    - From 10:40 to 10:50, waited in line
+    - At 10:50, bar super crowded due to artificial restriction
+    - From 10:50 to 11:00
+        - Non-bar right dancefloor was sparse
+        - In front of stage, a handful of people
+        - Everywhere else was empty
+    - From 11:00 to 12:00, crowded everywhere but left, back left, and back center
+    - At 12:00, all tables filled in
+    - From 12:00 to 12:30, filling nooks but can still dance
+    - At 12:30, full everywhere and can't dance
+    - Left at 12:30 due to being unable to dance and work next day
 - Dancefloor velocity: Normally not slick but lots of poorly cleaned drink spills so usually slick and can get sticky
 - $14 Hangar One and sprite
 - $11 shot of well rum
+- $11 vodka sprite
+- Visuals
+    - Glow tubes behind frosted glass above entrance at corner reminded me of Sound Bar in Chicago
+- The artificial inflation + glow tubes makes the coincidences seem more than that
 
 ## Mikkeller Bar
 - Beer bar with some wine, no hard liquor

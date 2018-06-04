@@ -740,6 +740,30 @@
     - Coat check to basement stairwell: Detailed sculpture wall around of portals and heads
     - Ground floor to basement medium stairwell: UV grafitti
 
+## The Midway
+- 1 floor
+    - Ground floor
+        - Main stage, massive room. Prob 400 people capacity? Maybe 600? I really can't tell. It was huge. Also had 2 medium bars
+        - 1 hallway, no music. Only art. Dope ass art
+        - 1 large room. 80 people capacity, Call it: Side A
+        - 1 medium room, no music, 1 small bar
+        - 1 outdoor area with small dancefloor and small bar. Call it Outside
+        - 1 medium room no music but fooooood. Call it Madame Zola's Fortune
+        - 1 large room with small bar and remainder dance floor. Call it Side B
+- Went on a Saturday (2018/04/28)
+    - Line intake was super efficient, no wait. Lots of parallel lines
+    - Arrived at 10:50PM
+    - Coat check had a 20 person line
+    - Main
+        - From 10:50 to 11:30, main was mostly full but could dance on outskirts
+        - From 11:30 to 12:30, back of main was full but front right side was open-ish
+        - From 12:30 to 1:30, impossible to dance in main anywhere. So damn packed
+    - From 10:50 to midnight, side A was packed and impossible to get into. From midnight to 1:30, it was full but could dance easily in it
+    - From 10:50 to 1:30, side B was crowded and slowly became less crowded but could always dance
+    - From 10:50 to 1:30, outside dancefloor had a crowd but could dance in it. Wasn't indoor/heated though so it was cold/hard to sustain
+- Coat check exists, didn't use
+- Lots of big warehouse vibes, reminded me of AgeHa
+
 ## Thee Parkside
 - Bar
 - Dive bar with medium inside and medium outside area

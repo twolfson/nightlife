@@ -516,6 +516,15 @@
     - From 11:00 to 1:00, dancefloor crowded and had to dance on outskirts (fluctuated between 40 and 50 people)
     - From 1:00 to 1:50, still crowded but easier to dance (fluctuated between 30 and 45)
     - At 1:50, closed down
+- Went on a Wednesday (2018/06/28)
+    - No cover
+    - At 11:30, bar was almost full
+    - From 11:30 to 12:30, dancefloor had a couple handfuls of people
+    - By 12:30, dancefloor emptied out
+    - At 12:30, bar was empty
+    - At 12:30, I called it and left
+    - Music was Latin remix
+    - Unlikely to return on a Wednesday
 - $8 Hangar and sprite (before 11PM)
 - $9 Hangar and sprite (after 11PM)
 

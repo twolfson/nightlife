@@ -491,12 +491,21 @@
     - From 11:05 to 11:25, waited in line
     - From 11:25 to 1:30, dancefloor ebbed and flowed between a little crowded and packed/hard to dance
     - At 1:30, lights on and "everybody out"
+- Went on a Thursday (2018/07/21, disco)
+    - No cover
+    - 10;40, no line
+    - 10:40 to 12:10
+        - Some people on dancefloor dancing, always room to dance
+        - Plenty more people were at the bar drinking
+        - Venue was never crowded, always enjoyable
 - Went on a Monday (2018/07/30, Motown Mondays)
     - $3 cover
     - 10:10, no line
     - 10:10 to 12:30, fluctuated between heavily crowded and packed; danceable, can't really dance
+- $11 for Tito's sour
 - $7 for vodka sprite
 - $7 for rum coke
+- $7 for whiskey soda
 - Cash bar, must use ATM at front
 - Water available via pitchers at end of bar
 - Coat check seen on Mondays

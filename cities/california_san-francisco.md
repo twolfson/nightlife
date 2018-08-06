@@ -231,9 +231,22 @@
 - $7 for mixed drink
 
 ## F8
-- Trance music
-- $9 for mixed drink
-- 2 dance floors: 1 medium, 1 small
+- 1 floor
+    - Ground level
+        - Front bar room: 1 medium room with medium bar
+        - Front dancefloor: 1 large room, all dancefloor
+        - Back dancefloor: Small, haven't been in since 2014
+- Prior to 2018
+    - $9 for mixed drink
+    - 2 dance floors: 1 medium, 1 small
+- Went on a Thursday (2018/07/19)
+    - $5 cover after 10PM
+    - 10:25, no line
+    - Back room closed
+    - 10:25 to 1:20, bar and dancefloor had 10-15 people with plenty of room to dance. People did change over the night (maybe 50%) but generally same amount. There was an ebb and flow to people being on dancefloor and at bar/outside
+- $11 for Hangar One and sprite
+- $8 for whiskey soda
+- $8 for vodka sprite
 
 ## The Fillmore
 - Music venue, not a club

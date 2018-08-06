@@ -104,10 +104,19 @@
 - Plenty of room to dance (Thursday night)
 - Went for an electric swing event
 
-## Beauty Lounge
-- Crowded with no room to dance
-- Cover usually includes drink ticket
-- Hip Hop/Rap music
+## Beauty Bar
+- 1 floor
+    - Ground floor
+        - 1 large room (holds 60) with medium bar
+- Prior to 2018
+    - Crowded with no room to dance
+    - Cover usually includes drink ticket
+- Went on a Thursday (2018/07/05)
+    - No cover
+    - 10:30, no line
+    - 10:30, 18 people at/near bar, 12 people on dancefloor
+    - Left to another venue at 10:40PM due to not feeling it
+- $8 for Russian Standard sour
 
 ## Bender's
 - Dive bar

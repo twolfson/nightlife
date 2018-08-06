@@ -162,6 +162,17 @@
     - From 12:15 to 1:15AM, front was karaoke with few people dancing
     - From 12:15 to 1:15AM, back was crowded/hard to dance but could find space
     - Left at 1:15AM due to fatigue
+- Went on a Thursday (2018/07/05)
+    - $5 cover
+    - 10:50PM, no cover
+    - 10:50 to 11:30
+        - 2-5 people on front dancefloor
+        - 10 people at tables/couches
+        - 20 people in back room
+    - 11:30 to 1:10AM
+        - 12 people on front dancefloor
+        - 12 people at tables
+        - 20 people in back room
 - $8 whiskey soda
 - Has coat check
 

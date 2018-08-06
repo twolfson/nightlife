@@ -1,4 +1,6 @@
 # nightlife
+2018.0806.0148 - Added SF venues up to 2018/08/06
+
 2018.0604.0206 - Added SF venues up to 2018/06/04
 
 2018.0409.1047 - Added SF venues up to 2018/04/09

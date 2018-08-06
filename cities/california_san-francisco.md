@@ -458,10 +458,15 @@
     - From 11:05 to 11:25, waited in line
     - From 11:25 to 1:30, dancefloor ebbed and flowed between a little crowded and packed/hard to dance
     - At 1:30, lights on and "everybody out"
+- Went on a Monday (2018/07/30, Motown Mondays)
+    - $3 cover
+    - 10:10, no line
+    - 10:10 to 12:30, fluctuated between heavily crowded and packed; danceable, can't really dance
 - $7 for vodka sprite
+- $7 for rum coke
 - Cash bar, must use ATM at front
 - Water available via pitchers at end of bar
-- No coat check
+- Coat check seen on Mondays
 - Tedious line for bathrooms
 - Personal note: **Arrive early to miss the line**
 - Personal note: It's crowded and annoying but the crowd has a great vibe and the music is usually great

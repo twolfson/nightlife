@@ -27,6 +27,19 @@
 - Music is very loud
 - $12 vodka sprite
 
+## Beauty Bar
+- 1 floor
+    - Ground floor
+        - Front room: Large (holds 50 people) with medium bar, no dancefloor
+        - Back room: Large (holds 70 people) with small bar and remainder is dancefloor
+- Went on a Saturday (2018/09/08)
+    - No cover
+    - From 12:30 to 12:40, waited in line. Went fast (about 15 people)
+    - From 12:40 to 1:40, back room is packed and can't really dance
+    - From 1:40 to 2:40, crowd lightened up and can dance in some spots. Ebbs and flows between crowded and heavily crowded
+    - At 2:15, there was a large influx of people. Likely due to other bars closing
+- $8 vodka sour
+
 ## Flash Factory
 - 1 floor
     - 1 medium room with medium bar

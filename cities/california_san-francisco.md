@@ -157,6 +157,7 @@
     - From 10:30 to 10:40, all tables and bar occupied. Nobody on dancefloor
     - From 10:40 to 11:00, everyone moved to dancefloor or left. Dancefloor is loosely filled, easy to dance
     - From 11:00 to 12:20, dancefloor remainded loosely filled and easy to dance
+    - Left at 12:25 due to activities next day
 - Music is quite loud, ear protection might be reasonable
 - $10 Tito's sprite
 - No coat check
@@ -734,9 +735,19 @@
     - From 11:15 to 1:30
         - Downstairs filled but can dance on outskirts
         - Upstairs had a small crowd, easy to dance but distant from vibes
+- Went on a Saturday (2018/09/14 - Harder Better Faster Stronger)
+    - Downstairs only event
+    - $15 cover
+    - 11:10, no line
+    - From 11:10 to 11:40, dancefloor was partially filled/loosely packed. Easy to dance
+    - From 11:40 to 2:00, dancefloor was filled. Easy to dance
+    - At 2:00, attendence dropped significantly
+    - From 2:00 to 2:20, dancefloor was half-filled. Easy to dance
 - Has ATM ($2.50 surcharge)
-- $3 coat check
-- $7 vodka sprite
+- $3 coat check per item (2 coat layers = $6)
+    - Try packing inner layer into a pocket of coat
+- $8 vodka sprite
+- $8 vodka sour
 - $9 paloma (special)
 - $12 pink slush (special) - tasty
 

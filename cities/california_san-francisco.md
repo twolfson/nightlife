@@ -91,13 +91,21 @@
     - From 10:20 to 10:40, could easily dance
     - From 10:40 to 11:20, started crowding up. Hard to dance
     - From 11:20 to 1:40, kept getting even more crowded. Super hard to dance
+- Went on a Thursday (2018/09/13)
+    - $10+2 cover online
+    - 10:30PM, no line
+    - At 10:30, 5 people in entire venue
+    - From 10:30 to 11:30, grew to 15 people slowly in entire venue
+    - From 11:30 to 12:15, small crowd of 15-20 people in entire venue with plenty of room to dance
+    - Left at 12:15 due to cold temperature and repetitive music
+    - Dress code: T-shirt and cargo pants were fine
 - Visuals
     - Thin LED strips between wall panels
     - Wall panels are small tetrahedrons in odd rotations/patterns
     - Infinity mirror behind DJ
     - Dancefloor a few steps down from rest of floor
     - Light bars on walls of lowest steps on dancefloor
-- $10 Tito's and sprite
+- $11 Tito's and sprite
 
 ## Balancoire
 - Medium size dance floor

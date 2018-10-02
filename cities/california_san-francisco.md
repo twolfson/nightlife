@@ -145,6 +145,23 @@
 - Pop / hip hop music
 - Crowded
 
+## Boom Boom Room
+- Live music venue
+- 1 floor
+    - Ground floor
+        - 1 large room with medium bar and medium dancefloor (approx 80 people)
+- Went on a Friday (2018/09/28, funk band)
+    - $15 cover at door (would be $10+3 online)
+    - 10:30, no line
+    - 1 music set ran from 10:40 to 12:20
+    - From 10:30 to 10:40, all tables and bar occupied. Nobody on dancefloor
+    - From 10:40 to 11:00, everyone moved to dancefloor or left. Dancefloor is loosely filled, easy to dance
+    - From 11:00 to 12:20, dancefloor remainded loosely filled and easy to dance
+- Music is quite loud, ear protection might be reasonable
+- $10 Tito's sprite
+- No coat check
+- Water available via water cooler at bar
+
 ## Butter
 - Tiny dance floor
 - Pop music

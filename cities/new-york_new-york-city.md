@@ -59,3 +59,15 @@
     - 2/3 of dancefloor didn't dance =(
 - $17 for vodka sprite (I think well was Absolut though)
 - $5 coat check (prob only normally priced thing)
+
+## TBA
+- 1 floor
+    - Ground floor
+        - 1 large room (holds 80 people) with medium bar and medium dancefloor
+- Went on a Friday (2018/09/07)
+    - $15 cover, included 1 well drink
+    - At 12:20, no line
+    - From 12:20 to 1:20, dancefloor is crowded. Can dance but space is scarce
+    - Left at 1:20 due to boredom and wanting to wake up early next day
+- $10 rum and coke
+- $10 Fireball and coke

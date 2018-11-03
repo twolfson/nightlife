@@ -42,7 +42,7 @@
 ## 1015 Folsom
 - 3 floors
     - Basement
-        - Closed on last visit
+        - Large room with large dancefloor and large bar
     - Ground floor
         - In front, large room with medium dancefloor and bar
         - Big room with large dancefloor, medium bar, and performance stage
@@ -69,6 +69,25 @@
     - From 2AM to 2:30, numbers dropped slightly
     - Left at 2:30AM
     - Had very long set changes (11:15PM to 11:30PM, 12:30AM to 1:30AM)
+- Went on a Friday (2018/10/19, electronic DJs)
+    - $15+5 advance, should be free with RSVP though
+    - At 10:30, no line
+    - All rooms and floors opened
+    - At 10:30
+        - Only handful of people in bottom, ground front, and upstairs front rooms
+        - Ground big room had 20 people or so
+    - From 10:30 to 11:10
+        - Ground front grew to loosely crowded with room to dance, same with main
+        - Upstairs front and bottom rooms got small crowds, easy to dance
+    - From 11:10 to 12:15
+        - Ground front and upstairs front got crowded with room to dance
+        - Main was packed, didn't try to dance
+        - Bottom was loosely crowded
+    - Left at 12:15, wasn't feeling any music and had plans next day
+    - Ages were younger crowd (21-25), felt awkward for me
+- Visuals
+    - Bottom had navigation stick cones sticking out of ceiling in grid pattern
+    - Ground front had clover shaped cutouts in ceiling
 
 ## Amnesia
 - Small club

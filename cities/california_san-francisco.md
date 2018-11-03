@@ -107,6 +107,21 @@
     - Light bars on walls of lowest steps on dancefloor
 - $11 Tito's and sprite
 
+## August Hall
+- Formerly Ruby Skye
+- 2 floors
+    - Ground floor
+        - 1 big room with large bar and 300 person dancefloor
+    - Upstairs
+        - 1 large balcony with large bar and 75 person dancefloor overlooking downstairs
+- Went on a Wednesday (2018/10/31, Halloween)
+    - $15+7 advance online
+    - At 10:50, no line
+    - From 10:50 to 12:50, slowly went from crowded with room to dance to half-packed
+    - From 10:50 to 11:15, upstairs was closed then later opened
+- $9 tequila sour
+- $13 Tito's sour
+
 ## Balancoire
 - Medium size dance floor
 - Plenty of room to dance (Thursday night)

@@ -798,6 +798,19 @@
 - Small dance floor
 - Hip Hop/Rap/Pop music
 
+## Rickshaw Stop
+- 2 floor
+    - Ground floor
+        - 1 big room with 1 medium bar (2 bartenders) and large 80 person dancefloor
+    - Upstairs
+        - Closed last visit
+- Went on a Friday (2018/10/12, Daft Punk vs Depeche Mode DJ sets)
+    - $5+2 advance cover
+    - From 10:40 to 10:45, waited in line (processed about 12 people)
+    - From 10:40 to 11:15, 40 to 60 people dancing
+    - From 11:15 to 1:10, 60 to 80 people dancing. Always could dance. Got harder but was plausible
+    - Left at 1:10 due to activities next day
+
 ## Slate
 - Small dance floor
 - $7 for drink

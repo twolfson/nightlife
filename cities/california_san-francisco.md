@@ -294,6 +294,19 @@
 - Had a crowd but with room to dance
 - Medium sized dance floor
 
+## Delirium
+- Bar with dancefloor
+- 1 floor
+    - Ground floor
+        - 1 large room, medium bar
+        - 1 medium room, all dancefloor
+- Went on a Friday (2018/11/30)
+    - No line at 10:10
+    - From 10:10 to 10:30, front crowded and back fluctuated between empty and a handful of people
+    - Probably busier at peak
+    - Left due to bar hopping
+- $8 for Tito's sour
+
 ## Dovre club
 - Irish dive bar
 - Has people but not packed

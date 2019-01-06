@@ -60,6 +60,21 @@
 - $17 for vodka sprite (I think well was Absolut though)
 - $5 coat check (prob only normally priced thing)
 
+## Pyramid Club
+- 2 floors
+    - Ground floor
+        - Front room: Large room, medium bar, no dancefloor
+        - Back room: Large room, all dancefloor with usable stages
+    - Downstairs
+        - Large room, small bar, medium dancefloor
+- Went on a Saturday (2018/11/24)
+    - $8 cover at door
+    - No line at 1:10AM
+    - From 1:10 to 2:15AM, loosely crowded on both dancefloors with room to dance
+    - Music was industrial focused but usually is 80's
+- $2 coat check
+- $10 for Tito's sprite
+
 ## TBA
 - 1 floor
     - Ground floor

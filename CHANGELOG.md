@@ -1,4 +1,6 @@
 # nightlife
+2019.0106.0152 - Added SF and NYC venues up to 2019/01/06
+
 2018.1001.1904 - Added SF and NYC venues up to 2018/10/01
 
 2018.0806.0148 - Added SF venues up to 2018/08/06

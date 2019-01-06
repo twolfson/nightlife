@@ -607,6 +607,12 @@
     - At 12:30, I called it and left
     - Music was Latin remix
     - Unlikely to return on a Wednesday
+- Went on a Thursday (2018/11/15)
+    - No cover
+    - From 10:40 to 11:20, bar crowded and dancefloor empty
+    - From 11:20 to 11:50, dancefloor slightly crowded, easy to dance
+    - From 11:50 to 12:00, dancefloor had a handful of people
+    - Left at 12:00 due to boredom of music and lack of people
 - $8 Hangar and sprite (before 11PM)
 - $9 Hangar and sprite (after 11PM)
 

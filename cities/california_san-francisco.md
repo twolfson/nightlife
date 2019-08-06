@@ -34,6 +34,19 @@
 - No cover
 - Sometimes has a live band
 
+## 520
+- 1 floor
+    - Basement
+        - 1 big room for 120 people, medium bar and rest is dancefloor
+            - Had spinning tilted half disco ball
+            - Asymmetrical LED strips behind diffuser
+        - 1 small room for 30 people, no dancefloor
+- Went on a Saturday (2019/07/20)
+    - $20 cover at door
+    - From 1:50AM to 2:50AM, went from light count to loose crowd (prob 20 to 50 people). Could always dance
+    - $11 vodka sour
+    - $12 Tito's sour
+
 ## 715 Harrison Street
 - Still need to visit
 - Looks very mega club oriented

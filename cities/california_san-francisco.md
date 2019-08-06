@@ -138,8 +138,21 @@
     - At 10:50, no line
     - From 10:50 to 12:50, slowly went from crowded with room to dance to half-packed
     - From 10:50 to 11:15, upstairs was closed then later opened
-- $9 tequila sour
-- $13 Tito's sour
+    - $9 tequila sour
+    - $13 Tito's sour
+- Went on a Friday (2019/07/13)
+    - $16 door, would be $15+6 online iirc
+    - At 10:40, not much line
+    - From 10:40 to 11:30
+        - Downstairs crowded
+        - Upstairs slowly moving from light to loose crowd, could dance
+    - From 11:30 to 12:40, downstairs stayed crowded and upstairs stayed loosely crowded
+    - From 12:40 to 1:30
+        - Upstairs slowly moved to light crowd
+        - Downstairs slowly moved to loose crowd
+    - Green room locked all night (tried 3 times)
+    - $13 vodka sour
+    - $14 Tito's sour
 
 ## Balancoire
 - Medium size dance floor

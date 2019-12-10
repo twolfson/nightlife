@@ -60,6 +60,23 @@
 - $17 for vodka sprite (I think well was Absolut though)
 - $5 coat check (prob only normally priced thing)
 
+## Good Room
+- 1 floor
+    - Upstairs
+        - 1 large room (main room), all dancefloor (90 people max)
+        - 1 medium room with medium bar (50 people max)
+        - 1 small room, all dancefloor (30 people max)
+        - 1 tiny room, table only (10 people max)
+- Went on a Saturday (2019/11/30)
+    - $20 door cover, free if RSVP online before midnight
+    - $3 coat check
+    - $13 for Malibu and coke
+    - From 11:10 to 11:40, all rooms had a handful of people each
+    - From 11:40 to 12:40
+        - Main room was loosely full with room to dance (45 people)
+        - Bar had 10-20 people
+        - Small dancefloor had a handful of people
+
 ## Pyramid Club
 - 2 floors
     - Ground floor
